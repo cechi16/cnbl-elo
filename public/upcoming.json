@@ -1,1 +1,80 @@
-[]
+[
+  {
+    "Date": "2026-04-21",
+    "HomeTeam": "Sr\u0161ni Photomate P\u00EDsek",
+    "AwayTeam": "USK Praha",
+    "Time": ""
+  },
+  {
+    "Date": "2026-04-21",
+    "HomeTeam": "Srsni Pisek",
+    "AwayTeam": "USK Prague",
+    "Time": "17:00"
+  },
+  {
+    "Date": "2026-04-22",
+    "HomeTeam": "NH Ostrava",
+    "AwayTeam": "Olomoucko",
+    "Time": "18:00"
+  },
+  {
+    "Date": "2026-04-23",
+    "HomeTeam": "USK Prague",
+    "AwayTeam": "Srsni Pisek",
+    "Time": "18:00"
+  },
+  {
+    "Date": "2026-04-24",
+    "HomeTeam": "Olomoucko",
+    "AwayTeam": "NH Ostrava",
+    "Time": "18:00"
+  },
+  {
+    "Date": "2026-04-27",
+    "HomeTeam": "Brno",
+    "AwayTeam": "Decin",
+    "Time": "18:00"
+  },
+  {
+    "Date": "2026-04-28",
+    "HomeTeam": "Brno",
+    "AwayTeam": "Decin",
+    "Time": "18:00"
+  },
+  {
+    "Date": "2026-04-28",
+    "HomeTeam": "Usti n. Labem",
+    "AwayTeam": "Opava",
+    "Time": "18:00"
+  },
+  {
+    "Date": "2026-04-29",
+    "HomeTeam": "Usti n. Labem",
+    "AwayTeam": "Opava",
+    "Time": "18:00"
+  },
+  {
+    "Date": "2026-05-01",
+    "HomeTeam": "Decin",
+    "AwayTeam": "Brno",
+    "Time": "18:00"
+  },
+  {
+    "Date": "2026-05-02",
+    "HomeTeam": "Decin",
+    "AwayTeam": "Brno",
+    "Time": "18:00"
+  },
+  {
+    "Date": "2026-05-02",
+    "HomeTeam": "Opava",
+    "AwayTeam": "Usti n. Labem",
+    "Time": "19:00"
+  },
+  {
+    "Date": "2026-05-03",
+    "HomeTeam": "Opava",
+    "AwayTeam": "Usti n. Labem",
+    "Time": "18:00"
+  }
+]

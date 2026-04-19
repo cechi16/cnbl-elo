@@ -2078,5 +2078,45 @@
     "Source": "nbl.basketball",
     "Verified": true,
     "MatchKey": "2026-04-12_pumpa_basket_brno_sluneta_\u00FAst\u00ED_nad_labem"
+  },
+  {
+    "HomeTeam": "BK ARMEX ENERGY D\u011B\u010D\u00EDn",
+    "AwayTeam": "SLUNETA \u00DAst\u00ED nad Labem",
+    "HomeScore": 85,
+    "AwayScore": 80,
+    "Date": "2026-04-18",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2026-04-18_bk_armex_energy_d\u011B\u010D\u00EDn_sluneta_\u00FAst\u00ED_nad_labem"
+  },
+  {
+    "HomeTeam": "BK Opava",
+    "AwayTeam": "NH Ostrava",
+    "HomeScore": 100,
+    "AwayScore": 68,
+    "Date": "2026-04-18",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2026-04-18_bk_opava_nh_ostrava"
+  },
+  {
+    "HomeTeam": "PUMPA Basket Brno",
+    "AwayTeam": "ERA Basketball Nymburk",
+    "HomeScore": 79,
+    "AwayScore": 106,
+    "Date": "2026-04-18",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2026-04-18_pumpa_basket_brno_era_basketball_nymburk"
+  },
+  {
+    "HomeTeam": "BK KVIS Pardubice",
+    "AwayTeam": "Sr\u0161ni Photomate P\u00EDsek",
+    "HomeScore": 100,
+    "AwayScore": 95,
+    "Date": "2026-04-18",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2026-04-18_bk_kvis_pardubice_sr\u0161ni_photomate_p\u00EDsek"
   }
 ]
