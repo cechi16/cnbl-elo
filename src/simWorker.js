@@ -6,7 +6,7 @@ function expectedScore(ra, rb) {
 
 function teamsMatch(full, short) {
   if (!full || !short) return false;
-  const norm = s => s.toLowerCase().replace(/[^a-z0-9]/g, "");
+  const norm = s => s.toLowerCase().normalize("NFD").replace(/[\u0300-\u036f]/g, "").replace(/[^a-z0-9]/g, "");
   return norm(full).includes(norm(short)) || norm(short).includes(norm(full));
 }
 
