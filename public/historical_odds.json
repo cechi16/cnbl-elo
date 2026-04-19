@@ -1,0 +1,2954 @@
+[
+  {
+    "MatchId": "vDWcJ52d",
+    "Date": "2026-04-18",
+    "HomeTeam": "Brno",
+    "AwayTeam": "Nymburk",
+    "HomeScore": 79,
+    "AwayScore": 106,
+    "Bookmakers": {
+      "Tipsport": {
+        "OpenHome": 4.9,
+        "CloseHome": 3.83,
+        "OpenAway": 1.14,
+        "CloseAway": 1.23
+      },
+      "Fortuna": {
+        "OpenHome": 4.9,
+        "CloseHome": 4.1,
+        "OpenAway": 1.14,
+        "CloseAway": 1.19
+      },
+      "Betano": {
+        "OpenHome": 3.6,
+        "CloseHome": 3.95,
+        "OpenAway": 1.25,
+        "CloseAway": 1.21
+      }
+    }
+  },
+  {
+    "MatchId": "lrhJQmAM",
+    "Date": "2026-04-18",
+    "HomeTeam": "Decin",
+    "AwayTeam": "Usti n. Labem",
+    "HomeScore": 85,
+    "AwayScore": 80,
+    "Bookmakers": {
+      "Tipsport": {
+        "OpenHome": 2.1,
+        "CloseHome": 2.08,
+        "OpenAway": 1.66,
+        "CloseAway": 1.7
+      },
+      "Fortuna": {
+        "OpenHome": 2.1,
+        "CloseHome": 2.02,
+        "OpenAway": 1.66,
+        "CloseAway": 1.71
+      },
+      "Betano": {
+        "OpenHome": 2,
+        "CloseHome": 2.1,
+        "OpenAway": 1.72,
+        "CloseAway": 1.65
+      }
+    }
+  },
+  {
+    "MatchId": "6aYkLRXq",
+    "Date": "2026-04-18",
+    "HomeTeam": "Opava",
+    "AwayTeam": "NH Ostrava",
+    "HomeScore": 100,
+    "AwayScore": 68,
+    "Bookmakers": {
+      "Tipsport": {
+        "OpenHome": 1.07,
+        "CloseHome": 1.04,
+        "OpenAway": 6.89,
+        "CloseAway": 8.97
+      },
+      "Fortuna": {
+        "OpenHome": 1.07,
+        "CloseHome": 1.03,
+        "OpenAway": 6.8,
+        "CloseAway": 9
+      },
+      "Betano": {
+        "OpenHome": 1.09,
+        "CloseHome": 1.06,
+        "OpenAway": 6.1,
+        "CloseAway": 7.5
+      }
+    }
+  },
+  {
+    "MatchId": "fLEps9f3",
+    "Date": "2026-04-18",
+    "HomeTeam": "Pardubice",
+    "AwayTeam": "Srsni Pisek",
+    "HomeScore": 100,
+    "AwayScore": 95,
+    "Bookmakers": {
+      "Tipsport": {
+        "OpenHome": 1.22,
+        "CloseHome": 1.09,
+        "OpenAway": 3.74,
+        "CloseAway": 6.48
+      },
+      "Fortuna": {
+        "OpenHome": 1.22,
+        "CloseHome": 1.08,
+        "OpenAway": 3.75,
+        "CloseAway": 6.6
+      },
+      "Betano": {
+        "OpenHome": 1.11,
+        "CloseHome": 1.09,
+        "OpenAway": 5.7,
+        "CloseAway": 6.2
+      }
+    }
+  },
+  {
+    "MatchId": "C4JRUv5t",
+    "Date": "2026-04-12",
+    "HomeTeam": "Brno",
+    "AwayTeam": "Usti n. Labem",
+    "HomeScore": 84,
+    "AwayScore": 88,
+    "Bookmakers": {
+      "Tipsport": {
+        "OpenHome": 1.4,
+        "CloseHome": 1.44,
+        "OpenAway": 2.66,
+        "CloseAway": 2.51
+      },
+      "Fortuna": {
+        "OpenHome": 1.4,
+        "CloseHome": 1.47,
+        "OpenAway": 2.65,
+        "CloseAway": 2.5
+      },
+      "Betano": {
+        "OpenHome": 1.37,
+        "CloseHome": 1.42,
+        "OpenAway": 2.85,
+        "CloseAway": 2.65
+      }
+    }
+  },
+  {
+    "MatchId": "Iy796PNE",
+    "Date": "2026-04-11",
+    "HomeTeam": "Hradec Kralove",
+    "AwayTeam": "Olomoucko",
+    "HomeScore": 86,
+    "AwayScore": 84,
+    "Bookmakers": {
+      "Tipsport": {
+        "OpenHome": 1.62,
+        "CloseHome": 1.77,
+        "OpenAway": 2.19,
+        "CloseAway": 1.94
+      },
+      "Fortuna": {
+        "OpenHome": 1.76,
+        "CloseHome": 1.88,
+        "OpenAway": 1.92,
+        "CloseAway": 1.82
+      },
+      "Betano": {
+        "OpenHome": 1.78,
+        "CloseHome": 1.93,
+        "OpenAway": 1.93,
+        "CloseAway": 1.78
+      }
+    }
+  },
+  {
+    "MatchId": "j91YdCjI",
+    "Date": "2026-04-11",
+    "HomeTeam": "USK Prague",
+    "AwayTeam": "Slavia Prague",
+    "HomeScore": 76,
+    "AwayScore": 81,
+    "Bookmakers": {
+      "Tipsport": {
+        "OpenHome": 1.49,
+        "CloseHome": 1.5,
+        "OpenAway": 2.42,
+        "CloseAway": 2.38
+      },
+      "Fortuna": {
+        "OpenHome": null,
+        "CloseHome": 1.52,
+        "OpenAway": 2.31,
+        "CloseAway": 2.37
+      },
+      "Betano": {
+        "OpenHome": 1.53,
+        "CloseHome": 1.55,
+        "OpenAway": 2.32,
+        "CloseAway": 2.3
+      }
+    }
+  },
+  {
+    "MatchId": "8jgHAyKO",
+    "Date": "2026-04-11",
+    "HomeTeam": "Decin",
+    "AwayTeam": "Opava",
+    "HomeScore": 70,
+    "AwayScore": 78,
+    "Bookmakers": {
+      "Tipsport": {
+        "OpenHome": 1.93,
+        "CloseHome": 2.34,
+        "OpenAway": 1.78,
+        "CloseAway": 1.52
+      },
+      "Fortuna": {
+        "OpenHome": 1.67,
+        "CloseHome": 2.55,
+        "OpenAway": 2.04,
+        "CloseAway": 1.45
+      },
+      "Betano": {
+        "OpenHome": 1.7,
+        "CloseHome": 2.72,
+        "OpenAway": 2.05,
+        "CloseAway": 1.4
+      }
+    }
+  },
+  {
+    "MatchId": "GdGrRd45",
+    "Date": "2026-04-11",
+    "HomeTeam": "Srsni Pisek",
+    "AwayTeam": "Nymburk",
+    "HomeScore": 78,
+    "AwayScore": 106,
+    "Bookmakers": {
+      "Tipsport": {
+        "OpenHome": 6.72,
+        "CloseHome": 8.28,
+        "OpenAway": 1.07,
+        "CloseAway": 1.03
+      },
+      "Fortuna": {
+        "OpenHome": 7,
+        "CloseHome": 9.8,
+        "OpenAway": 1.05,
+        "CloseAway": 1.02
+      },
+      "Betano": {
+        "OpenHome": 6.8,
+        "CloseHome": 8.25,
+        "OpenAway": 1.07,
+        "CloseAway": 1.04
+      }
+    }
+  },
+  {
+    "MatchId": "C0qvAJo4",
+    "Date": "2026-04-09",
+    "HomeTeam": "Slavia Prague",
+    "AwayTeam": "Olomoucko",
+    "HomeScore": 81,
+    "AwayScore": 88,
+    "Bookmakers": {
+      "Tipsport": {
+        "OpenHome": 1.99,
+        "CloseHome": 1.91,
+        "OpenAway": 1.74,
+        "CloseAway": 1.79
+      },
+      "Fortuna": {
+        "OpenHome": 2,
+        "CloseHome": 1.85,
+        "OpenAway": 1.72,
+        "CloseAway": 1.85
+      },
+      "Betano": {
+        "OpenHome": 1.95,
+        "CloseHome": 1.88,
+        "OpenAway": 1.75,
+        "CloseAway": 1.82
+      }
+    }
+  },
+  {
+    "MatchId": "AaoIv1GE",
+    "Date": "2026-04-09",
+    "HomeTeam": "Nymburk",
+    "AwayTeam": "Usti n. Labem",
+    "HomeScore": 107,
+    "AwayScore": 94,
+    "Bookmakers": {
+      "Tipsport": {
+        "OpenHome": 1.13,
+        "CloseHome": 1.07,
+        "OpenAway": 5.2,
+        "CloseAway": 6.88
+      },
+      "Fortuna": {
+        "OpenHome": null,
+        "CloseHome": 1.04,
+        "OpenAway": 7.8,
+        "CloseAway": 8.4
+      },
+      "Betano": {
+        "OpenHome": 1.07,
+        "CloseHome": 1.04,
+        "OpenAway": 7,
+        "CloseAway": 8.5
+      }
+    }
+  },
+  {
+    "MatchId": "tIlBS9uA",
+    "Date": "2026-04-05",
+    "HomeTeam": "Usti n. Labem",
+    "AwayTeam": "Opava",
+    "HomeScore": 98,
+    "AwayScore": 95,
+    "Bookmakers": {
+      "Tipsport": {
+        "OpenHome": 1.45,
+        "CloseHome": 1.42,
+        "OpenAway": 2.53,
+        "CloseAway": 2.58
+      },
+      "Fortuna": {
+        "OpenHome": null,
+        "CloseHome": 1.42,
+        "OpenAway": 2.6,
+        "CloseAway": 2.65
+      },
+      "Betano": {
+        "OpenHome": 1.4,
+        "CloseHome": 1.44,
+        "OpenAway": 2.75,
+        "CloseAway": 2.62
+      }
+    }
+  },
+  {
+    "MatchId": "K202UVAc",
+    "Date": "2026-04-05",
+    "HomeTeam": "Srsni Pisek",
+    "AwayTeam": "Decin",
+    "HomeScore": 91,
+    "AwayScore": 76,
+    "Bookmakers": {
+      "Tipsport": {
+        "OpenHome": 1.69,
+        "CloseHome": 2,
+        "OpenAway": 2.06,
+        "CloseAway": 1.73
+      },
+      "Fortuna": {
+        "OpenHome": 1.7,
+        "CloseHome": 1.67,
+        "OpenAway": 2.05,
+        "CloseAway": 2.07
+      },
+      "Betano": {
+        "OpenHome": 1.34,
+        "CloseHome": 2.18,
+        "OpenAway": 3,
+        "CloseAway": 1.62
+      }
+    }
+  },
+  {
+    "MatchId": "2TOMrMV7",
+    "Date": "2026-04-04",
+    "HomeTeam": "Olomoucko",
+    "AwayTeam": "USK Prague",
+    "HomeScore": 95,
+    "AwayScore": 65,
+    "Bookmakers": {
+      "Tipsport": {
+        "OpenHome": 1.49,
+        "CloseHome": 1.25,
+        "OpenAway": 2.42,
+        "CloseAway": 3.39
+      },
+      "Fortuna": {
+        "OpenHome": 1.5,
+        "CloseHome": 1.37,
+        "OpenAway": 2.4,
+        "CloseAway": 2.85
+      },
+      "Betano": {
+        "OpenHome": 1.57,
+        "CloseHome": 1.5,
+        "OpenAway": 2.25,
+        "CloseAway": 2.42
+      }
+    }
+  },
+  {
+    "MatchId": "Y9O4eKWA",
+    "Date": "2026-04-04",
+    "HomeTeam": "Slavia Prague",
+    "AwayTeam": "Hradec Kralove",
+    "HomeScore": 89,
+    "AwayScore": 97,
+    "Bookmakers": {
+      "Tipsport": {
+        "OpenHome": 1.66,
+        "CloseHome": 1.5,
+        "OpenAway": 2.12,
+        "CloseAway": 2.38
+      },
+      "Fortuna": {
+        "OpenHome": 1.67,
+        "CloseHome": 1.46,
+        "OpenAway": 2.1,
+        "CloseAway": 2.55
+      },
+      "Betano": {
+        "OpenHome": 1.6,
+        "CloseHome": 1.47,
+        "OpenAway": 2.18,
+        "CloseAway": 2.52
+      }
+    }
+  },
+  {
+    "MatchId": "hd8G6SIj",
+    "Date": "2026-04-04",
+    "HomeTeam": "NH Ostrava",
+    "AwayTeam": "Brno",
+    "HomeScore": 77,
+    "AwayScore": 102,
+    "Bookmakers": {
+      "Tipsport": {
+        "OpenHome": 3.74,
+        "CloseHome": 4.22,
+        "OpenAway": 1.22,
+        "CloseAway": 1.17
+      },
+      "Fortuna": {
+        "OpenHome": 3.75,
+        "CloseHome": 3.85,
+        "OpenAway": null,
+        "CloseAway": 1.22
+      },
+      "Betano": {
+        "OpenHome": 2.92,
+        "CloseHome": 4.3,
+        "OpenAway": 1.35,
+        "CloseAway": 1.18
+      }
+    }
+  },
+  {
+    "MatchId": "lAEjPzZH",
+    "Date": "2026-04-04",
+    "HomeTeam": "Nymburk",
+    "AwayTeam": "Pardubice",
+    "HomeScore": 88,
+    "AwayScore": 86,
+    "Bookmakers": {
+      "Tipsport": {
+        "OpenHome": 1.19,
+        "CloseHome": 1.12,
+        "OpenAway": 4.1,
+        "CloseAway": 5.19
+      },
+      "Fortuna": {
+        "OpenHome": 1.18,
+        "CloseHome": 1.09,
+        "OpenAway": 4.2,
+        "CloseAway": 6
+      },
+      "Betano": {
+        "OpenHome": 1.12,
+        "CloseHome": 1.11,
+        "OpenAway": 5.4,
+        "CloseAway": 5.6
+      }
+    }
+  },
+  {
+    "MatchId": "KUMZSIZh",
+    "Date": "2026-04-01",
+    "HomeTeam": "NH Ostrava",
+    "AwayTeam": "Pardubice",
+    "HomeScore": 93,
+    "AwayScore": 101,
+    "Bookmakers": {
+      "Tipsport": {
+        "OpenHome": 3.74,
+        "CloseHome": 3.22,
+        "OpenAway": 1.22,
+        "CloseAway": 1.27
+      },
+      "Fortuna": {
+        "OpenHome": 3.75,
+        "CloseHome": 4.3,
+        "OpenAway": 1.22,
+        "CloseAway": 1.18
+      },
+      "Betano": {
+        "OpenHome": 4.9,
+        "CloseHome": 3.1,
+        "OpenAway": 1.14,
+        "CloseAway": 1.32
+      }
+    }
+  },
+  {
+    "MatchId": "2gj9CckC",
+    "Date": "2026-03-29",
+    "HomeTeam": "Usti n. Labem",
+    "AwayTeam": "Pardubice",
+    "HomeScore": 89,
+    "AwayScore": 101,
+    "Bookmakers": {
+      "Tipsport": {
+        "OpenHome": 1.81,
+        "CloseHome": 1.82,
+        "OpenAway": 1.91,
+        "CloseAway": 1.88
+      },
+      "Fortuna": {
+        "OpenHome": 1.8,
+        "CloseHome": 1.84,
+        "OpenAway": 1.9,
+        "CloseAway": 1.86
+      },
+      "Betano": {
+        "OpenHome": 2.3,
+        "CloseHome": 1.85,
+        "OpenAway": 1.55,
+        "CloseAway": 1.85
+      }
+    }
+  },
+  {
+    "MatchId": "6Rd0EJKa",
+    "Date": "2026-03-29",
+    "HomeTeam": "Srsni Pisek",
+    "AwayTeam": "NH Ostrava",
+    "HomeScore": 104,
+    "AwayScore": 81,
+    "Bookmakers": {
+      "Tipsport": {
+        "OpenHome": 1.36,
+        "CloseHome": 1.52,
+        "OpenAway": 2.83,
+        "CloseAway": 2.34
+      },
+      "Fortuna": {
+        "OpenHome": 1.4,
+        "CloseHome": 1.52,
+        "OpenAway": 2.65,
+        "CloseAway": 2.37
+      },
+      "Betano": {
+        "OpenHome": 1.22,
+        "CloseHome": 1.52,
+        "OpenAway": 3.8,
+        "CloseAway": 2.37
+      }
+    }
+  },
+  {
+    "MatchId": "YDbhGujm",
+    "Date": "2026-03-28",
+    "HomeTeam": "Opava",
+    "AwayTeam": "Brno",
+    "HomeScore": 66,
+    "AwayScore": 76,
+    "Bookmakers": {
+      "Tipsport": {
+        "OpenHome": 1.79,
+        "CloseHome": 1.7,
+        "OpenAway": 1.93,
+        "CloseAway": 2.03
+      },
+      "Fortuna": {
+        "OpenHome": 1.85,
+        "CloseHome": 1.62,
+        "OpenAway": 1.82,
+        "CloseAway": 2.16
+      },
+      "Betano": {
+        "OpenHome": 1.88,
+        "CloseHome": 1.62,
+        "OpenAway": 1.83,
+        "CloseAway": 2.15
+      }
+    }
+  },
+  {
+    "MatchId": "fs8PbYL5",
+    "Date": "2026-03-28",
+    "HomeTeam": "Hradec Kralove",
+    "AwayTeam": "USK Prague",
+    "HomeScore": 97,
+    "AwayScore": 69,
+    "Bookmakers": {
+      "Tipsport": {
+        "OpenHome": 2.37,
+        "CloseHome": 2.24,
+        "OpenAway": 1.52,
+        "CloseAway": 1.58
+      },
+      "Fortuna": {
+        "OpenHome": 11,
+        "CloseHome": 2.06,
+        "OpenAway": null,
+        "CloseAway": 1.68
+      },
+      "Betano": {
+        "OpenHome": 2.07,
+        "CloseHome": 2.15,
+        "OpenAway": 1.67,
+        "CloseAway": 1.62
+      }
+    }
+  },
+  {
+    "MatchId": "ETHLL1SP",
+    "Date": "2026-03-28",
+    "HomeTeam": "Nymburk",
+    "AwayTeam": "Decin",
+    "HomeScore": 110,
+    "AwayScore": 76,
+    "Bookmakers": {
+      "Tipsport": {
+        "OpenHome": 1.02,
+        "CloseHome": 1.03,
+        "OpenAway": 10.9,
+        "CloseAway": 8.96
+      },
+      "Betano": {
+        "OpenHome": null,
+        "CloseHome": 1.03,
+        "OpenAway": 9,
+        "CloseAway": 9.75
+      }
+    }
+  },
+  {
+    "MatchId": "MT9H0fig",
+    "Date": "2026-04-11",
+    "HomeTeam": "USK Prague",
+    "AwayTeam": "Slavia Prague",
+    "HomeScore": 76,
+    "AwayScore": 81,
+    "Bookmakers": {
+      "Tipsport": {
+        "OpenHome": 1.49,
+        "CloseHome": 1.5,
+        "OpenAway": 2.42,
+        "CloseAway": 2.38
+      },
+      "Fortuna": {
+        "OpenHome": null,
+        "CloseHome": 1.52,
+        "OpenAway": 2.31,
+        "CloseAway": 2.37
+      },
+      "Betano": {
+        "OpenHome": 1.53,
+        "CloseHome": 1.55,
+        "OpenAway": 2.32,
+        "CloseAway": 2.3
+      }
+    }
+  },
+  {
+    "MatchId": "rPqA326s",
+    "Date": "2026-03-25",
+    "HomeTeam": "Decin",
+    "AwayTeam": "Brno",
+    "HomeScore": 77,
+    "AwayScore": 81,
+    "Bookmakers": {
+      "Tipsport": {
+        "OpenHome": 1.77,
+        "CloseHome": 2.3,
+        "OpenAway": 1.96,
+        "CloseAway": 1.54
+      },
+      "Fortuna": {
+        "OpenHome": 1.59,
+        "CloseHome": 2.33,
+        "OpenAway": 2.17,
+        "CloseAway": 1.54
+      },
+      "Betano": {
+        "OpenHome": 1.62,
+        "CloseHome": 2.18,
+        "OpenAway": 2.18,
+        "CloseAway": 1.62
+      }
+    }
+  },
+  {
+    "MatchId": "nHtRaK56",
+    "Date": "2026-03-25",
+    "HomeTeam": "Srsni Pisek",
+    "AwayTeam": "Usti n. Labem",
+    "HomeScore": 84,
+    "AwayScore": 91,
+    "Bookmakers": {
+      "Tipsport": {
+        "OpenHome": 1.84,
+        "CloseHome": 1.8,
+        "OpenAway": 1.87,
+        "CloseAway": 1.91
+      },
+      "Fortuna": {
+        "OpenHome": 1.71,
+        "CloseHome": 1.93,
+        "OpenAway": 1.98,
+        "CloseAway": 1.78
+      },
+      "Betano": {
+        "OpenHome": 1.75,
+        "CloseHome": 2.1,
+        "OpenAway": 1.98,
+        "CloseAway": 1.65
+      }
+    }
+  },
+  {
+    "MatchId": "viwJ1tyf",
+    "Date": "2026-03-25",
+    "HomeTeam": "Pardubice",
+    "AwayTeam": "Opava",
+    "HomeScore": 79,
+    "AwayScore": 75,
+    "Bookmakers": {
+      "Tipsport": {
+        "OpenHome": 1.24,
+        "CloseHome": 1.13,
+        "OpenAway": 3.56,
+        "CloseAway": 5.04
+      },
+      "Fortuna": {
+        "OpenHome": null,
+        "CloseHome": 1.11,
+        "OpenAway": 5.4,
+        "CloseAway": 5.6
+      },
+      "Betano": {
+        "OpenHome": 1.13,
+        "CloseHome": 1.14,
+        "OpenAway": 5.1,
+        "CloseAway": 5
+      }
+    }
+  },
+  {
+    "MatchId": "f3LEpr1e",
+    "Date": "2026-04-11",
+    "HomeTeam": "Hradec Kralove",
+    "AwayTeam": "Olomoucko",
+    "HomeScore": 86,
+    "AwayScore": 84,
+    "Bookmakers": {
+      "Tipsport": {
+        "OpenHome": 1.62,
+        "CloseHome": 1.77,
+        "OpenAway": 2.19,
+        "CloseAway": 1.94
+      },
+      "Fortuna": {
+        "OpenHome": 1.76,
+        "CloseHome": 1.88,
+        "OpenAway": 1.92,
+        "CloseAway": 1.82
+      },
+      "Betano": {
+        "OpenHome": 1.78,
+        "CloseHome": 1.93,
+        "OpenAway": 1.93,
+        "CloseAway": 1.78
+      }
+    }
+  },
+  {
+    "MatchId": "ngbv9OrK",
+    "Date": "2026-04-09",
+    "HomeTeam": "Nymburk",
+    "AwayTeam": "Usti n. Labem",
+    "HomeScore": 107,
+    "AwayScore": 94,
+    "Bookmakers": {
+      "Tipsport": {
+        "OpenHome": 1.13,
+        "CloseHome": 1.07,
+        "OpenAway": 5.2,
+        "CloseAway": 6.88
+      },
+      "Fortuna": {
+        "OpenHome": null,
+        "CloseHome": 1.04,
+        "OpenAway": 7.8,
+        "CloseAway": 8.4
+      },
+      "Betano": {
+        "OpenHome": 1.07,
+        "CloseHome": 1.04,
+        "OpenAway": 7,
+        "CloseAway": 8.5
+      }
+    }
+  },
+  {
+    "MatchId": "vwbpmsM0",
+    "Date": "2026-03-21",
+    "HomeTeam": "Opava",
+    "AwayTeam": "Srsni Pisek",
+    "HomeScore": 86,
+    "AwayScore": 70,
+    "Bookmakers": {
+      "Tipsport": {
+        "OpenHome": 1.46,
+        "CloseHome": 1.45,
+        "OpenAway": 2.48,
+        "CloseAway": 2.5
+      },
+      "Fortuna": {
+        "OpenHome": 1.34,
+        "CloseHome": 1.53,
+        "OpenAway": 2.95,
+        "CloseAway": 2.34
+      },
+      "Betano": {
+        "OpenHome": 1.35,
+        "CloseHome": 1.55,
+        "OpenAway": 2.95,
+        "CloseAway": 2.32
+      }
+    }
+  },
+  {
+    "MatchId": "xrVect2b",
+    "Date": "2026-04-04",
+    "HomeTeam": "Slavia Prague",
+    "AwayTeam": "Hradec Kralove",
+    "HomeScore": 89,
+    "AwayScore": 97,
+    "Bookmakers": {
+      "Tipsport": {
+        "OpenHome": 1.66,
+        "CloseHome": 1.5,
+        "OpenAway": 2.12,
+        "CloseAway": 2.38
+      },
+      "Fortuna": {
+        "OpenHome": 1.67,
+        "CloseHome": 1.46,
+        "OpenAway": 2.1,
+        "CloseAway": 2.55
+      },
+      "Betano": {
+        "OpenHome": 1.6,
+        "CloseHome": 1.47,
+        "OpenAway": 2.18,
+        "CloseAway": 2.52
+      }
+    }
+  },
+  {
+    "MatchId": "n31hoLjD",
+    "Date": "2026-03-21",
+    "HomeTeam": "Brno",
+    "AwayTeam": "Pardubice",
+    "HomeScore": 78,
+    "AwayScore": 68,
+    "Bookmakers": {
+      "Tipsport": {
+        "OpenHome": 2.1,
+        "CloseHome": 1.72,
+        "OpenAway": 1.66,
+        "CloseAway": 2.01
+      },
+      "Fortuna": {
+        "OpenHome": 3.3,
+        "CloseHome": 1.72,
+        "OpenAway": 1.27,
+        "CloseAway": 2.01
+      },
+      "Betano": {
+        "OpenHome": 3.3,
+        "CloseHome": 1.62,
+        "OpenAway": 1.29,
+        "CloseAway": 2.18
+      }
+    }
+  },
+  {
+    "MatchId": "IN9yk3il",
+    "Date": "2026-03-21",
+    "HomeTeam": "Decin",
+    "AwayTeam": "NH Ostrava",
+    "HomeScore": 81,
+    "AwayScore": 77,
+    "Bookmakers": {
+      "Tipsport": {
+        "OpenHome": 1.25,
+        "CloseHome": 1.19,
+        "OpenAway": 3.41,
+        "CloseAway": 3.97
+      },
+      "Fortuna": {
+        "OpenHome": 1.21,
+        "CloseHome": 1.17,
+        "OpenAway": 3.8,
+        "CloseAway": 4.4
+      },
+      "Betano": {
+        "OpenHome": 1.23,
+        "CloseHome": 1.21,
+        "OpenAway": 3.8,
+        "CloseAway": 3.9
+      }
+    }
+  },
+  {
+    "MatchId": "YmX5n4Wr",
+    "Date": "2026-04-04",
+    "HomeTeam": "Olomoucko",
+    "AwayTeam": "USK Prague",
+    "HomeScore": 95,
+    "AwayScore": 65,
+    "Bookmakers": {
+      "Tipsport": {
+        "OpenHome": 1.49,
+        "CloseHome": 1.25,
+        "OpenAway": 2.42,
+        "CloseAway": 3.39
+      },
+      "Fortuna": {
+        "OpenHome": 1.5,
+        "CloseHome": 1.37,
+        "OpenAway": 2.4,
+        "CloseAway": 2.85
+      },
+      "Betano": {
+        "OpenHome": 1.57,
+        "CloseHome": 1.5,
+        "OpenAway": 2.25,
+        "CloseAway": 2.42
+      }
+    }
+  },
+  {
+    "MatchId": "GbJNsRSN",
+    "Date": "2026-04-11",
+    "HomeTeam": "Srsni Pisek",
+    "AwayTeam": "Nymburk",
+    "HomeScore": 78,
+    "AwayScore": 106,
+    "Bookmakers": {
+      "Tipsport": {
+        "OpenHome": 6.72,
+        "CloseHome": 8.28,
+        "OpenAway": 1.07,
+        "CloseAway": 1.03
+      },
+      "Fortuna": {
+        "OpenHome": 7,
+        "CloseHome": 9.8,
+        "OpenAway": 1.05,
+        "CloseAway": 1.02
+      },
+      "Betano": {
+        "OpenHome": 6.8,
+        "CloseHome": 8.25,
+        "OpenAway": 1.07,
+        "CloseAway": 1.04
+      }
+    }
+  },
+  {
+    "MatchId": "tMObmVbn",
+    "Date": "2026-03-28",
+    "HomeTeam": "Opava",
+    "AwayTeam": "Brno",
+    "HomeScore": 66,
+    "AwayScore": 76,
+    "Bookmakers": {
+      "Tipsport": {
+        "OpenHome": 1.79,
+        "CloseHome": 1.7,
+        "OpenAway": 1.93,
+        "CloseAway": 2.03
+      },
+      "Fortuna": {
+        "OpenHome": 1.85,
+        "CloseHome": 1.62,
+        "OpenAway": 1.82,
+        "CloseAway": 2.16
+      },
+      "Betano": {
+        "OpenHome": 1.88,
+        "CloseHome": 1.62,
+        "OpenAway": 1.83,
+        "CloseAway": 2.15
+      }
+    }
+  },
+  {
+    "MatchId": "YZiXX4Hk",
+    "Date": "2026-04-11",
+    "HomeTeam": "Hradec Kralove",
+    "AwayTeam": "Olomoucko",
+    "HomeScore": 86,
+    "AwayScore": 84,
+    "Bookmakers": {
+      "Tipsport": {
+        "OpenHome": 1.62,
+        "CloseHome": 1.77,
+        "OpenAway": 2.19,
+        "CloseAway": 1.94
+      },
+      "Fortuna": {
+        "OpenHome": 1.76,
+        "CloseHome": 1.88,
+        "OpenAway": 1.92,
+        "CloseAway": 1.82
+      },
+      "Betano": {
+        "OpenHome": 1.78,
+        "CloseHome": 1.93,
+        "OpenAway": 1.93,
+        "CloseAway": 1.78
+      }
+    }
+  },
+  {
+    "MatchId": "INRzhQ8L",
+    "Date": "2026-04-09",
+    "HomeTeam": "Slavia Prague",
+    "AwayTeam": "Olomoucko",
+    "HomeScore": 81,
+    "AwayScore": 88,
+    "Bookmakers": {
+      "Tipsport": {
+        "OpenHome": 1.99,
+        "CloseHome": 1.91,
+        "OpenAway": 1.74,
+        "CloseAway": 1.79
+      },
+      "Fortuna": {
+        "OpenHome": 2,
+        "CloseHome": 1.85,
+        "OpenAway": 1.72,
+        "CloseAway": 1.85
+      },
+      "Betano": {
+        "OpenHome": 1.95,
+        "CloseHome": 1.88,
+        "OpenAway": 1.75,
+        "CloseAway": 1.82
+      }
+    }
+  },
+  {
+    "MatchId": "vHM9z4xe",
+    "Date": "2026-03-14",
+    "HomeTeam": "Brno",
+    "AwayTeam": "Srsni Pisek",
+    "HomeScore": 90,
+    "AwayScore": 85,
+    "Bookmakers": {
+      "Tipsport": {
+        "OpenHome": 1.54,
+        "CloseHome": 1.3,
+        "OpenAway": 2.33,
+        "CloseAway": 3.04
+      },
+      "Fortuna": {
+        "OpenHome": 1.48,
+        "CloseHome": 1.32,
+        "OpenAway": 2.42,
+        "CloseAway": 3.1
+      },
+      "Betano": {
+        "OpenHome": 1.5,
+        "CloseHome": 1.32,
+        "OpenAway": 2.42,
+        "CloseAway": 3.1
+      }
+    }
+  },
+  {
+    "MatchId": "nuJ5fPTQ",
+    "Date": "2026-03-14",
+    "HomeTeam": "Decin",
+    "AwayTeam": "Pardubice",
+    "HomeScore": 76,
+    "AwayScore": 90,
+    "Bookmakers": {
+      "Tipsport": {
+        "OpenHome": 2.98,
+        "CloseHome": 3.12,
+        "OpenAway": 1.32,
+        "CloseAway": 1.29
+      },
+      "Fortuna": {
+        "OpenHome": 3.95,
+        "CloseHome": 3.7,
+        "OpenAway": 1.2,
+        "CloseAway": 1.24
+      },
+      "Betano": {
+        "OpenHome": 3.85,
+        "CloseHome": 3.55,
+        "OpenAway": 1.22,
+        "CloseAway": 1.26
+      }
+    }
+  },
+  {
+    "MatchId": "zqGIYs77",
+    "Date": "2026-03-14",
+    "HomeTeam": "Opava",
+    "AwayTeam": "Nymburk",
+    "HomeScore": 105,
+    "AwayScore": 89,
+    "Bookmakers": {
+      "Tipsport": {
+        "OpenHome": 5.88,
+        "CloseHome": 6.92,
+        "OpenAway": 1.1,
+        "CloseAway": 1.06
+      },
+      "Fortuna": {
+        "OpenHome": 5.4,
+        "CloseHome": 8.8,
+        "OpenAway": 1.11,
+        "CloseAway": 1.03
+      },
+      "Betano": {
+        "OpenHome": 5.2,
+        "CloseHome": 7.9,
+        "OpenAway": 1.13,
+        "CloseAway": 1.05
+      }
+    }
+  },
+  {
+    "MatchId": "SUG82GMt",
+    "Date": "2026-03-28",
+    "HomeTeam": "Hradec Kralove",
+    "AwayTeam": "USK Prague",
+    "HomeScore": 97,
+    "AwayScore": 69,
+    "Bookmakers": {
+      "Tipsport": {
+        "OpenHome": 2.37,
+        "CloseHome": 2.24,
+        "OpenAway": 1.52,
+        "CloseAway": 1.58
+      },
+      "Fortuna": {
+        "OpenHome": 11,
+        "CloseHome": 2.06,
+        "OpenAway": null,
+        "CloseAway": 1.68
+      },
+      "Betano": {
+        "OpenHome": 2.07,
+        "CloseHome": 2.15,
+        "OpenAway": 1.67,
+        "CloseAway": 1.62
+      }
+    }
+  },
+  {
+    "MatchId": "Sx34doaE",
+    "Date": "2026-03-14",
+    "HomeTeam": "NH Ostrava",
+    "AwayTeam": "Usti n. Labem",
+    "HomeScore": 87,
+    "AwayScore": 91,
+    "Bookmakers": {
+      "Tipsport": {
+        "OpenHome": 2.33,
+        "CloseHome": 2.35,
+        "OpenAway": 1.54,
+        "CloseAway": 1.51
+      },
+      "Fortuna": {
+        "OpenHome": 2.65,
+        "CloseHome": 2.46,
+        "OpenAway": 1.4,
+        "CloseAway": 1.48
+      },
+      "Betano": {
+        "OpenHome": 2.65,
+        "CloseHome": 2.42,
+        "OpenAway": 1.42,
+        "CloseAway": 1.5
+      }
+    }
+  },
+  {
+    "MatchId": "GxQrQ11L",
+    "Date": "2026-03-14",
+    "HomeTeam": "Opava",
+    "AwayTeam": "Nymburk",
+    "HomeScore": 105,
+    "AwayScore": 89,
+    "Bookmakers": {
+      "Tipsport": {
+        "OpenHome": 5.88,
+        "CloseHome": 6.92,
+        "OpenAway": 1.1,
+        "CloseAway": 1.06
+      },
+      "Fortuna": {
+        "OpenHome": 5.4,
+        "CloseHome": 8.8,
+        "OpenAway": 1.11,
+        "CloseAway": 1.03
+      },
+      "Betano": {
+        "OpenHome": 5.2,
+        "CloseHome": 7.9,
+        "OpenAway": 1.13,
+        "CloseAway": 1.05
+      }
+    }
+  },
+  {
+    "MatchId": "WjJ1xQ7r",
+    "Date": "2026-04-18",
+    "HomeTeam": "Pardubice",
+    "AwayTeam": "Srsni Pisek",
+    "HomeScore": 100,
+    "AwayScore": 95,
+    "Bookmakers": {
+      "Tipsport": {
+        "OpenHome": 1.22,
+        "CloseHome": 1.09,
+        "OpenAway": 3.74,
+        "CloseAway": 6.48
+      },
+      "Fortuna": {
+        "OpenHome": 1.22,
+        "CloseHome": 1.08,
+        "OpenAway": 3.75,
+        "CloseAway": 6.6
+      },
+      "Betano": {
+        "OpenHome": 1.11,
+        "CloseHome": 1.09,
+        "OpenAway": 5.7,
+        "CloseAway": 6.2
+      }
+    }
+  },
+  {
+    "MatchId": "MeYRgnv9",
+    "Date": "2026-04-11",
+    "HomeTeam": "Hradec Kralove",
+    "AwayTeam": "Olomoucko",
+    "HomeScore": 86,
+    "AwayScore": 84,
+    "Bookmakers": {
+      "Tipsport": {
+        "OpenHome": 1.62,
+        "CloseHome": 1.77,
+        "OpenAway": 2.19,
+        "CloseAway": 1.94
+      },
+      "Fortuna": {
+        "OpenHome": 1.76,
+        "CloseHome": 1.88,
+        "OpenAway": 1.92,
+        "CloseAway": 1.82
+      },
+      "Betano": {
+        "OpenHome": 1.78,
+        "CloseHome": 1.93,
+        "OpenAway": 1.93,
+        "CloseAway": 1.78
+      }
+    }
+  },
+  {
+    "MatchId": "2k0ceaFD",
+    "Date": "2026-04-11",
+    "HomeTeam": "USK Prague",
+    "AwayTeam": "Slavia Prague",
+    "HomeScore": 76,
+    "AwayScore": 81,
+    "Bookmakers": {
+      "Tipsport": {
+        "OpenHome": 1.49,
+        "CloseHome": 1.5,
+        "OpenAway": 2.42,
+        "CloseAway": 2.38
+      },
+      "Fortuna": {
+        "OpenHome": null,
+        "CloseHome": 1.52,
+        "OpenAway": 2.31,
+        "CloseAway": 2.37
+      },
+      "Betano": {
+        "OpenHome": 1.53,
+        "CloseHome": 1.55,
+        "OpenAway": 2.32,
+        "CloseAway": 2.3
+      }
+    }
+  },
+  {
+    "MatchId": "C26TfYN9",
+    "Date": "2026-04-18",
+    "HomeTeam": "Brno",
+    "AwayTeam": "Nymburk",
+    "HomeScore": 79,
+    "AwayScore": 106,
+    "Bookmakers": {
+      "Tipsport": {
+        "OpenHome": 4.9,
+        "CloseHome": 3.83,
+        "OpenAway": 1.14,
+        "CloseAway": 1.23
+      },
+      "Fortuna": {
+        "OpenHome": 4.9,
+        "CloseHome": 4.1,
+        "OpenAway": 1.14,
+        "CloseAway": 1.19
+      },
+      "Betano": {
+        "OpenHome": 3.6,
+        "CloseHome": 3.95,
+        "OpenAway": 1.25,
+        "CloseAway": 1.21
+      }
+    }
+  },
+  {
+    "MatchId": "lUYzkrzi",
+    "Date": "2026-04-18",
+    "HomeTeam": "Decin",
+    "AwayTeam": "Usti n. Labem",
+    "HomeScore": 85,
+    "AwayScore": 80,
+    "Bookmakers": {
+      "Tipsport": {
+        "OpenHome": 2.1,
+        "CloseHome": 2.08,
+        "OpenAway": 1.66,
+        "CloseAway": 1.7
+      },
+      "Fortuna": {
+        "OpenHome": 2.1,
+        "CloseHome": 2.02,
+        "OpenAway": 1.66,
+        "CloseAway": 1.71
+      },
+      "Betano": {
+        "OpenHome": 2,
+        "CloseHome": 2.1,
+        "OpenAway": 1.72,
+        "CloseAway": 1.65
+      }
+    }
+  },
+  {
+    "MatchId": "653Ldfgc",
+    "Date": "2026-04-18",
+    "HomeTeam": "Opava",
+    "AwayTeam": "NH Ostrava",
+    "HomeScore": 100,
+    "AwayScore": 68,
+    "Bookmakers": {
+      "Tipsport": {
+        "OpenHome": 1.07,
+        "CloseHome": 1.04,
+        "OpenAway": 6.89,
+        "CloseAway": 8.97
+      },
+      "Fortuna": {
+        "OpenHome": 1.07,
+        "CloseHome": 1.03,
+        "OpenAway": 6.8,
+        "CloseAway": 9
+      },
+      "Betano": {
+        "OpenHome": 1.09,
+        "CloseHome": 1.06,
+        "OpenAway": 6.1,
+        "CloseAway": 7.5
+      }
+    }
+  },
+  {
+    "MatchId": "2kht08rh",
+    "Date": "2026-04-05",
+    "HomeTeam": "Srsni Pisek",
+    "AwayTeam": "Decin",
+    "HomeScore": 91,
+    "AwayScore": 76,
+    "Bookmakers": {
+      "Tipsport": {
+        "OpenHome": 1.69,
+        "CloseHome": 2,
+        "OpenAway": 2.06,
+        "CloseAway": 1.73
+      },
+      "Fortuna": {
+        "OpenHome": 1.7,
+        "CloseHome": 1.67,
+        "OpenAway": 2.05,
+        "CloseAway": 2.07
+      },
+      "Betano": {
+        "OpenHome": 1.34,
+        "CloseHome": 2.18,
+        "OpenAway": 3,
+        "CloseAway": 1.62
+      }
+    }
+  },
+  {
+    "MatchId": "hbm5f4CT",
+    "Date": "2026-04-05",
+    "HomeTeam": "Usti n. Labem",
+    "AwayTeam": "Opava",
+    "HomeScore": 98,
+    "AwayScore": 95,
+    "Bookmakers": {
+      "Tipsport": {
+        "OpenHome": 1.45,
+        "CloseHome": 1.42,
+        "OpenAway": 2.53,
+        "CloseAway": 2.58
+      },
+      "Fortuna": {
+        "OpenHome": null,
+        "CloseHome": 1.42,
+        "OpenAway": 2.6,
+        "CloseAway": 2.65
+      },
+      "Betano": {
+        "OpenHome": 1.4,
+        "CloseHome": 1.44,
+        "OpenAway": 2.75,
+        "CloseAway": 2.62
+      }
+    }
+  },
+  {
+    "MatchId": "O4tkbnD4",
+    "Date": "2026-04-04",
+    "HomeTeam": "Nymburk",
+    "AwayTeam": "Pardubice",
+    "HomeScore": 88,
+    "AwayScore": 86,
+    "Bookmakers": {
+      "Tipsport": {
+        "OpenHome": 1.19,
+        "CloseHome": 1.12,
+        "OpenAway": 4.1,
+        "CloseAway": 5.19
+      },
+      "Fortuna": {
+        "OpenHome": 1.18,
+        "CloseHome": 1.09,
+        "OpenAway": 4.2,
+        "CloseAway": 6
+      },
+      "Betano": {
+        "OpenHome": 1.12,
+        "CloseHome": 1.11,
+        "OpenAway": 5.4,
+        "CloseAway": 5.6
+      }
+    }
+  },
+  {
+    "MatchId": "U1otWrn2",
+    "Date": "2026-04-04",
+    "HomeTeam": "Olomoucko",
+    "AwayTeam": "USK Prague",
+    "HomeScore": 95,
+    "AwayScore": 65,
+    "Bookmakers": {
+      "Tipsport": {
+        "OpenHome": 1.49,
+        "CloseHome": 1.25,
+        "OpenAway": 2.42,
+        "CloseAway": 3.39
+      },
+      "Fortuna": {
+        "OpenHome": 1.5,
+        "CloseHome": 1.37,
+        "OpenAway": 2.4,
+        "CloseAway": 2.85
+      },
+      "Betano": {
+        "OpenHome": 1.57,
+        "CloseHome": 1.5,
+        "OpenAway": 2.25,
+        "CloseAway": 2.42
+      }
+    }
+  },
+  {
+    "MatchId": "dWgddQsH",
+    "Date": "2026-04-04",
+    "HomeTeam": "NH Ostrava",
+    "AwayTeam": "Brno",
+    "HomeScore": 77,
+    "AwayScore": 102,
+    "Bookmakers": {
+      "Tipsport": {
+        "OpenHome": 3.74,
+        "CloseHome": 4.22,
+        "OpenAway": 1.22,
+        "CloseAway": 1.17
+      },
+      "Fortuna": {
+        "OpenHome": 3.75,
+        "CloseHome": 3.85,
+        "OpenAway": null,
+        "CloseAway": 1.22
+      },
+      "Betano": {
+        "OpenHome": 2.92,
+        "CloseHome": 4.3,
+        "OpenAway": 1.35,
+        "CloseAway": 1.18
+      }
+    }
+  },
+  {
+    "MatchId": "4GHla2Xo",
+    "Date": "2026-04-04",
+    "HomeTeam": "Slavia Prague",
+    "AwayTeam": "Hradec Kralove",
+    "HomeScore": 89,
+    "AwayScore": 97,
+    "Bookmakers": {
+      "Tipsport": {
+        "OpenHome": 1.66,
+        "CloseHome": 1.5,
+        "OpenAway": 2.12,
+        "CloseAway": 2.38
+      },
+      "Fortuna": {
+        "OpenHome": 1.67,
+        "CloseHome": 1.46,
+        "OpenAway": 2.1,
+        "CloseAway": 2.55
+      },
+      "Betano": {
+        "OpenHome": 1.6,
+        "CloseHome": 1.47,
+        "OpenAway": 2.18,
+        "CloseAway": 2.52
+      }
+    }
+  },
+  {
+    "MatchId": "joeVBuHi",
+    "Date": "2026-04-09",
+    "HomeTeam": "Slavia Prague",
+    "AwayTeam": "Olomoucko",
+    "HomeScore": 81,
+    "AwayScore": 88,
+    "Bookmakers": {
+      "Tipsport": {
+        "OpenHome": 1.99,
+        "CloseHome": 1.91,
+        "OpenAway": 1.74,
+        "CloseAway": 1.79
+      },
+      "Fortuna": {
+        "OpenHome": 2,
+        "CloseHome": 1.85,
+        "OpenAway": 1.72,
+        "CloseAway": 1.85
+      },
+      "Betano": {
+        "OpenHome": 1.95,
+        "CloseHome": 1.88,
+        "OpenAway": 1.75,
+        "CloseAway": 1.82
+      }
+    }
+  },
+  {
+    "MatchId": "zq0fx5jo",
+    "Date": "2026-04-12",
+    "HomeTeam": "Brno",
+    "AwayTeam": "Usti n. Labem",
+    "HomeScore": 84,
+    "AwayScore": 88,
+    "Bookmakers": {
+      "Tipsport": {
+        "OpenHome": 1.4,
+        "CloseHome": 1.44,
+        "OpenAway": 2.66,
+        "CloseAway": 2.51
+      },
+      "Fortuna": {
+        "OpenHome": 1.4,
+        "CloseHome": 1.47,
+        "OpenAway": 2.65,
+        "CloseAway": 2.5
+      },
+      "Betano": {
+        "OpenHome": 1.37,
+        "CloseHome": 1.42,
+        "OpenAway": 2.85,
+        "CloseAway": 2.65
+      }
+    }
+  },
+  {
+    "MatchId": "tzClcLp1",
+    "Date": "2026-03-28",
+    "HomeTeam": "Hradec Kralove",
+    "AwayTeam": "USK Prague",
+    "HomeScore": 97,
+    "AwayScore": 69,
+    "Bookmakers": {
+      "Tipsport": {
+        "OpenHome": 2.37,
+        "CloseHome": 2.24,
+        "OpenAway": 1.52,
+        "CloseAway": 1.58
+      },
+      "Fortuna": {
+        "OpenHome": 11,
+        "CloseHome": 2.06,
+        "OpenAway": null,
+        "CloseAway": 1.68
+      },
+      "Betano": {
+        "OpenHome": 2.07,
+        "CloseHome": 2.15,
+        "OpenAway": 1.67,
+        "CloseAway": 1.62
+      }
+    }
+  },
+  {
+    "MatchId": "lnS6o9Tb",
+    "Date": "2026-04-11",
+    "HomeTeam": "Decin",
+    "AwayTeam": "Opava",
+    "HomeScore": 70,
+    "AwayScore": 78,
+    "Bookmakers": {
+      "Tipsport": {
+        "OpenHome": 1.93,
+        "CloseHome": 2.34,
+        "OpenAway": 1.78,
+        "CloseAway": 1.52
+      },
+      "Fortuna": {
+        "OpenHome": 1.67,
+        "CloseHome": 2.55,
+        "OpenAway": 2.04,
+        "CloseAway": 1.45
+      },
+      "Betano": {
+        "OpenHome": 1.7,
+        "CloseHome": 2.72,
+        "OpenAway": 2.05,
+        "CloseAway": 1.4
+      }
+    }
+  },
+  {
+    "MatchId": "roLFqmbB",
+    "Date": "2026-04-01",
+    "HomeTeam": "NH Ostrava",
+    "AwayTeam": "Pardubice",
+    "HomeScore": 93,
+    "AwayScore": 101,
+    "Bookmakers": {
+      "Tipsport": {
+        "OpenHome": 3.74,
+        "CloseHome": 3.22,
+        "OpenAway": 1.22,
+        "CloseAway": 1.27
+      },
+      "Fortuna": {
+        "OpenHome": 3.75,
+        "CloseHome": 4.3,
+        "OpenAway": 1.22,
+        "CloseAway": 1.18
+      },
+      "Betano": {
+        "OpenHome": 4.9,
+        "CloseHome": 3.1,
+        "OpenAway": 1.14,
+        "CloseAway": 1.32
+      }
+    }
+  },
+  {
+    "MatchId": "Y98tasGl",
+    "Date": "2026-04-11",
+    "HomeTeam": "USK Prague",
+    "AwayTeam": "Slavia Prague",
+    "HomeScore": 76,
+    "AwayScore": 81,
+    "Bookmakers": {
+      "Tipsport": {
+        "OpenHome": 1.49,
+        "CloseHome": 1.5,
+        "OpenAway": 2.42,
+        "CloseAway": 2.38
+      },
+      "Fortuna": {
+        "OpenHome": null,
+        "CloseHome": 1.52,
+        "OpenAway": 2.31,
+        "CloseAway": 2.37
+      },
+      "Betano": {
+        "OpenHome": 1.53,
+        "CloseHome": 1.55,
+        "OpenAway": 2.32,
+        "CloseAway": 2.3
+      }
+    }
+  },
+  {
+    "MatchId": "AuuuX9E5",
+    "Date": "2026-03-28",
+    "HomeTeam": "Nymburk",
+    "AwayTeam": "Decin",
+    "HomeScore": 110,
+    "AwayScore": 76,
+    "Bookmakers": {
+      "Tipsport": {
+        "OpenHome": 1.02,
+        "CloseHome": 1.03,
+        "OpenAway": 10.9,
+        "CloseAway": 8.96
+      },
+      "Betano": {
+        "OpenHome": null,
+        "CloseHome": 1.03,
+        "OpenAway": 9,
+        "CloseAway": 9.75
+      }
+    }
+  },
+  {
+    "MatchId": "UsetVmqI",
+    "Date": "2026-03-29",
+    "HomeTeam": "Srsni Pisek",
+    "AwayTeam": "NH Ostrava",
+    "HomeScore": 104,
+    "AwayScore": 81,
+    "Bookmakers": {
+      "Tipsport": {
+        "OpenHome": 1.36,
+        "CloseHome": 1.52,
+        "OpenAway": 2.83,
+        "CloseAway": 2.34
+      },
+      "Fortuna": {
+        "OpenHome": 1.4,
+        "CloseHome": 1.52,
+        "OpenAway": 2.65,
+        "CloseAway": 2.37
+      },
+      "Betano": {
+        "OpenHome": 1.22,
+        "CloseHome": 1.52,
+        "OpenAway": 3.8,
+        "CloseAway": 2.37
+      }
+    }
+  },
+  {
+    "MatchId": "x8blTRDU",
+    "Date": "2026-03-29",
+    "HomeTeam": "Usti n. Labem",
+    "AwayTeam": "Pardubice",
+    "HomeScore": 89,
+    "AwayScore": 101,
+    "Bookmakers": {
+      "Tipsport": {
+        "OpenHome": 1.81,
+        "CloseHome": 1.82,
+        "OpenAway": 1.91,
+        "CloseAway": 1.88
+      },
+      "Fortuna": {
+        "OpenHome": 1.8,
+        "CloseHome": 1.84,
+        "OpenAway": 1.9,
+        "CloseAway": 1.86
+      },
+      "Betano": {
+        "OpenHome": 2.3,
+        "CloseHome": 1.85,
+        "OpenAway": 1.55,
+        "CloseAway": 1.85
+      }
+    }
+  },
+  {
+    "MatchId": "xStXYVqg",
+    "Date": "2026-03-25",
+    "HomeTeam": "Srsni Pisek",
+    "AwayTeam": "Usti n. Labem",
+    "HomeScore": 84,
+    "AwayScore": 91,
+    "Bookmakers": {
+      "Tipsport": {
+        "OpenHome": 1.84,
+        "CloseHome": 1.8,
+        "OpenAway": 1.87,
+        "CloseAway": 1.91
+      },
+      "Fortuna": {
+        "OpenHome": 1.71,
+        "CloseHome": 1.93,
+        "OpenAway": 1.98,
+        "CloseAway": 1.78
+      },
+      "Betano": {
+        "OpenHome": 1.75,
+        "CloseHome": 2.1,
+        "OpenAway": 1.98,
+        "CloseAway": 1.65
+      }
+    }
+  },
+  {
+    "MatchId": "bZ4tejLU",
+    "Date": "2026-04-04",
+    "HomeTeam": "Slavia Prague",
+    "AwayTeam": "Hradec Kralove",
+    "HomeScore": 89,
+    "AwayScore": 97,
+    "Bookmakers": {
+      "Tipsport": {
+        "OpenHome": 1.66,
+        "CloseHome": 1.5,
+        "OpenAway": 2.12,
+        "CloseAway": 2.38
+      },
+      "Fortuna": {
+        "OpenHome": 1.67,
+        "CloseHome": 1.46,
+        "OpenAway": 2.1,
+        "CloseAway": 2.55
+      },
+      "Betano": {
+        "OpenHome": 1.6,
+        "CloseHome": 1.47,
+        "OpenAway": 2.18,
+        "CloseAway": 2.52
+      }
+    }
+  },
+  {
+    "MatchId": "ULJ5IAaC",
+    "Date": "2026-03-25",
+    "HomeTeam": "Decin",
+    "AwayTeam": "Brno",
+    "HomeScore": 77,
+    "AwayScore": 81,
+    "Bookmakers": {
+      "Tipsport": {
+        "OpenHome": 1.77,
+        "CloseHome": 2.3,
+        "OpenAway": 1.96,
+        "CloseAway": 1.54
+      },
+      "Fortuna": {
+        "OpenHome": 1.59,
+        "CloseHome": 2.33,
+        "OpenAway": 2.17,
+        "CloseAway": 1.54
+      },
+      "Betano": {
+        "OpenHome": 1.62,
+        "CloseHome": 2.18,
+        "OpenAway": 2.18,
+        "CloseAway": 1.62
+      }
+    }
+  },
+  {
+    "MatchId": "jy8EGlUO",
+    "Date": "2026-03-25",
+    "HomeTeam": "Pardubice",
+    "AwayTeam": "Opava",
+    "HomeScore": 79,
+    "AwayScore": 75,
+    "Bookmakers": {
+      "Tipsport": {
+        "OpenHome": 1.24,
+        "CloseHome": 1.13,
+        "OpenAway": 3.56,
+        "CloseAway": 5.04
+      },
+      "Fortuna": {
+        "OpenHome": null,
+        "CloseHome": 1.11,
+        "OpenAway": 5.4,
+        "CloseAway": 5.6
+      },
+      "Betano": {
+        "OpenHome": 1.13,
+        "CloseHome": 1.14,
+        "OpenAway": 5.1,
+        "CloseAway": 5
+      }
+    }
+  },
+  {
+    "MatchId": "O061wRgS",
+    "Date": "2026-04-04",
+    "HomeTeam": "Olomoucko",
+    "AwayTeam": "USK Prague",
+    "HomeScore": 95,
+    "AwayScore": 65,
+    "Bookmakers": {
+      "Tipsport": {
+        "OpenHome": 1.49,
+        "CloseHome": 1.25,
+        "OpenAway": 2.42,
+        "CloseAway": 3.39
+      },
+      "Fortuna": {
+        "OpenHome": 1.5,
+        "CloseHome": 1.37,
+        "OpenAway": 2.4,
+        "CloseAway": 2.85
+      },
+      "Betano": {
+        "OpenHome": 1.57,
+        "CloseHome": 1.5,
+        "OpenAway": 2.25,
+        "CloseAway": 2.42
+      }
+    }
+  },
+  {
+    "MatchId": "fi3VGcO7",
+    "Date": "2026-03-21",
+    "HomeTeam": "Decin",
+    "AwayTeam": "NH Ostrava",
+    "HomeScore": 81,
+    "AwayScore": 77,
+    "Bookmakers": {
+      "Tipsport": {
+        "OpenHome": 1.25,
+        "CloseHome": 1.19,
+        "OpenAway": 3.41,
+        "CloseAway": 3.97
+      },
+      "Fortuna": {
+        "OpenHome": 1.21,
+        "CloseHome": 1.17,
+        "OpenAway": 3.8,
+        "CloseAway": 4.4
+      },
+      "Betano": {
+        "OpenHome": 1.23,
+        "CloseHome": 1.21,
+        "OpenAway": 3.8,
+        "CloseAway": 3.9
+      }
+    }
+  },
+  {
+    "MatchId": "tn8kMh0m",
+    "Date": "2026-03-21",
+    "HomeTeam": "Opava",
+    "AwayTeam": "Srsni Pisek",
+    "HomeScore": 86,
+    "AwayScore": 70,
+    "Bookmakers": {
+      "Tipsport": {
+        "OpenHome": 1.46,
+        "CloseHome": 1.45,
+        "OpenAway": 2.48,
+        "CloseAway": 2.5
+      },
+      "Fortuna": {
+        "OpenHome": 1.34,
+        "CloseHome": 1.53,
+        "OpenAway": 2.95,
+        "CloseAway": 2.34
+      },
+      "Betano": {
+        "OpenHome": 1.35,
+        "CloseHome": 1.55,
+        "OpenAway": 2.95,
+        "CloseAway": 2.32
+      }
+    }
+  },
+  {
+    "MatchId": "xE1bKWUa",
+    "Date": "2026-03-21",
+    "HomeTeam": "Brno",
+    "AwayTeam": "Pardubice",
+    "HomeScore": 78,
+    "AwayScore": 68,
+    "Bookmakers": {
+      "Tipsport": {
+        "OpenHome": 2.1,
+        "CloseHome": 1.72,
+        "OpenAway": 1.66,
+        "CloseAway": 2.01
+      },
+      "Fortuna": {
+        "OpenHome": 3.3,
+        "CloseHome": 1.72,
+        "OpenAway": 1.27,
+        "CloseAway": 2.01
+      },
+      "Betano": {
+        "OpenHome": 3.3,
+        "CloseHome": 1.62,
+        "OpenAway": 1.29,
+        "CloseAway": 2.18
+      }
+    }
+  },
+  {
+    "MatchId": "8z5NIJge",
+    "Date": "2026-03-14",
+    "HomeTeam": "NH Ostrava",
+    "AwayTeam": "Usti n. Labem",
+    "HomeScore": 87,
+    "AwayScore": 91,
+    "Bookmakers": {
+      "Tipsport": {
+        "OpenHome": 2.33,
+        "CloseHome": 2.35,
+        "OpenAway": 1.54,
+        "CloseAway": 1.51
+      },
+      "Fortuna": {
+        "OpenHome": 2.65,
+        "CloseHome": 2.46,
+        "OpenAway": 1.4,
+        "CloseAway": 1.48
+      },
+      "Betano": {
+        "OpenHome": 2.65,
+        "CloseHome": 2.42,
+        "OpenAway": 1.42,
+        "CloseAway": 1.5
+      }
+    }
+  },
+  {
+    "MatchId": "nLGEKuPr",
+    "Date": "2026-03-14",
+    "HomeTeam": "Brno",
+    "AwayTeam": "Srsni Pisek",
+    "HomeScore": 90,
+    "AwayScore": 85,
+    "Bookmakers": {
+      "Tipsport": {
+        "OpenHome": 1.54,
+        "CloseHome": 1.3,
+        "OpenAway": 2.33,
+        "CloseAway": 3.04
+      },
+      "Fortuna": {
+        "OpenHome": 1.48,
+        "CloseHome": 1.32,
+        "OpenAway": 2.42,
+        "CloseAway": 3.1
+      },
+      "Betano": {
+        "OpenHome": 1.5,
+        "CloseHome": 1.32,
+        "OpenAway": 2.42,
+        "CloseAway": 3.1
+      }
+    }
+  },
+  {
+    "MatchId": "2oIhumPF",
+    "Date": "2026-04-09",
+    "HomeTeam": "Slavia Prague",
+    "AwayTeam": "Olomoucko",
+    "HomeScore": 81,
+    "AwayScore": 88,
+    "Bookmakers": {
+      "Tipsport": {
+        "OpenHome": 1.99,
+        "CloseHome": 1.91,
+        "OpenAway": 1.74,
+        "CloseAway": 1.79
+      },
+      "Fortuna": {
+        "OpenHome": 2,
+        "CloseHome": 1.85,
+        "OpenAway": 1.72,
+        "CloseAway": 1.85
+      },
+      "Betano": {
+        "OpenHome": 1.95,
+        "CloseHome": 1.88,
+        "OpenAway": 1.75,
+        "CloseAway": 1.82
+      }
+    }
+  },
+  {
+    "MatchId": "jk5H43hR",
+    "Date": "2026-03-28",
+    "HomeTeam": "Hradec Kralove",
+    "AwayTeam": "USK Prague",
+    "HomeScore": 97,
+    "AwayScore": 69,
+    "Bookmakers": {
+      "Tipsport": {
+        "OpenHome": 2.37,
+        "CloseHome": 2.24,
+        "OpenAway": 1.52,
+        "CloseAway": 1.58
+      },
+      "Fortuna": {
+        "OpenHome": 11,
+        "CloseHome": 2.06,
+        "OpenAway": null,
+        "CloseAway": 1.68
+      },
+      "Betano": {
+        "OpenHome": 2.07,
+        "CloseHome": 2.15,
+        "OpenAway": 1.67,
+        "CloseAway": 1.62
+      }
+    }
+  },
+  {
+    "MatchId": "KAWZRNW8",
+    "Date": "2026-03-14",
+    "HomeTeam": "Decin",
+    "AwayTeam": "Pardubice",
+    "HomeScore": 76,
+    "AwayScore": 90,
+    "Bookmakers": {
+      "Tipsport": {
+        "OpenHome": 2.98,
+        "CloseHome": 3.12,
+        "OpenAway": 1.32,
+        "CloseAway": 1.29
+      },
+      "Fortuna": {
+        "OpenHome": 3.95,
+        "CloseHome": 3.7,
+        "OpenAway": 1.2,
+        "CloseAway": 1.24
+      },
+      "Betano": {
+        "OpenHome": 3.85,
+        "CloseHome": 3.55,
+        "OpenAway": 1.22,
+        "CloseAway": 1.26
+      }
+    }
+  },
+  {
+    "MatchId": "4YKqEI3t",
+    "Date": "2026-01-21",
+    "HomeTeam": "Pardubice",
+    "AwayTeam": "Olomoucko",
+    "HomeScore": 92,
+    "AwayScore": 68,
+    "Bookmakers": {
+      "Betano": {
+        "OpenHome": 1.14,
+        "CloseHome": 1.08,
+        "OpenAway": 5,
+        "CloseAway": 6.5
+      }
+    }
+  },
+  {
+    "MatchId": "0KfZgFIO",
+    "Date": "2026-03-28",
+    "HomeTeam": "Opava",
+    "AwayTeam": "Brno",
+    "HomeScore": 66,
+    "AwayScore": 76,
+    "Bookmakers": {
+      "Tipsport": {
+        "OpenHome": 1.79,
+        "CloseHome": 1.7,
+        "OpenAway": 1.93,
+        "CloseAway": 2.03
+      },
+      "Fortuna": {
+        "OpenHome": 1.85,
+        "CloseHome": 1.62,
+        "OpenAway": 1.82,
+        "CloseAway": 2.16
+      },
+      "Betano": {
+        "OpenHome": 1.88,
+        "CloseHome": 1.62,
+        "OpenAway": 1.83,
+        "CloseAway": 2.15
+      }
+    }
+  },
+  {
+    "MatchId": "Qs0AaJlm",
+    "Date": "2026-01-17",
+    "HomeTeam": "Slavia Prague",
+    "AwayTeam": "NH Ostrava",
+    "HomeScore": 74,
+    "AwayScore": 77,
+    "Bookmakers": {
+      "Tipsport": {
+        "OpenHome": 4.91,
+        "CloseHome": 2.54,
+        "OpenAway": 1.14,
+        "CloseAway": 1.43
+      },
+      "Fortuna": {
+        "OpenHome": 5.6,
+        "CloseHome": 3.3,
+        "OpenAway": 1.1,
+        "CloseAway": 1.29
+      },
+      "Betano": {
+        "OpenHome": 5.7,
+        "CloseHome": 3.15,
+        "OpenAway": 1.13,
+        "CloseAway": 1.34
+      }
+    }
+  },
+  {
+    "MatchId": "CbOiCdYh",
+    "Date": "2026-01-17",
+    "HomeTeam": "Srsni Pisek",
+    "AwayTeam": "Hradec Kralove",
+    "HomeScore": 89,
+    "AwayScore": 74,
+    "Bookmakers": {
+      "Tipsport": {
+        "OpenHome": 1.16,
+        "CloseHome": 1.09,
+        "OpenAway": 4.43,
+        "CloseAway": 6.22
+      },
+      "Fortuna": {
+        "OpenHome": 1.12,
+        "CloseHome": 1.06,
+        "OpenAway": 5,
+        "CloseAway": 7.2
+      },
+      "Betano": {
+        "OpenHome": 1.15,
+        "CloseHome": 1.14,
+        "OpenAway": 5.2,
+        "CloseAway": 5.4
+      }
+    }
+  },
+  {
+    "MatchId": "bebIccJa",
+    "Date": "2026-01-17",
+    "HomeTeam": "USK Prague",
+    "AwayTeam": "Nymburk",
+    "HomeScore": 79,
+    "AwayScore": 109,
+    "Bookmakers": {
+      "Tipsport": {
+        "OpenHome": 9.29,
+        "CloseHome": 8.06,
+        "OpenAway": 1.02,
+        "CloseAway": 1.04
+      },
+      "Fortuna": {
+        "OpenHome": 9.2,
+        "CloseHome": 9.8,
+        "OpenAway": null,
+        "CloseAway": 1.02
+      },
+      "Betano": {
+        "OpenHome": 10.25,
+        "CloseHome": 9.5,
+        "OpenAway": 1.04,
+        "CloseAway": 1.05
+      }
+    }
+  },
+  {
+    "MatchId": "fNiReylC",
+    "Date": "2026-04-18",
+    "HomeTeam": "Decin",
+    "AwayTeam": "Usti n. Labem",
+    "HomeScore": 85,
+    "AwayScore": 80,
+    "Bookmakers": {
+      "Tipsport": {
+        "OpenHome": 2.1,
+        "CloseHome": 2.08,
+        "OpenAway": 1.66,
+        "CloseAway": 1.7
+      },
+      "Fortuna": {
+        "OpenHome": 2.1,
+        "CloseHome": 2.02,
+        "OpenAway": 1.66,
+        "CloseAway": 1.71
+      },
+      "Betano": {
+        "OpenHome": 2,
+        "CloseHome": 2.1,
+        "OpenAway": 1.72,
+        "CloseAway": 1.65
+      }
+    }
+  },
+  {
+    "MatchId": "MyhDnbbU",
+    "Date": "2026-01-15",
+    "HomeTeam": "USK Prague",
+    "AwayTeam": "Brno",
+    "HomeScore": 95,
+    "AwayScore": 83,
+    "Bookmakers": {
+      "Tipsport": {
+        "OpenHome": 3.08,
+        "CloseHome": 2.67,
+        "OpenAway": 1.3,
+        "CloseAway": 1.39
+      },
+      "Fortuna": {
+        "OpenHome": 6.6,
+        "CloseHome": 2.9,
+        "OpenAway": 1.07,
+        "CloseAway": 1.36
+      },
+      "Betano": {
+        "OpenHome": 7,
+        "CloseHome": 2.55,
+        "OpenAway": 1.09,
+        "CloseAway": 1.5
+      }
+    }
+  },
+  {
+    "MatchId": "0OG2OQAl",
+    "Date": "2026-04-04",
+    "HomeTeam": "Slavia Prague",
+    "AwayTeam": "Hradec Kralove",
+    "HomeScore": 89,
+    "AwayScore": 97,
+    "Bookmakers": {
+      "Tipsport": {
+        "OpenHome": 1.66,
+        "CloseHome": 1.5,
+        "OpenAway": 2.12,
+        "CloseAway": 2.38
+      },
+      "Fortuna": {
+        "OpenHome": 1.67,
+        "CloseHome": 1.46,
+        "OpenAway": 2.1,
+        "CloseAway": 2.55
+      },
+      "Betano": {
+        "OpenHome": 1.6,
+        "CloseHome": 1.47,
+        "OpenAway": 2.18,
+        "CloseAway": 2.52
+      }
+    }
+  },
+  {
+    "MatchId": "COPNyspC",
+    "Date": "2026-03-25",
+    "HomeTeam": "Pardubice",
+    "AwayTeam": "Opava",
+    "HomeScore": 79,
+    "AwayScore": 75,
+    "Bookmakers": {
+      "Tipsport": {
+        "OpenHome": 1.24,
+        "CloseHome": 1.13,
+        "OpenAway": 3.56,
+        "CloseAway": 5.04
+      },
+      "Fortuna": {
+        "OpenHome": null,
+        "CloseHome": 1.11,
+        "OpenAway": 5.4,
+        "CloseAway": 5.6
+      },
+      "Betano": {
+        "OpenHome": 1.13,
+        "CloseHome": 1.14,
+        "OpenAway": 5.1,
+        "CloseAway": 5
+      }
+    }
+  },
+  {
+    "MatchId": "8WUZcbzJ",
+    "Date": "2026-03-25",
+    "HomeTeam": "Nymburk",
+    "AwayTeam": "NH Ostrava",
+    "HomeScore": 118,
+    "AwayScore": 75,
+    "Bookmakers": {}
+  },
+  {
+    "MatchId": "zB1NXuvC",
+    "Date": "2026-03-08",
+    "HomeTeam": "East",
+    "AwayTeam": "West",
+    "HomeScore": 86,
+    "AwayScore": 79,
+    "Bookmakers": {}
+  },
+  {
+    "MatchId": "t0mOzhFt",
+    "Date": "2026-03-25",
+    "HomeTeam": "Nymburk",
+    "AwayTeam": "NH Ostrava",
+    "HomeScore": 118,
+    "AwayScore": 75,
+    "Bookmakers": {}
+  },
+  {
+    "MatchId": "WtrxIR4E",
+    "Date": "2026-04-11",
+    "HomeTeam": "USK Prague",
+    "AwayTeam": "Slavia Prague",
+    "HomeScore": 76,
+    "AwayScore": 81,
+    "Bookmakers": {
+      "Tipsport": {
+        "OpenHome": 1.49,
+        "CloseHome": 1.5,
+        "OpenAway": 2.42,
+        "CloseAway": 2.38
+      },
+      "Fortuna": {
+        "OpenHome": null,
+        "CloseHome": 1.52,
+        "OpenAway": 2.31,
+        "CloseAway": 2.37
+      },
+      "Betano": {
+        "OpenHome": 1.53,
+        "CloseHome": 1.55,
+        "OpenAway": 2.32,
+        "CloseAway": 2.3
+      }
+    }
+  },
+  {
+    "MatchId": "Ie9e5lL8",
+    "Date": "2026-01-10",
+    "HomeTeam": "Hradec Kralove",
+    "AwayTeam": "NH Ostrava",
+    "HomeScore": 89,
+    "AwayScore": 91,
+    "Bookmakers": {
+      "Tipsport": {
+        "OpenHome": 2.25,
+        "CloseHome": 2.52,
+        "OpenAway": 1.58,
+        "CloseAway": 1.44
+      },
+      "Fortuna": {
+        "OpenHome": 2.25,
+        "CloseHome": 2.45,
+        "OpenAway": 1.58,
+        "CloseAway": 1.49
+      },
+      "Betano": {
+        "OpenHome": 2.77,
+        "CloseHome": 2.18,
+        "OpenAway": 1.44,
+        "CloseAway": 1.67
+      }
+    }
+  },
+  {
+    "MatchId": "Aglzb6Dr",
+    "Date": "2026-01-10",
+    "HomeTeam": "Olomoucko",
+    "AwayTeam": "Brno",
+    "HomeScore": 72,
+    "AwayScore": 50,
+    "Bookmakers": {
+      "Tipsport": {
+        "OpenHome": 2.53,
+        "CloseHome": 3.55,
+        "OpenAway": 1.45,
+        "CloseAway": 1.23
+      },
+      "Fortuna": {
+        "OpenHome": 2.55,
+        "CloseHome": 3.3,
+        "OpenAway": 1.45,
+        "CloseAway": 1.29
+      },
+      "Betano": {
+        "OpenHome": 2.32,
+        "CloseHome": 3.3,
+        "OpenAway": 1.6,
+        "CloseAway": 1.32
+      }
+    }
+  },
+  {
+    "MatchId": "IJirdpre",
+    "Date": "2026-04-11",
+    "HomeTeam": "Decin",
+    "AwayTeam": "Opava",
+    "HomeScore": 70,
+    "AwayScore": 78,
+    "Bookmakers": {
+      "Tipsport": {
+        "OpenHome": 1.93,
+        "CloseHome": 2.34,
+        "OpenAway": 1.78,
+        "CloseAway": 1.52
+      },
+      "Fortuna": {
+        "OpenHome": 1.67,
+        "CloseHome": 2.55,
+        "OpenAway": 2.04,
+        "CloseAway": 1.45
+      },
+      "Betano": {
+        "OpenHome": 1.7,
+        "CloseHome": 2.72,
+        "OpenAway": 2.05,
+        "CloseAway": 1.4
+      }
+    }
+  },
+  {
+    "MatchId": "j9733SkL",
+    "Date": "2026-04-18",
+    "HomeTeam": "Pardubice",
+    "AwayTeam": "Srsni Pisek",
+    "HomeScore": 100,
+    "AwayScore": 95,
+    "Bookmakers": {
+      "Tipsport": {
+        "OpenHome": 1.22,
+        "CloseHome": 1.09,
+        "OpenAway": 3.74,
+        "CloseAway": 6.48
+      },
+      "Fortuna": {
+        "OpenHome": 1.22,
+        "CloseHome": 1.08,
+        "OpenAway": 3.75,
+        "CloseAway": 6.6
+      },
+      "Betano": {
+        "OpenHome": 1.11,
+        "CloseHome": 1.09,
+        "OpenAway": 5.7,
+        "CloseAway": 6.2
+      }
+    }
+  },
+  {
+    "MatchId": "vZuifOC7",
+    "Date": "2026-04-09",
+    "HomeTeam": "Nymburk",
+    "AwayTeam": "Usti n. Labem",
+    "HomeScore": 107,
+    "AwayScore": 94,
+    "Bookmakers": {
+      "Tipsport": {
+        "OpenHome": 1.13,
+        "CloseHome": 1.07,
+        "OpenAway": 5.2,
+        "CloseAway": 6.88
+      },
+      "Fortuna": {
+        "OpenHome": null,
+        "CloseHome": 1.04,
+        "OpenAway": 7.8,
+        "CloseAway": 8.4
+      },
+      "Betano": {
+        "OpenHome": 1.07,
+        "CloseHome": 1.04,
+        "OpenAway": 7,
+        "CloseAway": 8.5
+      }
+    }
+  },
+  {
+    "MatchId": "rDRq7ANN",
+    "Date": "2026-01-07",
+    "HomeTeam": "Hradec Kralove",
+    "AwayTeam": "Brno",
+    "HomeScore": 88,
+    "AwayScore": 94,
+    "Bookmakers": {
+      "Tipsport": {
+        "OpenHome": 3.48,
+        "CloseHome": 3.49,
+        "OpenAway": 1.25,
+        "CloseAway": 1.24
+      },
+      "Fortuna": {
+        "OpenHome": 3.3,
+        "CloseHome": 3.75,
+        "OpenAway": 1.29,
+        "CloseAway": 1.23
+      },
+      "Betano": {
+        "OpenHome": 3,
+        "CloseHome": 4.3,
+        "OpenAway": 1.37,
+        "CloseAway": 1.21
+      }
+    }
+  },
+  {
+    "MatchId": "djO0q7bk",
+    "Date": "2026-01-04",
+    "HomeTeam": "Slavia Prague",
+    "AwayTeam": "Usti n. Labem",
+    "HomeScore": 86,
+    "AwayScore": 107,
+    "Bookmakers": {
+      "Tipsport": {
+        "OpenHome": 2.53,
+        "CloseHome": 2.56,
+        "OpenAway": 1.45,
+        "CloseAway": 1.43
+      },
+      "Fortuna": {
+        "OpenHome": 2.55,
+        "CloseHome": 2.6,
+        "OpenAway": 1.45,
+        "CloseAway": 1.44
+      },
+      "Betano": {
+        "OpenHome": 2.62,
+        "CloseHome": 2.75,
+        "OpenAway": 1.47,
+        "CloseAway": 1.44
+      }
+    }
+  },
+  {
+    "MatchId": "4GR8soT1",
+    "Date": "2026-03-14",
+    "HomeTeam": "Brno",
+    "AwayTeam": "Srsni Pisek",
+    "HomeScore": 90,
+    "AwayScore": 85,
+    "Bookmakers": {
+      "Tipsport": {
+        "OpenHome": 1.54,
+        "CloseHome": 1.3,
+        "OpenAway": 2.33,
+        "CloseAway": 3.04
+      },
+      "Fortuna": {
+        "OpenHome": 1.48,
+        "CloseHome": 1.32,
+        "OpenAway": 2.42,
+        "CloseAway": 3.1
+      },
+      "Betano": {
+        "OpenHome": 1.5,
+        "CloseHome": 1.32,
+        "OpenAway": 2.42,
+        "CloseAway": 3.1
+      }
+    }
+  },
+  {
+    "MatchId": "pjTKhBy3",
+    "Date": "2026-03-14",
+    "HomeTeam": "Opava",
+    "AwayTeam": "Nymburk",
+    "HomeScore": 105,
+    "AwayScore": 89,
+    "Bookmakers": {
+      "Tipsport": {
+        "OpenHome": 5.88,
+        "CloseHome": 6.92,
+        "OpenAway": 1.1,
+        "CloseAway": 1.06
+      },
+      "Fortuna": {
+        "OpenHome": 5.4,
+        "CloseHome": 8.8,
+        "OpenAway": 1.11,
+        "CloseAway": 1.03
+      },
+      "Betano": {
+        "OpenHome": 5.2,
+        "CloseHome": 7.9,
+        "OpenAway": 1.13,
+        "CloseAway": 1.05
+      }
+    }
+  },
+  {
+    "MatchId": "CInUlTzS",
+    "Date": "2026-01-03",
+    "HomeTeam": "Hradec Kralove",
+    "AwayTeam": "Pardubice",
+    "HomeScore": 65,
+    "AwayScore": 86,
+    "Bookmakers": {
+      "Tipsport": {
+        "OpenHome": 3.48,
+        "CloseHome": 4.17,
+        "OpenAway": 1.25,
+        "CloseAway": 1.18
+      },
+      "Fortuna": {
+        "OpenHome": null,
+        "CloseHome": 5.4,
+        "OpenAway": 1.1,
+        "CloseAway": 1.11
+      },
+      "Betano": {
+        "OpenHome": 5.8,
+        "CloseHome": 6,
+        "OpenAway": 1.13,
+        "CloseAway": 1.12
+      }
+    }
+  },
+  {
+    "MatchId": "4hqMjk6F",
+    "Date": "2026-01-03",
+    "HomeTeam": "Olomoucko",
+    "AwayTeam": "Decin",
+    "HomeScore": 91,
+    "AwayScore": 84,
+    "Bookmakers": {
+      "Tipsport": {
+        "OpenHome": 2.33,
+        "CloseHome": 1.91,
+        "OpenAway": 1.54,
+        "CloseAway": 1.79
+      },
+      "Fortuna": {
+        "OpenHome": 2.4,
+        "CloseHome": 2.01,
+        "OpenAway": 1.49,
+        "CloseAway": 1.71
+      },
+      "Betano": {
+        "OpenHome": 2.42,
+        "CloseHome": 2.12,
+        "OpenAway": 1.55,
+        "CloseAway": 1.7
+      }
+    }
+  },
+  {
+    "MatchId": "hdtZU7qd",
+    "Date": "2026-01-03",
+    "HomeTeam": "NH Ostrava",
+    "AwayTeam": "USK Prague",
+    "HomeScore": 100,
+    "AwayScore": 88,
+    "Bookmakers": {
+      "Tipsport": {
+        "OpenHome": 1.34,
+        "CloseHome": 1.28,
+        "OpenAway": 2.91,
+        "CloseAway": 3.17
+      },
+      "Fortuna": {
+        "OpenHome": 1.2,
+        "CloseHome": 1.24,
+        "OpenAway": 3.9,
+        "CloseAway": 3.65
+      },
+      "Betano": {
+        "OpenHome": 1.23,
+        "CloseHome": 1.19,
+        "OpenAway": 4.05,
+        "CloseAway": 4.5
+      }
+    }
+  },
+  {
+    "MatchId": "0pAstjxi",
+    "Date": "2026-01-07",
+    "HomeTeam": "Hradec Kralove",
+    "AwayTeam": "Brno",
+    "HomeScore": 88,
+    "AwayScore": 94,
+    "Bookmakers": {
+      "Tipsport": {
+        "OpenHome": 3.48,
+        "CloseHome": 3.49,
+        "OpenAway": 1.25,
+        "CloseAway": 1.24
+      },
+      "Fortuna": {
+        "OpenHome": 3.3,
+        "CloseHome": 3.75,
+        "OpenAway": 1.29,
+        "CloseAway": 1.23
+      },
+      "Betano": {
+        "OpenHome": 3,
+        "CloseHome": 4.3,
+        "OpenAway": 1.37,
+        "CloseAway": 1.21
+      }
+    }
+  },
+  {
+    "MatchId": "COkvtYic",
+    "Date": "2026-04-05",
+    "HomeTeam": "Srsni Pisek",
+    "AwayTeam": "Decin",
+    "HomeScore": 91,
+    "AwayScore": 76,
+    "Bookmakers": {
+      "Tipsport": {
+        "OpenHome": 1.69,
+        "CloseHome": 2,
+        "OpenAway": 2.06,
+        "CloseAway": 1.73
+      },
+      "Fortuna": {
+        "OpenHome": 1.7,
+        "CloseHome": 1.67,
+        "OpenAway": 2.05,
+        "CloseAway": 2.07
+      },
+      "Betano": {
+        "OpenHome": 1.34,
+        "CloseHome": 2.18,
+        "OpenAway": 3,
+        "CloseAway": 1.62
+      }
+    }
+  },
+  {
+    "MatchId": "4W7ovCM9",
+    "Date": "2025-12-30",
+    "HomeTeam": "Nymburk",
+    "AwayTeam": "Olomoucko",
+    "HomeScore": 131,
+    "AwayScore": 43,
+    "Bookmakers": {}
+  },
+  {
+    "MatchId": "dUnQWTEq",
+    "Date": "2025-12-30",
+    "HomeTeam": "Usti n. Labem",
+    "AwayTeam": "USK Prague",
+    "HomeScore": 88,
+    "AwayScore": 79,
+    "Bookmakers": {
+      "Tipsport": {
+        "OpenHome": 1.17,
+        "CloseHome": 1.18,
+        "OpenAway": 4.38,
+        "CloseAway": 4.17
+      },
+      "Fortuna": {
+        "OpenHome": 1.14,
+        "CloseHome": 1.18,
+        "OpenAway": 4.7,
+        "CloseAway": 4.3
+      },
+      "Betano": {
+        "OpenHome": null,
+        "CloseHome": 1.17,
+        "OpenAway": 4.85,
+        "CloseAway": 4.9
+      }
+    }
+  },
+  {
+    "MatchId": "4EOBoCET",
+    "Date": "2026-04-01",
+    "HomeTeam": "NH Ostrava",
+    "AwayTeam": "Pardubice",
+    "HomeScore": 93,
+    "AwayScore": 101,
+    "Bookmakers": {
+      "Tipsport": {
+        "OpenHome": 3.74,
+        "CloseHome": 3.22,
+        "OpenAway": 1.22,
+        "CloseAway": 1.27
+      },
+      "Fortuna": {
+        "OpenHome": 3.75,
+        "CloseHome": 4.3,
+        "OpenAway": 1.22,
+        "CloseAway": 1.18
+      },
+      "Betano": {
+        "OpenHome": 4.9,
+        "CloseHome": 3.1,
+        "OpenAway": 1.14,
+        "CloseAway": 1.32
+      }
+    }
+  },
+  {
+    "MatchId": "QodfxjiM",
+    "Date": "2025-12-30",
+    "HomeTeam": "Slavia Prague",
+    "AwayTeam": "Opava",
+    "HomeScore": 93,
+    "AwayScore": 98,
+    "Bookmakers": {
+      "Tipsport": {
+        "OpenHome": 2.98,
+        "CloseHome": 3.21,
+        "OpenAway": 1.32,
+        "CloseAway": 1.28
+      },
+      "Fortuna": {
+        "OpenHome": 3.45,
+        "CloseHome": 3.1,
+        "OpenAway": 1.25,
+        "CloseAway": 1.32
+      },
+      "Betano": {
+        "OpenHome": 3.6,
+        "CloseHome": 2.32,
+        "OpenAway": 1.28,
+        "CloseAway": 1.6
+      }
+    }
+  }
+]

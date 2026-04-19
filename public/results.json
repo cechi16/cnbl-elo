@@ -1,0 +1,2082 @@
+[
+  {
+    "HomeTeam": "BK Olomoucko",
+    "AwayTeam": "BK GAPA Hradec Kr\u00E1lov\u00E9",
+    "HomeScore": 65,
+    "AwayScore": 70,
+    "Date": "2025-09-26",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2025-09-26_bk_olomoucko_bk_gapa_hradec_kr\u00E1lov\u00E9"
+  },
+  {
+    "HomeTeam": "BK Opava",
+    "AwayTeam": "BK KVIS Pardubice",
+    "HomeScore": 66,
+    "AwayScore": 76,
+    "Date": "2025-09-27",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2025-09-27_bk_opava_bk_kvis_pardubice"
+  },
+  {
+    "HomeTeam": "USK Praha",
+    "AwayTeam": "BK ARMEX ENERGY D\u011B\u010D\u00EDn",
+    "HomeScore": 77,
+    "AwayScore": 81,
+    "Date": "2025-09-27",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2025-09-27_usk_praha_bk_armex_energy_d\u011B\u010D\u00EDn"
+  },
+  {
+    "HomeTeam": "SK Slavia Praha",
+    "AwayTeam": "ERA Basketball Nymburk",
+    "HomeScore": 65,
+    "AwayScore": 95,
+    "Date": "2025-09-27",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2025-09-27_sk_slavia_praha_era_basketball_nymburk"
+  },
+  {
+    "HomeTeam": "Sr\u0161ni Photomate P\u00EDsek",
+    "AwayTeam": "NH Ostrava",
+    "HomeScore": 84,
+    "AwayScore": 77,
+    "Date": "2025-09-28",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2025-09-28_sr\u0161ni_photomate_p\u00EDsek_nh_ostrava"
+  },
+  {
+    "HomeTeam": "SLUNETA \u00DAst\u00ED nad Labem",
+    "AwayTeam": "PUMPA Basket Brno",
+    "HomeScore": 64,
+    "AwayScore": 87,
+    "Date": "2025-09-28",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2025-09-28_sluneta_\u00FAst\u00ED_nad_labem_pumpa_basket_brno"
+  },
+  {
+    "HomeTeam": "NH Ostrava",
+    "AwayTeam": "ERA Basketball Nymburk",
+    "HomeScore": 91,
+    "AwayScore": 99,
+    "Date": "2025-10-01",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2025-10-01_nh_ostrava_era_basketball_nymburk"
+  },
+  {
+    "HomeTeam": "SK Slavia Praha",
+    "AwayTeam": "BK ARMEX ENERGY D\u011B\u010D\u00EDn",
+    "HomeScore": 94,
+    "AwayScore": 88,
+    "Date": "2025-10-01",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2025-10-01_sk_slavia_praha_bk_armex_energy_d\u011B\u010D\u00EDn"
+  },
+  {
+    "HomeTeam": "BK KVIS Pardubice",
+    "AwayTeam": "SLUNETA \u00DAst\u00ED nad Labem",
+    "HomeScore": 92,
+    "AwayScore": 74,
+    "Date": "2025-10-01",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2025-10-01_bk_kvis_pardubice_sluneta_\u00FAst\u00ED_nad_labem"
+  },
+  {
+    "HomeTeam": "BK GAPA Hradec Kr\u00E1lov\u00E9",
+    "AwayTeam": "BK Opava",
+    "HomeScore": 80,
+    "AwayScore": 112,
+    "Date": "2025-10-01",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2025-10-01_bk_gapa_hradec_kr\u00E1lov\u00E9_bk_opava"
+  },
+  {
+    "HomeTeam": "Sr\u0161ni Photomate P\u00EDsek",
+    "AwayTeam": "BK Olomoucko",
+    "HomeScore": 70,
+    "AwayScore": 60,
+    "Date": "2025-10-01",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2025-10-01_sr\u0161ni_photomate_p\u00EDsek_bk_olomoucko"
+  },
+  {
+    "HomeTeam": "BK Opava",
+    "AwayTeam": "Sr\u0161ni Photomate P\u00EDsek",
+    "HomeScore": 120,
+    "AwayScore": 93,
+    "Date": "2025-10-04",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2025-10-04_bk_opava_sr\u0161ni_photomate_p\u00EDsek"
+  },
+  {
+    "HomeTeam": "USK Praha",
+    "AwayTeam": "BK KVIS Pardubice",
+    "HomeScore": 60,
+    "AwayScore": 114,
+    "Date": "2025-10-04",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2025-10-04_usk_praha_bk_kvis_pardubice"
+  },
+  {
+    "HomeTeam": "SK Slavia Praha",
+    "AwayTeam": "PUMPA Basket Brno",
+    "HomeScore": 73,
+    "AwayScore": 93,
+    "Date": "2025-10-04",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2025-10-04_sk_slavia_praha_pumpa_basket_brno"
+  },
+  {
+    "HomeTeam": "ERA Basketball Nymburk",
+    "AwayTeam": "BK ARMEX ENERGY D\u011B\u010D\u00EDn",
+    "HomeScore": 97,
+    "AwayScore": 68,
+    "Date": "2025-10-04",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2025-10-04_era_basketball_nymburk_bk_armex_energy_d\u011B\u010D\u00EDn"
+  },
+  {
+    "HomeTeam": "BK Olomoucko",
+    "AwayTeam": "NH Ostrava",
+    "HomeScore": 89,
+    "AwayScore": 83,
+    "Date": "2025-10-04",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2025-10-04_bk_olomoucko_nh_ostrava"
+  },
+  {
+    "HomeTeam": "SLUNETA \u00DAst\u00ED nad Labem",
+    "AwayTeam": "BK GAPA Hradec Kr\u00E1lov\u00E9",
+    "HomeScore": 112,
+    "AwayScore": 80,
+    "Date": "2025-10-05",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2025-10-05_sluneta_\u00FAst\u00ED_nad_labem_bk_gapa_hradec_kr\u00E1lov\u00E9"
+  },
+  {
+    "HomeTeam": "NH Ostrava",
+    "AwayTeam": "BK ARMEX ENERGY D\u011B\u010D\u00EDn",
+    "HomeScore": 77,
+    "AwayScore": 78,
+    "Date": "2025-10-08",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2025-10-08_nh_ostrava_bk_armex_energy_d\u011B\u010D\u00EDn"
+  },
+  {
+    "HomeTeam": "SK Slavia Praha",
+    "AwayTeam": "BK KVIS Pardubice",
+    "HomeScore": 76,
+    "AwayScore": 100,
+    "Date": "2025-10-08",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2025-10-08_sk_slavia_praha_bk_kvis_pardubice"
+  },
+  {
+    "HomeTeam": "BK GAPA Hradec Kr\u00E1lov\u00E9",
+    "AwayTeam": "USK Praha",
+    "HomeScore": 89,
+    "AwayScore": 81,
+    "Date": "2025-10-08",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2025-10-08_bk_gapa_hradec_kr\u00E1lov\u00E9_usk_praha"
+  },
+  {
+    "HomeTeam": "SLUNETA \u00DAst\u00ED nad Labem",
+    "AwayTeam": "Sr\u0161ni Photomate P\u00EDsek",
+    "HomeScore": 91,
+    "AwayScore": 73,
+    "Date": "2025-10-08",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2025-10-08_sluneta_\u00FAst\u00ED_nad_labem_sr\u0161ni_photomate_p\u00EDsek"
+  },
+  {
+    "HomeTeam": "BK Olomoucko",
+    "AwayTeam": "BK Opava",
+    "HomeScore": 76,
+    "AwayScore": 75,
+    "Date": "2025-10-08",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2025-10-08_bk_olomoucko_bk_opava"
+  },
+  {
+    "HomeTeam": "BK Opava",
+    "AwayTeam": "NH Ostrava",
+    "HomeScore": 101,
+    "AwayScore": 86,
+    "Date": "2025-10-11",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2025-10-11_bk_opava_nh_ostrava"
+  },
+  {
+    "HomeTeam": "USK Praha",
+    "AwayTeam": "Sr\u0161ni Photomate P\u00EDsek",
+    "HomeScore": 92,
+    "AwayScore": 103,
+    "Date": "2025-10-11",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2025-10-11_usk_praha_sr\u0161ni_photomate_p\u00EDsek"
+  },
+  {
+    "HomeTeam": "SK Slavia Praha",
+    "AwayTeam": "BK GAPA Hradec Kr\u00E1lov\u00E9",
+    "HomeScore": 77,
+    "AwayScore": 66,
+    "Date": "2025-10-11",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2025-10-11_sk_slavia_praha_bk_gapa_hradec_kr\u00E1lov\u00E9"
+  },
+  {
+    "HomeTeam": "BK KVIS Pardubice",
+    "AwayTeam": "ERA Basketball Nymburk",
+    "HomeScore": 76,
+    "AwayScore": 78,
+    "Date": "2025-10-11",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2025-10-11_bk_kvis_pardubice_era_basketball_nymburk"
+  },
+  {
+    "HomeTeam": "SLUNETA \u00DAst\u00ED nad Labem",
+    "AwayTeam": "BK Olomoucko",
+    "HomeScore": 72,
+    "AwayScore": 79,
+    "Date": "2025-10-12",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2025-10-12_sluneta_\u00FAst\u00ED_nad_labem_bk_olomoucko"
+  },
+  {
+    "HomeTeam": "NH Ostrava",
+    "AwayTeam": "PUMPA Basket Brno",
+    "HomeScore": 80,
+    "AwayScore": 94,
+    "Date": "2025-10-18",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2025-10-18_nh_ostrava_pumpa_basket_brno"
+  },
+  {
+    "HomeTeam": "BK KVIS Pardubice",
+    "AwayTeam": "BK ARMEX ENERGY D\u011B\u010D\u00EDn",
+    "HomeScore": 125,
+    "AwayScore": 77,
+    "Date": "2025-10-18",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2025-10-18_bk_kvis_pardubice_bk_armex_energy_d\u011B\u010D\u00EDn"
+  },
+  {
+    "HomeTeam": "BK GAPA Hradec Kr\u00E1lov\u00E9",
+    "AwayTeam": "ERA Basketball Nymburk",
+    "HomeScore": 78,
+    "AwayScore": 99,
+    "Date": "2025-10-18",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2025-10-18_bk_gapa_hradec_kr\u00E1lov\u00E9_era_basketball_nymburk"
+  },
+  {
+    "HomeTeam": "BK Olomoucko",
+    "AwayTeam": "USK Praha",
+    "HomeScore": 69,
+    "AwayScore": 82,
+    "Date": "2025-10-18",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2025-10-18_bk_olomoucko_usk_praha"
+  },
+  {
+    "HomeTeam": "BK Opava",
+    "AwayTeam": "SLUNETA \u00DAst\u00ED nad Labem",
+    "HomeScore": 85,
+    "AwayScore": 81,
+    "Date": "2025-10-18",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2025-10-18_bk_opava_sluneta_\u00FAst\u00ED_nad_labem"
+  },
+  {
+    "HomeTeam": "Sr\u0161ni Photomate P\u00EDsek",
+    "AwayTeam": "SK Slavia Praha",
+    "HomeScore": 103,
+    "AwayScore": 72,
+    "Date": "2025-10-19",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2025-10-19_sr\u0161ni_photomate_p\u00EDsek_sk_slavia_praha"
+  },
+  {
+    "HomeTeam": "ERA Basketball Nymburk",
+    "AwayTeam": "USK Praha",
+    "HomeScore": 113,
+    "AwayScore": 67,
+    "Date": "2025-10-21",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2025-10-21_era_basketball_nymburk_usk_praha"
+  },
+  {
+    "HomeTeam": "ERA Basketball Nymburk",
+    "AwayTeam": "Sr\u0161ni Photomate P\u00EDsek",
+    "HomeScore": 105,
+    "AwayScore": 75,
+    "Date": "2025-10-24",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2025-10-24_era_basketball_nymburk_sr\u0161ni_photomate_p\u00EDsek"
+  },
+  {
+    "HomeTeam": "USK Praha",
+    "AwayTeam": "BK Opava",
+    "HomeScore": 77,
+    "AwayScore": 107,
+    "Date": "2025-10-25",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2025-10-25_usk_praha_bk_opava"
+  },
+  {
+    "HomeTeam": "BK GAPA Hradec Kr\u00E1lov\u00E9",
+    "AwayTeam": "BK ARMEX ENERGY D\u011B\u010D\u00EDn",
+    "HomeScore": 70,
+    "AwayScore": 74,
+    "Date": "2025-10-25",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2025-10-25_bk_gapa_hradec_kr\u00E1lov\u00E9_bk_armex_energy_d\u011B\u010D\u00EDn"
+  },
+  {
+    "HomeTeam": "PUMPA Basket Brno",
+    "AwayTeam": "BK KVIS Pardubice",
+    "HomeScore": 112,
+    "AwayScore": 85,
+    "Date": "2025-10-25",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2025-10-25_pumpa_basket_brno_bk_kvis_pardubice"
+  },
+  {
+    "HomeTeam": "SLUNETA \u00DAst\u00ED nad Labem",
+    "AwayTeam": "NH Ostrava",
+    "HomeScore": 85,
+    "AwayScore": 74,
+    "Date": "2025-10-26",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2025-10-26_sluneta_\u00FAst\u00ED_nad_labem_nh_ostrava"
+  },
+  {
+    "HomeTeam": "NH Ostrava",
+    "AwayTeam": "BK KVIS Pardubice",
+    "HomeScore": 100,
+    "AwayScore": 87,
+    "Date": "2025-10-29",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2025-10-29_nh_ostrava_bk_kvis_pardubice"
+  },
+  {
+    "HomeTeam": "Sr\u0161ni Photomate P\u00EDsek",
+    "AwayTeam": "BK ARMEX ENERGY D\u011B\u010D\u00EDn",
+    "HomeScore": 88,
+    "AwayScore": 75,
+    "Date": "2025-10-29",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2025-10-29_sr\u0161ni_photomate_p\u00EDsek_bk_armex_energy_d\u011B\u010D\u00EDn"
+  },
+  {
+    "HomeTeam": "BK Opava",
+    "AwayTeam": "SK Slavia Praha",
+    "HomeScore": 93,
+    "AwayScore": 70,
+    "Date": "2025-10-29",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2025-10-29_bk_opava_sk_slavia_praha"
+  },
+  {
+    "HomeTeam": "USK Praha",
+    "AwayTeam": "SLUNETA \u00DAst\u00ED nad Labem",
+    "HomeScore": 86,
+    "AwayScore": 92,
+    "Date": "2025-10-29",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2025-10-29_usk_praha_sluneta_\u00FAst\u00ED_nad_labem"
+  },
+  {
+    "HomeTeam": "BK Olomoucko",
+    "AwayTeam": "ERA Basketball Nymburk",
+    "HomeScore": 65,
+    "AwayScore": 87,
+    "Date": "2025-10-30",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2025-10-30_bk_olomoucko_era_basketball_nymburk"
+  },
+  {
+    "HomeTeam": "USK Praha",
+    "AwayTeam": "NH Ostrava",
+    "HomeScore": 71,
+    "AwayScore": 81,
+    "Date": "2025-11-01",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2025-11-01_usk_praha_nh_ostrava"
+  },
+  {
+    "HomeTeam": "ERA Basketball Nymburk",
+    "AwayTeam": "BK Opava",
+    "HomeScore": 115,
+    "AwayScore": 95,
+    "Date": "2025-11-01",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2025-11-01_era_basketball_nymburk_bk_opava"
+  },
+  {
+    "HomeTeam": "BK ARMEX ENERGY D\u011B\u010D\u00EDn",
+    "AwayTeam": "BK Olomoucko",
+    "HomeScore": 84,
+    "AwayScore": 55,
+    "Date": "2025-11-01",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2025-11-01_bk_armex_energy_d\u011B\u010D\u00EDn_bk_olomoucko"
+  },
+  {
+    "HomeTeam": "PUMPA Basket Brno",
+    "AwayTeam": "Sr\u0161ni Photomate P\u00EDsek",
+    "HomeScore": 110,
+    "AwayScore": 100,
+    "Date": "2025-11-01",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2025-11-01_pumpa_basket_brno_sr\u0161ni_photomate_p\u00EDsek"
+  },
+  {
+    "HomeTeam": "BK KVIS Pardubice",
+    "AwayTeam": "BK GAPA Hradec Kr\u00E1lov\u00E9",
+    "HomeScore": 105,
+    "AwayScore": 73,
+    "Date": "2025-11-01",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2025-11-01_bk_kvis_pardubice_bk_gapa_hradec_kr\u00E1lov\u00E9"
+  },
+  {
+    "HomeTeam": "SLUNETA \u00DAst\u00ED nad Labem",
+    "AwayTeam": "SK Slavia Praha",
+    "HomeScore": 92,
+    "AwayScore": 96,
+    "Date": "2025-11-02",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2025-11-02_sluneta_\u00FAst\u00ED_nad_labem_sk_slavia_praha"
+  },
+  {
+    "HomeTeam": "BK GAPA Hradec Kr\u00E1lov\u00E9",
+    "AwayTeam": "BK Olomoucko",
+    "HomeScore": 51,
+    "AwayScore": 74,
+    "Date": "2025-11-05",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2025-11-05_bk_gapa_hradec_kr\u00E1lov\u00E9_bk_olomoucko"
+  },
+  {
+    "HomeTeam": "PUMPA Basket Brno",
+    "AwayTeam": "USK Praha",
+    "HomeScore": 103,
+    "AwayScore": 71,
+    "Date": "2025-11-06",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2025-11-06_pumpa_basket_brno_usk_praha"
+  },
+  {
+    "HomeTeam": "NH Ostrava",
+    "AwayTeam": "BK GAPA Hradec Kr\u00E1lov\u00E9",
+    "HomeScore": 89,
+    "AwayScore": 93,
+    "Date": "2025-11-08",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2025-11-08_nh_ostrava_bk_gapa_hradec_kr\u00E1lov\u00E9"
+  },
+  {
+    "HomeTeam": "PUMPA Basket Brno",
+    "AwayTeam": "BK Olomoucko",
+    "HomeScore": 101,
+    "AwayScore": 75,
+    "Date": "2025-11-08",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2025-11-08_pumpa_basket_brno_bk_olomoucko"
+  },
+  {
+    "HomeTeam": "BK ARMEX ENERGY D\u011B\u010D\u00EDn",
+    "AwayTeam": "BK Opava",
+    "HomeScore": 78,
+    "AwayScore": 75,
+    "Date": "2025-11-08",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2025-11-08_bk_armex_energy_d\u011B\u010D\u00EDn_bk_opava"
+  },
+  {
+    "HomeTeam": "USK Praha",
+    "AwayTeam": "SK Slavia Praha",
+    "HomeScore": 91,
+    "AwayScore": 84,
+    "Date": "2025-11-08",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2025-11-08_usk_praha_sk_slavia_praha"
+  },
+  {
+    "HomeTeam": "Sr\u0161ni Photomate P\u00EDsek",
+    "AwayTeam": "BK KVIS Pardubice",
+    "HomeScore": 87,
+    "AwayScore": 78,
+    "Date": "2025-11-09",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2025-11-09_sr\u0161ni_photomate_p\u00EDsek_bk_kvis_pardubice"
+  },
+  {
+    "HomeTeam": "SLUNETA \u00DAst\u00ED nad Labem",
+    "AwayTeam": "ERA Basketball Nymburk",
+    "HomeScore": 83,
+    "AwayScore": 87,
+    "Date": "2025-11-09",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2025-11-09_sluneta_\u00FAst\u00ED_nad_labem_era_basketball_nymburk"
+  },
+  {
+    "HomeTeam": "NH Ostrava",
+    "AwayTeam": "SK Slavia Praha",
+    "HomeScore": 109,
+    "AwayScore": 95,
+    "Date": "2025-11-12",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2025-11-12_nh_ostrava_sk_slavia_praha"
+  },
+  {
+    "HomeTeam": "BK ARMEX ENERGY D\u011B\u010D\u00EDn",
+    "AwayTeam": "SLUNETA \u00DAst\u00ED nad Labem",
+    "HomeScore": 87,
+    "AwayScore": 78,
+    "Date": "2025-11-12",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2025-11-12_bk_armex_energy_d\u011B\u010D\u00EDn_sluneta_\u00FAst\u00ED_nad_labem"
+  },
+  {
+    "HomeTeam": "BK KVIS Pardubice",
+    "AwayTeam": "BK Olomoucko",
+    "HomeScore": 87,
+    "AwayScore": 73,
+    "Date": "2025-11-12",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2025-11-12_bk_kvis_pardubice_bk_olomoucko"
+  },
+  {
+    "HomeTeam": "BK GAPA Hradec Kr\u00E1lov\u00E9",
+    "AwayTeam": "Sr\u0161ni Photomate P\u00EDsek",
+    "HomeScore": 67,
+    "AwayScore": 89,
+    "Date": "2025-11-12",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2025-11-12_bk_gapa_hradec_kr\u00E1lov\u00E9_sr\u0161ni_photomate_p\u00EDsek"
+  },
+  {
+    "HomeTeam": "PUMPA Basket Brno",
+    "AwayTeam": "BK Opava",
+    "HomeScore": 91,
+    "AwayScore": 85,
+    "Date": "2025-11-13",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2025-11-13_pumpa_basket_brno_bk_opava"
+  },
+  {
+    "HomeTeam": "NH Ostrava",
+    "AwayTeam": "Sr\u0161ni Photomate P\u00EDsek",
+    "HomeScore": 101,
+    "AwayScore": 105,
+    "Date": "2025-11-15",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2025-11-15_nh_ostrava_sr\u0161ni_photomate_p\u00EDsek"
+  },
+  {
+    "HomeTeam": "PUMPA Basket Brno",
+    "AwayTeam": "SLUNETA \u00DAst\u00ED nad Labem",
+    "HomeScore": 87,
+    "AwayScore": 73,
+    "Date": "2025-11-15",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2025-11-15_pumpa_basket_brno_sluneta_\u00FAst\u00ED_nad_labem"
+  },
+  {
+    "HomeTeam": "BK ARMEX ENERGY D\u011B\u010D\u00EDn",
+    "AwayTeam": "USK Praha",
+    "HomeScore": 69,
+    "AwayScore": 62,
+    "Date": "2025-11-15",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2025-11-15_bk_armex_energy_d\u011B\u010D\u00EDn_usk_praha"
+  },
+  {
+    "HomeTeam": "ERA Basketball Nymburk",
+    "AwayTeam": "SK Slavia Praha",
+    "HomeScore": 113,
+    "AwayScore": 77,
+    "Date": "2025-11-15",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2025-11-15_era_basketball_nymburk_sk_slavia_praha"
+  },
+  {
+    "HomeTeam": "ERA Basketball Nymburk",
+    "AwayTeam": "NH Ostrava",
+    "HomeScore": 112,
+    "AwayScore": 84,
+    "Date": "2025-11-19",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2025-11-19_era_basketball_nymburk_nh_ostrava"
+  },
+  {
+    "HomeTeam": "BK ARMEX ENERGY D\u011B\u010D\u00EDn",
+    "AwayTeam": "SK Slavia Praha",
+    "HomeScore": 96,
+    "AwayScore": 87,
+    "Date": "2025-11-19",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2025-11-19_bk_armex_energy_d\u011B\u010D\u00EDn_sk_slavia_praha"
+  },
+  {
+    "HomeTeam": "SLUNETA \u00DAst\u00ED nad Labem",
+    "AwayTeam": "BK KVIS Pardubice",
+    "HomeScore": 84,
+    "AwayScore": 98,
+    "Date": "2025-11-19",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2025-11-19_sluneta_\u00FAst\u00ED_nad_labem_bk_kvis_pardubice"
+  },
+  {
+    "HomeTeam": "BK Opava",
+    "AwayTeam": "BK GAPA Hradec Kr\u00E1lov\u00E9",
+    "HomeScore": 86,
+    "AwayScore": 73,
+    "Date": "2025-11-19",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2025-11-19_bk_opava_bk_gapa_hradec_kr\u00E1lov\u00E9"
+  },
+  {
+    "HomeTeam": "BK Olomoucko",
+    "AwayTeam": "Sr\u0161ni Photomate P\u00EDsek",
+    "HomeScore": 100,
+    "AwayScore": 103,
+    "Date": "2025-11-19",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2025-11-19_bk_olomoucko_sr\u0161ni_photomate_p\u00EDsek"
+  },
+  {
+    "HomeTeam": "PUMPA Basket Brno",
+    "AwayTeam": "SK Slavia Praha",
+    "HomeScore": 90,
+    "AwayScore": 83,
+    "Date": "2025-11-21",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2025-11-21_pumpa_basket_brno_sk_slavia_praha"
+  },
+  {
+    "HomeTeam": "BK KVIS Pardubice",
+    "AwayTeam": "USK Praha",
+    "HomeScore": 96,
+    "AwayScore": 80,
+    "Date": "2025-11-22",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2025-11-22_bk_kvis_pardubice_usk_praha"
+  },
+  {
+    "HomeTeam": "BK ARMEX ENERGY D\u011B\u010D\u00EDn",
+    "AwayTeam": "ERA Basketball Nymburk",
+    "HomeScore": 80,
+    "AwayScore": 85,
+    "Date": "2025-11-22",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2025-11-22_bk_armex_energy_d\u011B\u010D\u00EDn_era_basketball_nymburk"
+  },
+  {
+    "HomeTeam": "NH Ostrava",
+    "AwayTeam": "BK Olomoucko",
+    "HomeScore": 77,
+    "AwayScore": 68,
+    "Date": "2025-11-23",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2025-11-23_nh_ostrava_bk_olomoucko"
+  },
+  {
+    "HomeTeam": "Sr\u0161ni Photomate P\u00EDsek",
+    "AwayTeam": "BK Opava",
+    "HomeScore": 84,
+    "AwayScore": 86,
+    "Date": "2025-11-23",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2025-11-23_sr\u0161ni_photomate_p\u00EDsek_bk_opava"
+  },
+  {
+    "HomeTeam": "BK GAPA Hradec Kr\u00E1lov\u00E9",
+    "AwayTeam": "SLUNETA \u00DAst\u00ED nad Labem",
+    "HomeScore": 65,
+    "AwayScore": 79,
+    "Date": "2025-11-23",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2025-11-23_bk_gapa_hradec_kr\u00E1lov\u00E9_sluneta_\u00FAst\u00ED_nad_labem"
+  },
+  {
+    "HomeTeam": "PUMPA Basket Brno",
+    "AwayTeam": "ERA Basketball Nymburk",
+    "HomeScore": 78,
+    "AwayScore": 101,
+    "Date": "2025-12-03",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2025-12-03_pumpa_basket_brno_era_basketball_nymburk"
+  },
+  {
+    "HomeTeam": "BK ARMEX ENERGY D\u011B\u010D\u00EDn",
+    "AwayTeam": "NH Ostrava",
+    "HomeScore": 86,
+    "AwayScore": 74,
+    "Date": "2025-12-06",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2025-12-06_bk_armex_energy_d\u011B\u010D\u00EDn_nh_ostrava"
+  },
+  {
+    "HomeTeam": "ERA Basketball Nymburk",
+    "AwayTeam": "PUMPA Basket Brno",
+    "HomeScore": 95,
+    "AwayScore": 57,
+    "Date": "2025-12-06",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2025-12-06_era_basketball_nymburk_pumpa_basket_brno"
+  },
+  {
+    "HomeTeam": "BK KVIS Pardubice",
+    "AwayTeam": "SK Slavia Praha",
+    "HomeScore": 88,
+    "AwayScore": 79,
+    "Date": "2025-12-06",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2025-12-06_bk_kvis_pardubice_sk_slavia_praha"
+  },
+  {
+    "HomeTeam": "USK Praha",
+    "AwayTeam": "BK GAPA Hradec Kr\u00E1lov\u00E9",
+    "HomeScore": 93,
+    "AwayScore": 58,
+    "Date": "2025-12-06",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2025-12-06_usk_praha_bk_gapa_hradec_kr\u00E1lov\u00E9"
+  },
+  {
+    "HomeTeam": "BK Opava",
+    "AwayTeam": "BK Olomoucko",
+    "HomeScore": 89,
+    "AwayScore": 73,
+    "Date": "2025-12-06",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2025-12-06_bk_opava_bk_olomoucko"
+  },
+  {
+    "HomeTeam": "Sr\u0161ni Photomate P\u00EDsek",
+    "AwayTeam": "SLUNETA \u00DAst\u00ED nad Labem",
+    "HomeScore": 82,
+    "AwayScore": 94,
+    "Date": "2025-12-07",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2025-12-07_sr\u0161ni_photomate_p\u00EDsek_sluneta_\u00FAst\u00ED_nad_labem"
+  },
+  {
+    "HomeTeam": "SK Slavia Praha",
+    "AwayTeam": "BK Olomoucko",
+    "HomeScore": 77,
+    "AwayScore": 86,
+    "Date": "2025-12-08",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2025-12-08_sk_slavia_praha_bk_olomoucko"
+  },
+  {
+    "HomeTeam": "BK ARMEX ENERGY D\u011B\u010D\u00EDn",
+    "AwayTeam": "PUMPA Basket Brno",
+    "HomeScore": 77,
+    "AwayScore": 73,
+    "Date": "2025-12-10",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2025-12-10_bk_armex_energy_d\u011B\u010D\u00EDn_pumpa_basket_brno"
+  },
+  {
+    "HomeTeam": "NH Ostrava",
+    "AwayTeam": "BK Opava",
+    "HomeScore": 106,
+    "AwayScore": 102,
+    "Date": "2025-12-13",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2025-12-13_nh_ostrava_bk_opava"
+  },
+  {
+    "HomeTeam": "BK Olomoucko",
+    "AwayTeam": "SLUNETA \u00DAst\u00ED nad Labem",
+    "HomeScore": 82,
+    "AwayScore": 100,
+    "Date": "2025-12-13",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2025-12-13_bk_olomoucko_sluneta_\u00FAst\u00ED_nad_labem"
+  },
+  {
+    "HomeTeam": "ERA Basketball Nymburk",
+    "AwayTeam": "BK KVIS Pardubice",
+    "HomeScore": 95,
+    "AwayScore": 100,
+    "Date": "2025-12-13",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2025-12-13_era_basketball_nymburk_bk_kvis_pardubice"
+  },
+  {
+    "HomeTeam": "PUMPA Basket Brno",
+    "AwayTeam": "BK ARMEX ENERGY D\u011B\u010D\u00EDn",
+    "HomeScore": 80,
+    "AwayScore": 97,
+    "Date": "2025-12-13",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2025-12-13_pumpa_basket_brno_bk_armex_energy_d\u011B\u010D\u00EDn"
+  },
+  {
+    "HomeTeam": "Sr\u0161ni Photomate P\u00EDsek",
+    "AwayTeam": "USK Praha",
+    "HomeScore": 95,
+    "AwayScore": 79,
+    "Date": "2025-12-14",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2025-12-14_sr\u0161ni_photomate_p\u00EDsek_usk_praha"
+  },
+  {
+    "HomeTeam": "PUMPA Basket Brno",
+    "AwayTeam": "NH Ostrava",
+    "HomeScore": 84,
+    "AwayScore": 82,
+    "Date": "2025-12-20",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2025-12-20_pumpa_basket_brno_nh_ostrava"
+  },
+  {
+    "HomeTeam": "BK ARMEX ENERGY D\u011B\u010D\u00EDn",
+    "AwayTeam": "BK KVIS Pardubice",
+    "HomeScore": 87,
+    "AwayScore": 92,
+    "Date": "2025-12-20",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2025-12-20_bk_armex_energy_d\u011B\u010D\u00EDn_bk_kvis_pardubice"
+  },
+  {
+    "HomeTeam": "ERA Basketball Nymburk",
+    "AwayTeam": "BK GAPA Hradec Kr\u00E1lov\u00E9",
+    "HomeScore": 108,
+    "AwayScore": 79,
+    "Date": "2025-12-20",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2025-12-20_era_basketball_nymburk_bk_gapa_hradec_kr\u00E1lov\u00E9"
+  },
+  {
+    "HomeTeam": "SK Slavia Praha",
+    "AwayTeam": "Sr\u0161ni Photomate P\u00EDsek",
+    "HomeScore": 73,
+    "AwayScore": 82,
+    "Date": "2025-12-20",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2025-12-20_sk_slavia_praha_sr\u0161ni_photomate_p\u00EDsek"
+  },
+  {
+    "HomeTeam": "USK Praha",
+    "AwayTeam": "BK Olomoucko",
+    "HomeScore": 99,
+    "AwayScore": 67,
+    "Date": "2025-12-20",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2025-12-20_usk_praha_bk_olomoucko"
+  },
+  {
+    "HomeTeam": "SLUNETA \u00DAst\u00ED nad Labem",
+    "AwayTeam": "BK Opava",
+    "HomeScore": 99,
+    "AwayScore": 95,
+    "Date": "2025-12-21",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2025-12-21_sluneta_\u00FAst\u00ED_nad_labem_bk_opava"
+  },
+  {
+    "HomeTeam": "NH Ostrava",
+    "AwayTeam": "SLUNETA \u00DAst\u00ED nad Labem",
+    "HomeScore": 100,
+    "AwayScore": 97,
+    "Date": "2025-12-27",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2025-12-27_nh_ostrava_sluneta_\u00FAst\u00ED_nad_labem"
+  },
+  {
+    "HomeTeam": "BK Opava",
+    "AwayTeam": "USK Praha",
+    "HomeScore": 89,
+    "AwayScore": 81,
+    "Date": "2025-12-27",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2025-12-27_bk_opava_usk_praha"
+  },
+  {
+    "HomeTeam": "BK Olomoucko",
+    "AwayTeam": "SK Slavia Praha",
+    "HomeScore": 90,
+    "AwayScore": 84,
+    "Date": "2025-12-27",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2025-12-27_bk_olomoucko_sk_slavia_praha"
+  },
+  {
+    "HomeTeam": "Sr\u0161ni Photomate P\u00EDsek",
+    "AwayTeam": "ERA Basketball Nymburk",
+    "HomeScore": 92,
+    "AwayScore": 105,
+    "Date": "2025-12-27",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2025-12-27_sr\u0161ni_photomate_p\u00EDsek_era_basketball_nymburk"
+  },
+  {
+    "HomeTeam": "BK ARMEX ENERGY D\u011B\u010D\u00EDn",
+    "AwayTeam": "BK GAPA Hradec Kr\u00E1lov\u00E9",
+    "HomeScore": 89,
+    "AwayScore": 82,
+    "Date": "2025-12-27",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2025-12-27_bk_armex_energy_d\u011B\u010D\u00EDn_bk_gapa_hradec_kr\u00E1lov\u00E9"
+  },
+  {
+    "HomeTeam": "BK KVIS Pardubice",
+    "AwayTeam": "PUMPA Basket Brno",
+    "HomeScore": 64,
+    "AwayScore": 77,
+    "Date": "2025-12-27",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2025-12-27_bk_kvis_pardubice_pumpa_basket_brno"
+  },
+  {
+    "HomeTeam": "BK KVIS Pardubice",
+    "AwayTeam": "NH Ostrava",
+    "HomeScore": 83,
+    "AwayScore": 80,
+    "Date": "2025-12-30",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2025-12-30_bk_kvis_pardubice_nh_ostrava"
+  },
+  {
+    "HomeTeam": "PUMPA Basket Brno",
+    "AwayTeam": "BK GAPA Hradec Kr\u00E1lov\u00E9",
+    "HomeScore": 75,
+    "AwayScore": 73,
+    "Date": "2025-12-30",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2025-12-30_pumpa_basket_brno_bk_gapa_hradec_kr\u00E1lov\u00E9"
+  },
+  {
+    "HomeTeam": "BK ARMEX ENERGY D\u011B\u010D\u00EDn",
+    "AwayTeam": "Sr\u0161ni Photomate P\u00EDsek",
+    "HomeScore": 90,
+    "AwayScore": 86,
+    "Date": "2025-12-30",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2025-12-30_bk_armex_energy_d\u011B\u010D\u00EDn_sr\u0161ni_photomate_p\u00EDsek"
+  },
+  {
+    "HomeTeam": "ERA Basketball Nymburk",
+    "AwayTeam": "BK Olomoucko",
+    "HomeScore": 131,
+    "AwayScore": 43,
+    "Date": "2025-12-30",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2025-12-30_era_basketball_nymburk_bk_olomoucko"
+  },
+  {
+    "HomeTeam": "SK Slavia Praha",
+    "AwayTeam": "BK Opava",
+    "HomeScore": 93,
+    "AwayScore": 98,
+    "Date": "2025-12-30",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2025-12-30_sk_slavia_praha_bk_opava"
+  },
+  {
+    "HomeTeam": "SLUNETA \u00DAst\u00ED nad Labem",
+    "AwayTeam": "USK Praha",
+    "HomeScore": 88,
+    "AwayScore": 79,
+    "Date": "2025-12-30",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2025-12-30_sluneta_\u00FAst\u00ED_nad_labem_usk_praha"
+  },
+  {
+    "HomeTeam": "NH Ostrava",
+    "AwayTeam": "USK Praha",
+    "HomeScore": 100,
+    "AwayScore": 88,
+    "Date": "2026-01-03",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2026-01-03_nh_ostrava_usk_praha"
+  },
+  {
+    "HomeTeam": "BK Opava",
+    "AwayTeam": "ERA Basketball Nymburk",
+    "HomeScore": 77,
+    "AwayScore": 99,
+    "Date": "2026-01-03",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2026-01-03_bk_opava_era_basketball_nymburk"
+  },
+  {
+    "HomeTeam": "BK Olomoucko",
+    "AwayTeam": "BK ARMEX ENERGY D\u011B\u010D\u00EDn",
+    "HomeScore": 91,
+    "AwayScore": 84,
+    "Date": "2026-01-03",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2026-01-03_bk_olomoucko_bk_armex_energy_d\u011B\u010D\u00EDn"
+  },
+  {
+    "HomeTeam": "BK GAPA Hradec Kr\u00E1lov\u00E9",
+    "AwayTeam": "BK KVIS Pardubice",
+    "HomeScore": 65,
+    "AwayScore": 86,
+    "Date": "2026-01-03",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2026-01-03_bk_gapa_hradec_kr\u00E1lov\u00E9_bk_kvis_pardubice"
+  },
+  {
+    "HomeTeam": "SK Slavia Praha",
+    "AwayTeam": "SLUNETA \u00DAst\u00ED nad Labem",
+    "HomeScore": 86,
+    "AwayScore": 107,
+    "Date": "2026-01-04",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2026-01-04_sk_slavia_praha_sluneta_\u00FAst\u00ED_nad_labem"
+  },
+  {
+    "HomeTeam": "Sr\u0161ni Photomate P\u00EDsek",
+    "AwayTeam": "PUMPA Basket Brno",
+    "HomeScore": 98,
+    "AwayScore": 105,
+    "Date": "2026-01-04",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2026-01-04_sr\u0161ni_photomate_p\u00EDsek_pumpa_basket_brno"
+  },
+  {
+    "HomeTeam": "BK GAPA Hradec Kr\u00E1lov\u00E9",
+    "AwayTeam": "PUMPA Basket Brno",
+    "HomeScore": 88,
+    "AwayScore": 94,
+    "Date": "2026-01-07",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2026-01-07_bk_gapa_hradec_kr\u00E1lov\u00E9_pumpa_basket_brno"
+  },
+  {
+    "HomeTeam": "BK GAPA Hradec Kr\u00E1lov\u00E9",
+    "AwayTeam": "NH Ostrava",
+    "HomeScore": 89,
+    "AwayScore": 91,
+    "Date": "2026-01-10",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2026-01-10_bk_gapa_hradec_kr\u00E1lov\u00E9_nh_ostrava"
+  },
+  {
+    "HomeTeam": "BK KVIS Pardubice",
+    "AwayTeam": "Sr\u0161ni Photomate P\u00EDsek",
+    "HomeScore": 118,
+    "AwayScore": 85,
+    "Date": "2026-01-10",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2026-01-10_bk_kvis_pardubice_sr\u0161ni_photomate_p\u00EDsek"
+  },
+  {
+    "HomeTeam": "BK Olomoucko",
+    "AwayTeam": "PUMPA Basket Brno",
+    "HomeScore": 72,
+    "AwayScore": 50,
+    "Date": "2026-01-10",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2026-01-10_bk_olomoucko_pumpa_basket_brno"
+  },
+  {
+    "HomeTeam": "BK Opava",
+    "AwayTeam": "BK ARMEX ENERGY D\u011B\u010D\u00EDn",
+    "HomeScore": 80,
+    "AwayScore": 87,
+    "Date": "2026-01-10",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2026-01-10_bk_opava_bk_armex_energy_d\u011B\u010D\u00EDn"
+  },
+  {
+    "HomeTeam": "ERA Basketball Nymburk",
+    "AwayTeam": "SLUNETA \u00DAst\u00ED nad Labem",
+    "HomeScore": 89,
+    "AwayScore": 60,
+    "Date": "2026-01-10",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2026-01-10_era_basketball_nymburk_sluneta_\u00FAst\u00ED_nad_labem"
+  },
+  {
+    "HomeTeam": "SK Slavia Praha",
+    "AwayTeam": "USK Praha",
+    "HomeScore": 86,
+    "AwayScore": 71,
+    "Date": "2026-01-10",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2026-01-10_sk_slavia_praha_usk_praha"
+  },
+  {
+    "HomeTeam": "BK KVIS Pardubice",
+    "AwayTeam": "BK Opava",
+    "HomeScore": 84,
+    "AwayScore": 75,
+    "Date": "2026-01-14",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2026-01-14_bk_kvis_pardubice_bk_opava"
+  },
+  {
+    "HomeTeam": "BK GAPA Hradec Kr\u00E1lov\u00E9",
+    "AwayTeam": "SK Slavia Praha",
+    "HomeScore": 90,
+    "AwayScore": 93,
+    "Date": "2026-01-14",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2026-01-14_bk_gapa_hradec_kr\u00E1lov\u00E9_sk_slavia_praha"
+  },
+  {
+    "HomeTeam": "USK Praha",
+    "AwayTeam": "PUMPA Basket Brno",
+    "HomeScore": 95,
+    "AwayScore": 83,
+    "Date": "2026-01-15",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2026-01-15_usk_praha_pumpa_basket_brno"
+  },
+  {
+    "HomeTeam": "SK Slavia Praha",
+    "AwayTeam": "NH Ostrava",
+    "HomeScore": 74,
+    "AwayScore": 77,
+    "Date": "2026-01-17",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2026-01-17_sk_slavia_praha_nh_ostrava"
+  },
+  {
+    "HomeTeam": "USK Praha",
+    "AwayTeam": "ERA Basketball Nymburk",
+    "HomeScore": 79,
+    "AwayScore": 109,
+    "Date": "2026-01-17",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2026-01-17_usk_praha_era_basketball_nymburk"
+  },
+  {
+    "HomeTeam": "SLUNETA \u00DAst\u00ED nad Labem",
+    "AwayTeam": "BK ARMEX ENERGY D\u011B\u010D\u00EDn",
+    "HomeScore": 95,
+    "AwayScore": 87,
+    "Date": "2026-01-17",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2026-01-17_sluneta_\u00FAst\u00ED_nad_labem_bk_armex_energy_d\u011B\u010D\u00EDn"
+  },
+  {
+    "HomeTeam": "BK Opava",
+    "AwayTeam": "PUMPA Basket Brno",
+    "HomeScore": 79,
+    "AwayScore": 89,
+    "Date": "2026-01-17",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2026-01-17_bk_opava_pumpa_basket_brno"
+  },
+  {
+    "HomeTeam": "BK Olomoucko",
+    "AwayTeam": "BK KVIS Pardubice",
+    "HomeScore": 79,
+    "AwayScore": 82,
+    "Date": "2026-01-17",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2026-01-17_bk_olomoucko_bk_kvis_pardubice"
+  },
+  {
+    "HomeTeam": "Sr\u0161ni Photomate P\u00EDsek",
+    "AwayTeam": "BK GAPA Hradec Kr\u00E1lov\u00E9",
+    "HomeScore": 89,
+    "AwayScore": 74,
+    "Date": "2026-01-17",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2026-01-17_sr\u0161ni_photomate_p\u00EDsek_bk_gapa_hradec_kr\u00E1lov\u00E9"
+  },
+  {
+    "HomeTeam": "BK KVIS Pardubice",
+    "AwayTeam": "BK ARMEX ENERGY D\u011B\u010D\u00EDn",
+    "HomeScore": 115,
+    "AwayScore": 74,
+    "Date": "2026-01-24",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2026-01-24_bk_kvis_pardubice_bk_armex_energy_d\u011B\u010D\u00EDn"
+  },
+  {
+    "HomeTeam": "USK Praha",
+    "AwayTeam": "BK GAPA Hradec Kr\u00E1lov\u00E9",
+    "HomeScore": 100,
+    "AwayScore": 93,
+    "Date": "2026-01-24",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2026-01-24_usk_praha_bk_gapa_hradec_kr\u00E1lov\u00E9"
+  },
+  {
+    "HomeTeam": "BK Olomoucko",
+    "AwayTeam": "SK Slavia Praha",
+    "HomeScore": 97,
+    "AwayScore": 84,
+    "Date": "2026-01-24",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2026-01-24_bk_olomoucko_sk_slavia_praha"
+  },
+  {
+    "HomeTeam": "Sr\u0161ni Photomate P\u00EDsek",
+    "AwayTeam": "PUMPA Basket Brno",
+    "HomeScore": 101,
+    "AwayScore": 84,
+    "Date": "2026-01-25",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2026-01-25_sr\u0161ni_photomate_p\u00EDsek_pumpa_basket_brno"
+  },
+  {
+    "HomeTeam": "SLUNETA \u00DAst\u00ED nad Labem",
+    "AwayTeam": "NH Ostrava",
+    "HomeScore": 105,
+    "AwayScore": 82,
+    "Date": "2026-01-25",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2026-01-25_sluneta_\u00FAst\u00ED_nad_labem_nh_ostrava"
+  },
+  {
+    "HomeTeam": "NH Ostrava",
+    "AwayTeam": "BK ARMEX ENERGY D\u011B\u010D\u00EDn",
+    "HomeScore": 82,
+    "AwayScore": 78,
+    "Date": "2026-01-28",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2026-01-28_nh_ostrava_bk_armex_energy_d\u011B\u010D\u00EDn"
+  },
+  {
+    "HomeTeam": "Sr\u0161ni Photomate P\u00EDsek",
+    "AwayTeam": "BK Opava",
+    "HomeScore": 87,
+    "AwayScore": 76,
+    "Date": "2026-01-28",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2026-01-28_sr\u0161ni_photomate_p\u00EDsek_bk_opava"
+  },
+  {
+    "HomeTeam": "BK KVIS Pardubice",
+    "AwayTeam": "PUMPA Basket Brno",
+    "HomeScore": 111,
+    "AwayScore": 69,
+    "Date": "2026-01-28",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2026-01-28_bk_kvis_pardubice_pumpa_basket_brno"
+  },
+  {
+    "HomeTeam": "PUMPA Basket Brno",
+    "AwayTeam": "BK ARMEX ENERGY D\u011B\u010D\u00EDn",
+    "HomeScore": 76,
+    "AwayScore": 90,
+    "Date": "2026-01-31",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2026-01-31_pumpa_basket_brno_bk_armex_energy_d\u011B\u010D\u00EDn"
+  },
+  {
+    "HomeTeam": "BK Opava",
+    "AwayTeam": "BK KVIS Pardubice",
+    "HomeScore": 75,
+    "AwayScore": 74,
+    "Date": "2026-01-31",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2026-01-31_bk_opava_bk_kvis_pardubice"
+  },
+  {
+    "HomeTeam": "NH Ostrava",
+    "AwayTeam": "ERA Basketball Nymburk",
+    "HomeScore": 84,
+    "AwayScore": 113,
+    "Date": "2026-01-31",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2026-01-31_nh_ostrava_era_basketball_nymburk"
+  },
+  {
+    "HomeTeam": "BK GAPA Hradec Kr\u00E1lov\u00E9",
+    "AwayTeam": "SK Slavia Praha",
+    "HomeScore": 73,
+    "AwayScore": 76,
+    "Date": "2026-01-31",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2026-01-31_bk_gapa_hradec_kr\u00E1lov\u00E9_sk_slavia_praha"
+  },
+  {
+    "HomeTeam": "USK Praha",
+    "AwayTeam": "BK Olomoucko",
+    "HomeScore": 101,
+    "AwayScore": 74,
+    "Date": "2026-01-31",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2026-01-31_usk_praha_bk_olomoucko"
+  },
+  {
+    "HomeTeam": "SLUNETA \u00DAst\u00ED nad Labem",
+    "AwayTeam": "Sr\u0161ni Photomate P\u00EDsek",
+    "HomeScore": 88,
+    "AwayScore": 74,
+    "Date": "2026-02-01",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2026-02-01_sluneta_\u00FAst\u00ED_nad_labem_sr\u0161ni_photomate_p\u00EDsek"
+  },
+  {
+    "HomeTeam": "BK ARMEX ENERGY D\u011B\u010D\u00EDn",
+    "AwayTeam": "ERA Basketball Nymburk",
+    "HomeScore": 92,
+    "AwayScore": 107,
+    "Date": "2026-02-07",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2026-02-07_bk_armex_energy_d\u011B\u010D\u00EDn_era_basketball_nymburk"
+  },
+  {
+    "HomeTeam": "NH Ostrava",
+    "AwayTeam": "Sr\u0161ni Photomate P\u00EDsek",
+    "HomeScore": 71,
+    "AwayScore": 99,
+    "Date": "2026-02-07",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2026-02-07_nh_ostrava_sr\u0161ni_photomate_p\u00EDsek"
+  },
+  {
+    "HomeTeam": "BK KVIS Pardubice",
+    "AwayTeam": "SLUNETA \u00DAst\u00ED nad Labem",
+    "HomeScore": 100,
+    "AwayScore": 79,
+    "Date": "2026-02-07",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2026-02-07_bk_kvis_pardubice_sluneta_\u00FAst\u00ED_nad_labem"
+  },
+  {
+    "HomeTeam": "SK Slavia Praha",
+    "AwayTeam": "USK Praha",
+    "HomeScore": 98,
+    "AwayScore": 94,
+    "Date": "2026-02-07",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2026-02-07_sk_slavia_praha_usk_praha"
+  },
+  {
+    "HomeTeam": "BK Opava",
+    "AwayTeam": "BK ARMEX ENERGY D\u011B\u010D\u00EDn",
+    "HomeScore": 95,
+    "AwayScore": 80,
+    "Date": "2026-02-14",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2026-02-14_bk_opava_bk_armex_energy_d\u011B\u010D\u00EDn"
+  },
+  {
+    "HomeTeam": "BK KVIS Pardubice",
+    "AwayTeam": "NH Ostrava",
+    "HomeScore": 109,
+    "AwayScore": 72,
+    "Date": "2026-02-14",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2026-02-14_bk_kvis_pardubice_nh_ostrava"
+  },
+  {
+    "HomeTeam": "BK GAPA Hradec Kr\u00E1lov\u00E9",
+    "AwayTeam": "USK Praha",
+    "HomeScore": 88,
+    "AwayScore": 60,
+    "Date": "2026-02-14",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2026-02-14_bk_gapa_hradec_kr\u00E1lov\u00E9_usk_praha"
+  },
+  {
+    "HomeTeam": "SLUNETA \u00DAst\u00ED nad Labem",
+    "AwayTeam": "PUMPA Basket Brno",
+    "HomeScore": 82,
+    "AwayScore": 70,
+    "Date": "2026-02-15",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2026-02-15_sluneta_\u00FAst\u00ED_nad_labem_pumpa_basket_brno"
+  },
+  {
+    "HomeTeam": "SK Slavia Praha",
+    "AwayTeam": "BK Olomoucko",
+    "HomeScore": 81,
+    "AwayScore": 72,
+    "Date": "2026-02-15",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2026-02-15_sk_slavia_praha_bk_olomoucko"
+  },
+  {
+    "HomeTeam": "PUMPA Basket Brno",
+    "AwayTeam": "NH Ostrava",
+    "HomeScore": 100,
+    "AwayScore": 88,
+    "Date": "2026-02-17",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2026-02-17_pumpa_basket_brno_nh_ostrava"
+  },
+  {
+    "HomeTeam": "SK Slavia Praha",
+    "AwayTeam": "BK GAPA Hradec Kr\u00E1lov\u00E9",
+    "HomeScore": 79,
+    "AwayScore": 68,
+    "Date": "2026-02-17",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2026-02-17_sk_slavia_praha_bk_gapa_hradec_kr\u00E1lov\u00E9"
+  },
+  {
+    "HomeTeam": "BK Olomoucko",
+    "AwayTeam": "USK Praha",
+    "HomeScore": 79,
+    "AwayScore": 88,
+    "Date": "2026-02-17",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2026-02-17_bk_olomoucko_usk_praha"
+  },
+  {
+    "HomeTeam": "BK ARMEX ENERGY D\u011B\u010D\u00EDn",
+    "AwayTeam": "Sr\u0161ni Photomate P\u00EDsek",
+    "HomeScore": 88,
+    "AwayScore": 84,
+    "Date": "2026-02-18",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2026-02-18_bk_armex_energy_d\u011B\u010D\u00EDn_sr\u0161ni_photomate_p\u00EDsek"
+  },
+  {
+    "HomeTeam": "BK KVIS Pardubice",
+    "AwayTeam": "ERA Basketball Nymburk",
+    "HomeScore": 88,
+    "AwayScore": 91,
+    "Date": "2026-02-18",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2026-02-18_bk_kvis_pardubice_era_basketball_nymburk"
+  },
+  {
+    "HomeTeam": "BK Opava",
+    "AwayTeam": "SLUNETA \u00DAst\u00ED nad Labem",
+    "HomeScore": 81,
+    "AwayScore": 88,
+    "Date": "2026-02-18",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2026-02-18_bk_opava_sluneta_\u00FAst\u00ED_nad_labem"
+  },
+  {
+    "HomeTeam": "NH Ostrava",
+    "AwayTeam": "BK Opava",
+    "HomeScore": 117,
+    "AwayScore": 121,
+    "Date": "2026-03-04",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2026-03-04_nh_ostrava_bk_opava"
+  },
+  {
+    "HomeTeam": "SLUNETA \u00DAst\u00ED nad Labem",
+    "AwayTeam": "BK ARMEX ENERGY D\u011B\u010D\u00EDn",
+    "HomeScore": 78,
+    "AwayScore": 70,
+    "Date": "2026-03-05",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2026-03-05_sluneta_\u00FAst\u00ED_nad_labem_bk_armex_energy_d\u011B\u010D\u00EDn"
+  },
+  {
+    "HomeTeam": "ERA Basketball Nymburk",
+    "AwayTeam": "PUMPA Basket Brno",
+    "HomeScore": 92,
+    "AwayScore": 60,
+    "Date": "2026-03-05",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2026-03-05_era_basketball_nymburk_pumpa_basket_brno"
+  },
+  {
+    "HomeTeam": "BK GAPA Hradec Kr\u00E1lov\u00E9",
+    "AwayTeam": "BK Olomoucko",
+    "HomeScore": 92,
+    "AwayScore": 77,
+    "Date": "2026-03-05",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2026-03-05_bk_gapa_hradec_kr\u00E1lov\u00E9_bk_olomoucko"
+  },
+  {
+    "HomeTeam": "USK Praha",
+    "AwayTeam": "SK Slavia Praha",
+    "HomeScore": 79,
+    "AwayScore": 72,
+    "Date": "2026-03-05",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2026-03-05_usk_praha_sk_slavia_praha"
+  },
+  {
+    "HomeTeam": "Sr\u0161ni Photomate P\u00EDsek",
+    "AwayTeam": "BK KVIS Pardubice",
+    "HomeScore": 84,
+    "AwayScore": 86,
+    "Date": "2026-03-06",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2026-03-06_sr\u0161ni_photomate_p\u00EDsek_bk_kvis_pardubice"
+  },
+  {
+    "HomeTeam": "ERA Basketball Nymburk",
+    "AwayTeam": "BK Opava",
+    "HomeScore": 96,
+    "AwayScore": 78,
+    "Date": "2026-03-07",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2026-03-07_era_basketball_nymburk_bk_opava"
+  },
+  {
+    "HomeTeam": "BK ARMEX ENERGY D\u011B\u010D\u00EDn",
+    "AwayTeam": "BK KVIS Pardubice",
+    "HomeScore": 76,
+    "AwayScore": 90,
+    "Date": "2026-03-14",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2026-03-14_bk_armex_energy_d\u011B\u010D\u00EDn_bk_kvis_pardubice"
+  },
+  {
+    "HomeTeam": "PUMPA Basket Brno",
+    "AwayTeam": "Sr\u0161ni Photomate P\u00EDsek",
+    "HomeScore": 90,
+    "AwayScore": 85,
+    "Date": "2026-03-14",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2026-03-14_pumpa_basket_brno_sr\u0161ni_photomate_p\u00EDsek"
+  },
+  {
+    "HomeTeam": "BK Opava",
+    "AwayTeam": "ERA Basketball Nymburk",
+    "HomeScore": 105,
+    "AwayScore": 89,
+    "Date": "2026-03-14",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2026-03-14_bk_opava_era_basketball_nymburk"
+  },
+  {
+    "HomeTeam": "NH Ostrava",
+    "AwayTeam": "SLUNETA \u00DAst\u00ED nad Labem",
+    "HomeScore": 87,
+    "AwayScore": 91,
+    "Date": "2026-03-14",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2026-03-14_nh_ostrava_sluneta_\u00FAst\u00ED_nad_labem"
+  },
+  {
+    "HomeTeam": "USK Praha",
+    "AwayTeam": "BK GAPA Hradec Kr\u00E1lov\u00E9",
+    "HomeScore": 81,
+    "AwayScore": 60,
+    "Date": "2026-03-14",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2026-03-14_usk_praha_bk_gapa_hradec_kr\u00E1lov\u00E9"
+  },
+  {
+    "HomeTeam": "BK Olomoucko",
+    "AwayTeam": "SK Slavia Praha",
+    "HomeScore": 78,
+    "AwayScore": 70,
+    "Date": "2026-03-14",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2026-03-14_bk_olomoucko_sk_slavia_praha"
+  },
+  {
+    "HomeTeam": "PUMPA Basket Brno",
+    "AwayTeam": "BK Opava",
+    "HomeScore": 102,
+    "AwayScore": 65,
+    "Date": "2026-03-18",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2026-03-18_pumpa_basket_brno_bk_opava"
+  },
+  {
+    "HomeTeam": "BK Olomoucko",
+    "AwayTeam": "BK GAPA Hradec Kr\u00E1lov\u00E9",
+    "HomeScore": 86,
+    "AwayScore": 71,
+    "Date": "2026-03-18",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2026-03-18_bk_olomoucko_bk_gapa_hradec_kr\u00E1lov\u00E9"
+  },
+  {
+    "HomeTeam": "ERA Basketball Nymburk",
+    "AwayTeam": "Sr\u0161ni Photomate P\u00EDsek",
+    "HomeScore": 87,
+    "AwayScore": 95,
+    "Date": "2026-03-19",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2026-03-19_era_basketball_nymburk_sr\u0161ni_photomate_p\u00EDsek"
+  },
+  {
+    "HomeTeam": "BK ARMEX ENERGY D\u011B\u010D\u00EDn",
+    "AwayTeam": "NH Ostrava",
+    "HomeScore": 81,
+    "AwayScore": 77,
+    "Date": "2026-03-21",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2026-03-21_bk_armex_energy_d\u011B\u010D\u00EDn_nh_ostrava"
+  },
+  {
+    "HomeTeam": "BK Opava",
+    "AwayTeam": "Sr\u0161ni Photomate P\u00EDsek",
+    "HomeScore": 86,
+    "AwayScore": 70,
+    "Date": "2026-03-21",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2026-03-21_bk_opava_sr\u0161ni_photomate_p\u00EDsek"
+  },
+  {
+    "HomeTeam": "PUMPA Basket Brno",
+    "AwayTeam": "BK KVIS Pardubice",
+    "HomeScore": 78,
+    "AwayScore": 68,
+    "Date": "2026-03-21",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2026-03-21_pumpa_basket_brno_bk_kvis_pardubice"
+  },
+  {
+    "HomeTeam": "BK GAPA Hradec Kr\u00E1lov\u00E9",
+    "AwayTeam": "SK Slavia Praha",
+    "HomeScore": 66,
+    "AwayScore": 74,
+    "Date": "2026-03-21",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2026-03-21_bk_gapa_hradec_kr\u00E1lov\u00E9_sk_slavia_praha"
+  },
+  {
+    "HomeTeam": "USK Praha",
+    "AwayTeam": "BK Olomoucko",
+    "HomeScore": 90,
+    "AwayScore": 87,
+    "Date": "2026-03-21",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2026-03-21_usk_praha_bk_olomoucko"
+  },
+  {
+    "HomeTeam": "SLUNETA \u00DAst\u00ED nad Labem",
+    "AwayTeam": "ERA Basketball Nymburk",
+    "HomeScore": 96,
+    "AwayScore": 88,
+    "Date": "2026-03-22",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2026-03-22_sluneta_\u00FAst\u00ED_nad_labem_era_basketball_nymburk"
+  },
+  {
+    "HomeTeam": "BK ARMEX ENERGY D\u011B\u010D\u00EDn",
+    "AwayTeam": "PUMPA Basket Brno",
+    "HomeScore": 77,
+    "AwayScore": 81,
+    "Date": "2026-03-25",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2026-03-25_bk_armex_energy_d\u011B\u010D\u00EDn_pumpa_basket_brno"
+  },
+  {
+    "HomeTeam": "BK KVIS Pardubice",
+    "AwayTeam": "BK Opava",
+    "HomeScore": 79,
+    "AwayScore": 75,
+    "Date": "2026-03-25",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2026-03-25_bk_kvis_pardubice_bk_opava"
+  },
+  {
+    "HomeTeam": "Sr\u0161ni Photomate P\u00EDsek",
+    "AwayTeam": "SLUNETA \u00DAst\u00ED nad Labem",
+    "HomeScore": 84,
+    "AwayScore": 91,
+    "Date": "2026-03-25",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2026-03-25_sr\u0161ni_photomate_p\u00EDsek_sluneta_\u00FAst\u00ED_nad_labem"
+  },
+  {
+    "HomeTeam": "ERA Basketball Nymburk",
+    "AwayTeam": "NH Ostrava",
+    "HomeScore": 118,
+    "AwayScore": 75,
+    "Date": "2026-03-25",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2026-03-25_era_basketball_nymburk_nh_ostrava"
+  },
+  {
+    "HomeTeam": "BK Olomoucko",
+    "AwayTeam": "BK GAPA Hradec Kr\u00E1lov\u00E9",
+    "HomeScore": 86,
+    "AwayScore": 77,
+    "Date": "2026-03-25",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2026-03-25_bk_olomoucko_bk_gapa_hradec_kr\u00E1lov\u00E9"
+  },
+  {
+    "HomeTeam": "SK Slavia Praha",
+    "AwayTeam": "USK Praha",
+    "HomeScore": 83,
+    "AwayScore": 85,
+    "Date": "2026-03-25",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2026-03-25_sk_slavia_praha_usk_praha"
+  },
+  {
+    "HomeTeam": "ERA Basketball Nymburk",
+    "AwayTeam": "BK ARMEX ENERGY D\u011B\u010D\u00EDn",
+    "HomeScore": 110,
+    "AwayScore": 76,
+    "Date": "2026-03-28",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2026-03-28_era_basketball_nymburk_bk_armex_energy_d\u011B\u010D\u00EDn"
+  },
+  {
+    "HomeTeam": "BK Opava",
+    "AwayTeam": "PUMPA Basket Brno",
+    "HomeScore": 66,
+    "AwayScore": 76,
+    "Date": "2026-03-28",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2026-03-28_bk_opava_pumpa_basket_brno"
+  },
+  {
+    "HomeTeam": "BK GAPA Hradec Kr\u00E1lov\u00E9",
+    "AwayTeam": "USK Praha",
+    "HomeScore": 97,
+    "AwayScore": 69,
+    "Date": "2026-03-28",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2026-03-28_bk_gapa_hradec_kr\u00E1lov\u00E9_usk_praha"
+  },
+  {
+    "HomeTeam": "Sr\u0161ni Photomate P\u00EDsek",
+    "AwayTeam": "NH Ostrava",
+    "HomeScore": 104,
+    "AwayScore": 81,
+    "Date": "2026-03-29",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2026-03-29_sr\u0161ni_photomate_p\u00EDsek_nh_ostrava"
+  },
+  {
+    "HomeTeam": "SLUNETA \u00DAst\u00ED nad Labem",
+    "AwayTeam": "BK KVIS Pardubice",
+    "HomeScore": 89,
+    "AwayScore": 101,
+    "Date": "2026-03-29",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2026-03-29_sluneta_\u00FAst\u00ED_nad_labem_bk_kvis_pardubice"
+  },
+  {
+    "HomeTeam": "NH Ostrava",
+    "AwayTeam": "BK KVIS Pardubice",
+    "HomeScore": 93,
+    "AwayScore": 101,
+    "Date": "2026-04-01",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2026-04-01_nh_ostrava_bk_kvis_pardubice"
+  },
+  {
+    "HomeTeam": "ERA Basketball Nymburk",
+    "AwayTeam": "BK KVIS Pardubice",
+    "HomeScore": 88,
+    "AwayScore": 86,
+    "Date": "2026-04-04",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2026-04-04_era_basketball_nymburk_bk_kvis_pardubice"
+  },
+  {
+    "HomeTeam": "NH Ostrava",
+    "AwayTeam": "PUMPA Basket Brno",
+    "HomeScore": 77,
+    "AwayScore": 102,
+    "Date": "2026-04-04",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2026-04-04_nh_ostrava_pumpa_basket_brno"
+  },
+  {
+    "HomeTeam": "SK Slavia Praha",
+    "AwayTeam": "BK GAPA Hradec Kr\u00E1lov\u00E9",
+    "HomeScore": 89,
+    "AwayScore": 97,
+    "Date": "2026-04-04",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2026-04-04_sk_slavia_praha_bk_gapa_hradec_kr\u00E1lov\u00E9"
+  },
+  {
+    "HomeTeam": "BK Olomoucko",
+    "AwayTeam": "USK Praha",
+    "HomeScore": 95,
+    "AwayScore": 65,
+    "Date": "2026-04-04",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2026-04-04_bk_olomoucko_usk_praha"
+  },
+  {
+    "HomeTeam": "Sr\u0161ni Photomate P\u00EDsek",
+    "AwayTeam": "BK ARMEX ENERGY D\u011B\u010D\u00EDn",
+    "HomeScore": 91,
+    "AwayScore": 76,
+    "Date": "2026-04-05",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2026-04-05_sr\u0161ni_photomate_p\u00EDsek_bk_armex_energy_d\u011B\u010D\u00EDn"
+  },
+  {
+    "HomeTeam": "SLUNETA \u00DAst\u00ED nad Labem",
+    "AwayTeam": "BK Opava",
+    "HomeScore": 98,
+    "AwayScore": 95,
+    "Date": "2026-04-05",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2026-04-05_sluneta_\u00FAst\u00ED_nad_labem_bk_opava"
+  },
+  {
+    "HomeTeam": "ERA Basketball Nymburk",
+    "AwayTeam": "SLUNETA \u00DAst\u00ED nad Labem",
+    "HomeScore": 107,
+    "AwayScore": 94,
+    "Date": "2026-04-09",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2026-04-09_era_basketball_nymburk_sluneta_\u00FAst\u00ED_nad_labem"
+  },
+  {
+    "HomeTeam": "SK Slavia Praha",
+    "AwayTeam": "BK Olomoucko",
+    "HomeScore": 81,
+    "AwayScore": 88,
+    "Date": "2026-04-09",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2026-04-09_sk_slavia_praha_bk_olomoucko"
+  },
+  {
+    "HomeTeam": "BK ARMEX ENERGY D\u011B\u010D\u00EDn",
+    "AwayTeam": "BK Opava",
+    "HomeScore": 70,
+    "AwayScore": 78,
+    "Date": "2026-04-11",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2026-04-11_bk_armex_energy_d\u011B\u010D\u00EDn_bk_opava"
+  },
+  {
+    "HomeTeam": "Sr\u0161ni Photomate P\u00EDsek",
+    "AwayTeam": "ERA Basketball Nymburk",
+    "HomeScore": 78,
+    "AwayScore": 106,
+    "Date": "2026-04-11",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2026-04-11_sr\u0161ni_photomate_p\u00EDsek_era_basketball_nymburk"
+  },
+  {
+    "HomeTeam": "BK GAPA Hradec Kr\u00E1lov\u00E9",
+    "AwayTeam": "BK Olomoucko",
+    "HomeScore": 86,
+    "AwayScore": 84,
+    "Date": "2026-04-11",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2026-04-11_bk_gapa_hradec_kr\u00E1lov\u00E9_bk_olomoucko"
+  },
+  {
+    "HomeTeam": "USK Praha",
+    "AwayTeam": "SK Slavia Praha",
+    "HomeScore": 76,
+    "AwayScore": 81,
+    "Date": "2026-04-11",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2026-04-11_usk_praha_sk_slavia_praha"
+  },
+  {
+    "HomeTeam": "PUMPA Basket Brno",
+    "AwayTeam": "SLUNETA \u00DAst\u00ED nad Labem",
+    "HomeScore": 84,
+    "AwayScore": 88,
+    "Date": "2026-04-12",
+    "Source": "nbl.basketball",
+    "Verified": true,
+    "MatchKey": "2026-04-12_pumpa_basket_brno_sluneta_\u00FAst\u00ED_nad_labem"
+  }
+]

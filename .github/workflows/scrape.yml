@@ -1,0 +1,49 @@
+name: Scrape NBL Data
+
+on:
+  repository_dispatch:
+    types: [scrape]
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout cnbl-elo
+        uses: actions/checkout@v4
+
+      - name: Checkout scraper (pokus1)
+        uses: actions/checkout@v4
+        with:
+          repository: cechi16/pokus1
+          path: scraper
+          # If pokus1 is private, add: token: ${{ secrets.GH_PAT }}
+
+      - name: Setup .NET 8
+        uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: "8.0.x"
+
+      - name: Build scraper
+        working-directory: scraper
+        run: dotnet build -c Release
+
+      - name: Install Playwright browsers
+        working-directory: scraper
+        run: pwsh bin/Release/net8.0/playwright.ps1 install --with-deps chromium
+
+      - name: Run scraper
+        working-directory: scraper
+        env:
+          OUTPUT_DIR: ${{ github.workspace }}/public
+        run: dotnet run -c Release --no-build
+
+      - name: Commit updated data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add public/results.json public/upcoming.json public/odds_history.json
+          git diff --staged --quiet || git commit -m "chore: auto-scrape $(date -u '+%Y-%m-%d %H:%M UTC')"
+          git push
