@@ -382,8 +382,11 @@ export default function App() {
   const [simRunning,   setSimRunning]   = useState(false);
   const workerRef = useRef(null);
   const [scrapeStatus, setScrapeStatus] = useState(null); // null | "running" | "ok" | "error"
+  const [lastUpdated,  setLastUpdated]  = useState(null);
 
   const triggerScrape = useCallback(async () => {
+    const pwd = window.prompt("Heslo pro aktualizaci:");
+    if (pwd !== "123123") return;
     setScrapeStatus("running");
     try {
       const r = await fetch("/api/trigger-scrape", { method: "POST" });
@@ -454,7 +457,11 @@ export default function App() {
 
     // Load upcoming matches
     fetch("/upcoming.json")
-      .then(r => r.json())
+      .then(r => {
+        const lm = r.headers.get("Last-Modified");
+        if (lm) setLastUpdated(new Date(lm));
+        return r.json();
+      })
       .then(data => setUpcoming(data))
       .catch(() => setUpcoming(getUpcoming()));
 
@@ -689,6 +696,11 @@ export default function App() {
                 {scrapeStatus === "running" ? "⏳ Spouštím…" : scrapeStatus === "ok" ? "✓ Spuštěno" : scrapeStatus === "error" ? "✗ Chyba" : "▶ Aktualizovat data"}
               </button>
               {scrapeStatus === "ok" && <span style={{ fontSize: 12, color: "#888" }}>Scraper běží na GitHubu, data budou za ~3 min.</span>}
+              {lastUpdated && scrapeStatus !== "ok" && (
+                <span style={{ fontSize: 12, color: "#aaa" }}>
+                  Aktualizováno: {lastUpdated.toLocaleDateString("cs-CZ")} {lastUpdated.toLocaleTimeString("cs-CZ", { hour: "2-digit", minute: "2-digit" })}
+                </span>
+              )}
             </div>
             {upcoming.length === 0 && (
               <p style={{ color: "#aaa", fontSize: 13 }}>Žádné nadcházející zápasy. Spusť scraper pro aktualizaci.</p>
