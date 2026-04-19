@@ -757,9 +757,9 @@ export default function App() {
                     const openMatch = getOpeningOdds(oddsHistory, home, away);
                     const hasOpen = openMatch && Object.keys(openMatch.Bookmakers ?? {}).length > 0;
                     const thSt = (center) => ({ textAlign: center ? "center" : "left", color: "#bbb", fontWeight: 500, paddingBottom: 3, fontSize: 10 });
-                    // Shoda: did the market move TOWARD ELO fair value?
-                    // e.g. ELO fair=1.28, open=1.16 → close=1.15: market moved away → ✗
-                    //      ELO fair=1.28, open=1.16 → close=1.22: market moved toward → ✓
+                    // Shoda: trh se pohnul směrem k ELO fair hodnotě
+                    // ELO fair=1.28, open=1.16→close=1.15: closing dál od ELO → ✗
+                    // ELO fair=1.28, open=1.16→close=1.22: closing blíž k ELO → ✓
                     const eloFairH = pRaw > 0 ? 1 / pRaw : null;
                     const agreement = (openH, closeH) => {
                       if (!openH || !closeH || eloFairH === null || Math.abs(closeH - openH) < 0.02) return null;
@@ -768,7 +768,7 @@ export default function App() {
                     return (
                       <div style={{ borderTop: "1px solid #f0f0f0", paddingTop: 8, marginTop: 8 }}>
                         <div style={{ color: "#aaa", marginBottom: 6, fontSize: 11 }}>
-                          Bookmaker kurzy{hasOpen && <span style={{ color: "#B07A10", marginLeft: 6 }}>· opening → closing · ✓/✗ = trh jde stejným směrem jako ELO</span>}
+                          Bookmaker kurzy{hasOpen && <span style={{ color: "#B07A10", marginLeft: 6 }}>· opening → closing · ✓/✗ = trh jde směrem k ELO fair kurzu</span>}
                         </div>
                         <table style={{ width: "100%", borderCollapse: "collapse", fontSize: 12 }}>
                           <thead>
