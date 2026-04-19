@@ -1,6 +1,6 @@
-const https = require("https");
+import https from "https";
 
-module.exports = async function handler(req, res) {
+export default async function handler(req, res) {
   if (req.method !== "POST") return res.status(405).end();
 
   const token = process.env.GH_DISPATCH_TOKEN;
@@ -32,4 +32,4 @@ module.exports = async function handler(req, res) {
     r.write(body);
     r.end();
   });
-};
+}
