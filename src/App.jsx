@@ -745,13 +745,13 @@ export default function App() {
                     const openMatch = getOpeningOdds(oddsHistory, home, away);
                     const hasOpen = openMatch && Object.keys(openMatch.Bookmakers ?? {}).length > 0;
                     const thSt = (center) => ({ textAlign: center ? "center" : "left", color: "#bbb", fontWeight: 500, paddingBottom: 3, fontSize: 10 });
-                    // Directional agreement: did the market move toward the same side ELO favors?
-                    // Home odds dropping = market moved toward home. ELO favors home if pRaw > 0.5.
-                    const agreement = (dH) => {
-                      if (dH === null || Math.abs(dH) < 0.02) return null;
-                      const eloFavorsHome = pRaw > 0.5;
-                      const marketMovedToHome = dH < 0;
-                      return eloFavorsHome === marketMovedToHome;
+                    // Shoda: did the market move TOWARD ELO fair value?
+                    // e.g. ELO fair=1.28, open=1.16 → close=1.15: market moved away → ✗
+                    //      ELO fair=1.28, open=1.16 → close=1.22: market moved toward → ✓
+                    const eloFairH = pRaw > 0 ? 1 / pRaw : null;
+                    const agreement = (openH, closeH) => {
+                      if (!openH || !closeH || eloFairH === null || Math.abs(closeH - openH) < 0.02) return null;
+                      return Math.abs(closeH - eloFairH) < Math.abs(openH - eloFairH);
                     };
                     return (
                       <div style={{ borderTop: "1px solid #f0f0f0", paddingTop: 8, marginTop: 8 }}>
@@ -772,8 +772,7 @@ export default function App() {
                               const openBk = hasOpen ? openMatch.Bookmakers[name] : null;
                               const movedH = openBk?.HomeOdds && openBk.HomeOdds !== o.HomeOdds;
                               const movedA = openBk?.AwayOdds && openBk.AwayOdds !== o.AwayOdds;
-                              const dH = openBk?.HomeOdds && o.HomeOdds ? o.HomeOdds - openBk.HomeOdds : null;
-                              const agree = agreement(dH);
+                              const agree = agreement(openBk?.HomeOdds, o.HomeOdds);
                               return (
                                 <tr key={name}>
                                   <td style={{ padding: "3px 0", color: "#555" }}>{name}</td>
