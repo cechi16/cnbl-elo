@@ -47,7 +47,10 @@ jobs:
           echo "Days to next match: $NEAREST, Hour UTC: $HOUR"
 
           RUN=false
-          if [ "$NEAREST" -le 0 ]; then
+          if [ "$NEAREST" -ge 9999 ]; then
+            # No upcoming data — always run to refresh
+            RUN=true
+          elif [ "$NEAREST" -le 0 ]; then
             # Match day — every hour
             RUN=true
           elif [ "$NEAREST" -le 1 ]; then
