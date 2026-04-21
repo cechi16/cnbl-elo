@@ -1680,6 +1680,16 @@
     "MatchKey": "2026-03-07_era_basketball_nymburk_bk_opava"
   },
   {
+    "HomeTeam": "East",
+    "AwayTeam": "West",
+    "HomeScore": 86,
+    "AwayScore": 79,
+    "Date": "2026-03-08",
+    "Source": "flashscore.com",
+    "Verified": true,
+    "MatchKey": "2026-03-08_east_west"
+  },
+  {
     "HomeTeam": "BK ARMEX ENERGY D\u011B\u010D\u00EDn",
     "AwayTeam": "BK KVIS Pardubice",
     "HomeScore": 76,
@@ -2118,5 +2128,15 @@
     "Source": "nbl.basketball",
     "Verified": true,
     "MatchKey": "2026-04-18_bk_kvis_pardubice_sr\u0161ni_photomate_p\u00EDsek"
+  },
+  {
+    "HomeTeam": "Sr\u0161ni Photomate P\u00EDsek",
+    "AwayTeam": "USK Praha",
+    "HomeScore": 78,
+    "AwayScore": 65,
+    "Date": "2026-04-21",
+    "Source": "flashscore.com",
+    "Verified": true,
+    "MatchKey": "2026-04-21_sr\u0161ni_photomate_p\u00EDsek_usk_praha"
   }
 ]
