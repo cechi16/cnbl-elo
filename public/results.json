@@ -10,6 +10,16 @@
     "MatchKey": "2025-09-26_bk_olomoucko_bk_gapa_hradec_kr\u00E1lov\u00E9"
   },
   {
+    "HomeTeam": "BK Olomoucko",
+    "AwayTeam": "BK Hradec Kr\u00E1lov\u00E9",
+    "HomeScore": 65,
+    "AwayScore": 70,
+    "Date": "2025-09-26",
+    "Source": "thesportsdb",
+    "Verified": true,
+    "MatchKey": "2025-09-26_bk_olomoucko_bk_hradec_kr\u00E1lov\u00E9"
+  },
+  {
     "HomeTeam": "BK Opava",
     "AwayTeam": "BK KVIS Pardubice",
     "HomeScore": 66,
@@ -40,6 +50,36 @@
     "MatchKey": "2025-09-27_sk_slavia_praha_era_basketball_nymburk"
   },
   {
+    "HomeTeam": "USK Praha",
+    "AwayTeam": "BK D\u011B\u010D\u00EDn",
+    "HomeScore": 77,
+    "AwayScore": 81,
+    "Date": "2025-09-27",
+    "Source": "thesportsdb",
+    "Verified": true,
+    "MatchKey": "2025-09-27_usk_praha_bk_d\u011B\u010D\u00EDn"
+  },
+  {
+    "HomeTeam": "SK Slavia Praha",
+    "AwayTeam": "Basketball Nymburk",
+    "HomeScore": 65,
+    "AwayScore": 95,
+    "Date": "2025-09-27",
+    "Source": "thesportsdb",
+    "Verified": true,
+    "MatchKey": "2025-09-27_sk_slavia_praha_basketball_nymburk"
+  },
+  {
+    "HomeTeam": "BK Opava",
+    "AwayTeam": "BK Pardubice",
+    "HomeScore": 66,
+    "AwayScore": 76,
+    "Date": "2025-09-27",
+    "Source": "thesportsdb",
+    "Verified": true,
+    "MatchKey": "2025-09-27_bk_opava_bk_pardubice"
+  },
+  {
     "HomeTeam": "Sr\u0161ni Photomate P\u00EDsek",
     "AwayTeam": "NH Ostrava",
     "HomeScore": 84,
@@ -58,6 +98,26 @@
     "Source": "nbl.basketball",
     "Verified": true,
     "MatchKey": "2025-09-28_sluneta_\u00FAst\u00ED_nad_labem_pumpa_basket_brno"
+  },
+  {
+    "HomeTeam": "Srsni Pisek",
+    "AwayTeam": "BK NH Ostrava",
+    "HomeScore": 84,
+    "AwayScore": 77,
+    "Date": "2025-09-28",
+    "Source": "thesportsdb",
+    "Verified": true,
+    "MatchKey": "2025-09-28_srsni_pisek_bk_nh_ostrava"
+  },
+  {
+    "HomeTeam": "Sluneta \u00DAst\u00ED nad Labem",
+    "AwayTeam": "Basket Brno",
+    "HomeScore": 64,
+    "AwayScore": 87,
+    "Date": "2025-09-28",
+    "Source": "thesportsdb",
+    "Verified": true,
+    "MatchKey": "2025-09-28_sluneta_\u00FAst\u00ED_nad_labem_basket_brno"
   },
   {
     "HomeTeam": "NH Ostrava",
@@ -110,6 +170,56 @@
     "MatchKey": "2025-10-01_sr\u0161ni_photomate_p\u00EDsek_bk_olomoucko"
   },
   {
+    "HomeTeam": "BK NH Ostrava",
+    "AwayTeam": "Basketball Nymburk",
+    "HomeScore": 91,
+    "AwayScore": 99,
+    "Date": "2025-10-01",
+    "Source": "thesportsdb",
+    "Verified": true,
+    "MatchKey": "2025-10-01_bk_nh_ostrava_basketball_nymburk"
+  },
+  {
+    "HomeTeam": "BK Pardubice",
+    "AwayTeam": "Sluneta \u00DAst\u00ED nad Labem",
+    "HomeScore": 92,
+    "AwayScore": 74,
+    "Date": "2025-10-01",
+    "Source": "thesportsdb",
+    "Verified": true,
+    "MatchKey": "2025-10-01_bk_pardubice_sluneta_\u00FAst\u00ED_nad_labem"
+  },
+  {
+    "HomeTeam": "Srsni Pisek",
+    "AwayTeam": "BK Olomoucko",
+    "HomeScore": 70,
+    "AwayScore": 60,
+    "Date": "2025-10-01",
+    "Source": "thesportsdb",
+    "Verified": true,
+    "MatchKey": "2025-10-01_srsni_pisek_bk_olomoucko"
+  },
+  {
+    "HomeTeam": "BK Hradec Kr\u00E1lov\u00E9",
+    "AwayTeam": "BK Opava",
+    "HomeScore": 80,
+    "AwayScore": 112,
+    "Date": "2025-10-01",
+    "Source": "thesportsdb",
+    "Verified": true,
+    "MatchKey": "2025-10-01_bk_hradec_kr\u00E1lov\u00E9_bk_opava"
+  },
+  {
+    "HomeTeam": "SK Slavia Praha",
+    "AwayTeam": "BK D\u011B\u010D\u00EDn",
+    "HomeScore": 94,
+    "AwayScore": 88,
+    "Date": "2025-10-01",
+    "Source": "thesportsdb",
+    "Verified": true,
+    "MatchKey": "2025-10-01_sk_slavia_praha_bk_d\u011B\u010D\u00EDn"
+  },
+  {
     "HomeTeam": "BK Opava",
     "AwayTeam": "Sr\u0161ni Photomate P\u00EDsek",
     "HomeScore": 120,
@@ -158,6 +268,46 @@
     "Source": "nbl.basketball",
     "Verified": true,
     "MatchKey": "2025-10-04_bk_olomoucko_nh_ostrava"
+  },
+  {
+    "HomeTeam": "Basketball Nymburk",
+    "AwayTeam": "BK D\u011B\u010D\u00EDn",
+    "HomeScore": 97,
+    "AwayScore": 68,
+    "Date": "2025-10-04",
+    "Source": "thesportsdb",
+    "Verified": true,
+    "MatchKey": "2025-10-04_basketball_nymburk_bk_d\u011B\u010D\u00EDn"
+  },
+  {
+    "HomeTeam": "USK Praha",
+    "AwayTeam": "BK Pardubice",
+    "HomeScore": 60,
+    "AwayScore": 114,
+    "Date": "2025-10-04",
+    "Source": "thesportsdb",
+    "Verified": true,
+    "MatchKey": "2025-10-04_usk_praha_bk_pardubice"
+  },
+  {
+    "HomeTeam": "SK Slavia Praha",
+    "AwayTeam": "Basket Brno",
+    "HomeScore": 73,
+    "AwayScore": 93,
+    "Date": "2025-10-04",
+    "Source": "thesportsdb",
+    "Verified": true,
+    "MatchKey": "2025-10-04_sk_slavia_praha_basket_brno"
+  },
+  {
+    "HomeTeam": "BK Opava",
+    "AwayTeam": "Srsni Pisek",
+    "HomeScore": 120,
+    "AwayScore": 93,
+    "Date": "2025-10-04",
+    "Source": "thesportsdb",
+    "Verified": true,
+    "MatchKey": "2025-10-04_bk_opava_srsni_pisek"
   },
   {
     "HomeTeam": "SLUNETA \u00DAst\u00ED nad Labem",
