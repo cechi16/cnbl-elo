@@ -1400,9 +1400,9 @@ export default function App() {
                 ))}
                 <span style={{ fontSize: 12, color: "#aaa", marginLeft: 8 }}>
                   {withBk.length} zápasů ·{" "}
-                  <span style={{ color: "#2E7D5E", fontWeight: 600 }}>{histBk}: {withBk.length ? ((bkCorrect / withBk.length) * 100).toFixed(1) : "—"}%</span>
+                  <span style={{ color: "#2E7D5E", fontWeight: 600 }}>{histBk}: {bkCorrect}/{withBk.length} ({withBk.length ? ((bkCorrect / withBk.length) * 100).toFixed(1) : "—"}%)</span>
                   {" · "}
-                  <span style={{ color: "#7C52C8", fontWeight: 600 }}>Drift→ELO: {withBk.length ? ((driftAligned / withBk.length) * 100).toFixed(1) : "—"}%</span>
+                  <span style={{ color: "#7C52C8", fontWeight: 600 }}>Drift→ELO: {driftAligned}/{withBk.length} ({withBk.length ? ((driftAligned / withBk.length) * 100).toFixed(1) : "—"}%)</span>
                 </span>
               </div>
 
