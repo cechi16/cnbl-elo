@@ -302,15 +302,17 @@ function teamsMatch(full, short) {
   return sw.some(w => fw.includes(w));
 }
 function findMatchOdds(home, away, matches, matchDate) {
-  // If matchDate provided, prefer entries whose date matches (within 2 days); skip past matches
-  const today = new Date().toISOString().slice(0, 10);
-  const candidates = matchDate
-    ? matches.filter(m => !m.Date || m.Date >= today || m.Date === matchDate)
+  // For playoff series the SAME teams play multiple games with home/away swapping
+  // between games — so reverse-matched odds from another date would be wrong.
+  // Require exact date match when matchDate is provided; fall back to no-date
+  // matching only when the caller didn't give us a date.
+  const sameDate = matchDate
+    ? matches.filter(m => m.Date === matchDate)
     : matches;
 
-  const direct = candidates.find(m => teamsMatch(home, m.HomeTeam) && teamsMatch(away, m.AwayTeam));
+  const direct = sameDate.find(m => teamsMatch(home, m.HomeTeam) && teamsMatch(away, m.AwayTeam));
   if (direct) return direct;
-  const rev = candidates.find(m => teamsMatch(home, m.AwayTeam) && teamsMatch(away, m.HomeTeam));
+  const rev = sameDate.find(m => teamsMatch(home, m.AwayTeam) && teamsMatch(away, m.HomeTeam));
   if (!rev) return null;
   // Flip bookmaker odds to match caller's home/away orientation
   return {
@@ -718,9 +720,9 @@ export default function App() {
               const home = m.HomeTeam ?? m.home ?? "";
               const away = m.AwayTeam ?? m.away ?? "";
               const date = m.Date ?? m.date ?? "";
-              const eloH = ratings[home] ?? BASE_ELO;
-              const eloA = ratings[away] ?? BASE_ELO;
-              const pRaw = expectedScore(eloH + HOME_ADV, eloA);
+              const eloH = btRatings[home] ?? btBase;
+              const eloA = btRatings[away] ?? btBase;
+              const pRaw = expectedScore(eloH + btHomeAdv, eloA);
               const hp = Math.round(pRaw * 100);
               const ap = 100 - hp;
               const { oddsH, oddsA } = fairOdds(pRaw * 100);
@@ -1141,9 +1143,9 @@ export default function App() {
 
           // ELO fair odds for active match
           const eloFair = activeMatch ? (() => {
-            const eH = ratings[activeMatch.home] ?? ratings[Object.keys(ratings).find(t => teamsMatch(t, activeMatch.home)) ?? ""] ?? BASE_ELO;
-            const eA = ratings[activeMatch.away] ?? ratings[Object.keys(ratings).find(t => teamsMatch(t, activeMatch.away)) ?? ""] ?? BASE_ELO;
-            const p = expectedScore(eH + HOME_ADV, eA);
+            const eH = btRatings[activeMatch.home] ?? btRatings[Object.keys(btRatings).find(t => teamsMatch(t, activeMatch.home)) ?? ""] ?? btBase;
+            const eA = btRatings[activeMatch.away] ?? btRatings[Object.keys(btRatings).find(t => teamsMatch(t, activeMatch.away)) ?? ""] ?? btBase;
+            const p = expectedScore(eH + btHomeAdv, eA);
             return { fairH: (1 / p).toFixed(2), fairA: (1 / (1 - p)).toFixed(2), pct: Math.round(p * 100) };
           })() : null;
 
