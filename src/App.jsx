@@ -331,9 +331,6 @@ function getOpeningOdds(oddsHistory, home, away, matchDate) {
   return null;
 }
 
-// ⚠️  NEVER put a real API key here — this file is shipped to the browser.
-// Use a server-side proxy (e.g. /api/insight Vercel function) and call that instead.
-const ANTHROPIC_API_KEY = "YOUR_API_KEY_HERE";
 const TAB_COLORS = { leaderboard: "#378ADD", predictions: "#1D9E75", results: "#D85A30", backtest: "#7C52C8", oddshistory: "#B07A10", historical: "#2E7D5E", simulace: "#C0392B" };
 
 export default function App() {
@@ -343,8 +340,6 @@ export default function App() {
   const [history, setHistory] = useState({});
   const [upcoming, setUpcoming] = useState([]);
   const [loading, setLoading] = useState(true);
-  const [aiInsight, setAiInsight] = useState("");
-  const [insightLoading, setInsightLoading] = useState(false);
   const [selectedTeam, setSelectedTeam] = useState(null);
   const [btK, setBtK] = useState(16);
   const [btBase, setBtBase] = useState(1000);
@@ -512,36 +507,6 @@ export default function App() {
       return { team, elo, rank: i + 1, wins, gp: teamResults.length, losses: teamResults.length - wins, form, diff: elo - prev, hist };
     });
 
-  const fetchInsight = useCallback(async (ctx) => {
-    if (ANTHROPIC_API_KEY === "YOUR_API_KEY_HERE") return;
-    setInsightLoading(true); setAiInsight("");
-    try {
-      const res = await fetch("https://api.anthropic.com/v1/messages", {
-        method: "POST",
-        headers: {
-          "Content-Type": "application/json",
-          "x-api-key": ANTHROPIC_API_KEY,
-          "anthropic-version": "2023-06-01",
-          "anthropic-dangerous-direct-browser-access": "true"
-        },
-        body: JSON.stringify({
-          model: "claude-sonnet-4-20250514", max_tokens: 1000,
-          messages: [{ role: "user", content: `Jsi analytik české NBL basketbalové ligy. Na základě těchto ELO dat: ${ctx}. Napiš 2-3 věty postřehů o aktuálním pořadí a zajímavou předpověď. Bez markdown.` }]
-        })
-      });
-      const data = await res.json();
-      setAiInsight(data.content?.[0]?.text ?? "");
-    } catch { setAiInsight("AI insight není dostupný."); }
-    setInsightLoading(false);
-  }, []);
-
-  useEffect(() => {
-    if (!loading && ranked.length > 0) {
-      const ctx = ranked.slice(0, 5).map(r => `${r.team}: ELO ${r.elo}, W${r.wins}-L${r.losses}`).join("; ");
-      fetchInsight(ctx);
-    }
-  }, [loading]);
-
   const recentResults = [...results].reverse().slice(0, 20);
 
   const s = {
@@ -565,7 +530,6 @@ export default function App() {
       textAlign: "center", lineHeight: "18px", marginRight: 2,
       background: win ? "#EAF3DE" : "#FCEBEB", color: win ? "#3B6D11" : "#A32D2D"
     }),
-    insight: { background: "#fff", borderRadius: 8, padding: "14px 18px", fontSize: 13, color: "#555", marginBottom: 16, lineHeight: 1.7, borderLeft: "3px solid #378ADD", boxShadow: "0 1px 3px rgba(0,0,0,.05)" },
     card: { background: "#fff", border: "1px solid #eee", borderRadius: 10, padding: "16px 18px", marginBottom: 12, boxShadow: "0 1px 3px rgba(0,0,0,.05)" },
     diff: (d) => ({ fontSize: 11, color: d > 0 ? "#3B6D11" : d < 0 ? "#A32D2D" : "#888", fontWeight: 600 }),
     teamBtn: (sel) => ({ background: "none", border: "none", cursor: "pointer", textAlign: "left", fontWeight: sel ? 600 : 400, color: sel ? "#185FA5" : "#111", padding: 0, fontSize: 13 }),
@@ -590,9 +554,6 @@ export default function App() {
         {/* LEADERBOARD */}
         {tab === "leaderboard" && (
           <>
-            <div style={s.insight}>
-              {insightLoading ? "Načítám AI analýzu…" : aiInsight || "Nastav API klíč pro AI insight."}
-            </div>
             <table style={s.table}>
               <thead>
                 <tr>
