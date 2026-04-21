@@ -1369,15 +1369,19 @@ export default function App() {
 
 
           // Summary stats for selected bookmaker
-          const withBk = sorted.filter(m => m.Bookmakers?.[histBk]?.CloseHome);
+          const withBk = sorted.filter(m => m.Bookmakers?.[histBk]?.OpenHome && m.Bookmakers?.[histBk]?.CloseHome);
           const bkCorrect = withBk.filter(m => {
             const homeWon = m.HomeScore > m.AwayScore;
             const bkFavHome = (m.Bookmakers[histBk].CloseHome ?? 99) < (m.Bookmakers[histBk].CloseAway ?? 99);
             return homeWon === bkFavHome;
           }).length;
-          const eloCorrect = withBk.filter(m => {
-            const homeWon = m.HomeScore > m.AwayScore;
-            return homeWon === (eloP(m.HomeTeam, m.AwayTeam) > 0.5);
+          // Drift-to-ELO: did the market move its closing odds closer to the ELO fair odds
+          // than the opening line was? If yes, the market ended up agreeing with ELO.
+          const driftAligned = withBk.filter(m => {
+            const p = eloP(m.HomeTeam, m.AwayTeam);
+            const eloH = 1 / p;
+            const bk = m.Bookmakers[histBk];
+            return Math.abs(bk.CloseHome - eloH) < Math.abs(bk.OpenHome - eloH);
           }).length;
 
           const thSt = { ...s.th, fontSize: 11 };
@@ -1398,7 +1402,7 @@ export default function App() {
                   {withBk.length} zápasů ·{" "}
                   <span style={{ color: "#2E7D5E", fontWeight: 600 }}>{histBk}: {withBk.length ? ((bkCorrect / withBk.length) * 100).toFixed(1) : "—"}%</span>
                   {" · "}
-                  <span style={{ color: "#7C52C8", fontWeight: 600 }}>ELO: {withBk.length ? ((eloCorrect / withBk.length) * 100).toFixed(1) : "—"}%</span>
+                  <span style={{ color: "#7C52C8", fontWeight: 600 }}>Drift→ELO: {withBk.length ? ((driftAligned / withBk.length) * 100).toFixed(1) : "—"}%</span>
                 </span>
               </div>
 
@@ -1429,9 +1433,12 @@ export default function App() {
                       const closeA    = bk?.CloseAway ?? null;
                       const homeWon   = m.HomeScore > m.AwayScore;
                       const p         = eloP(m.HomeTeam, m.AwayTeam);
+                      const eloH      = 1 / p;
                       const bkFavHome = closeH && closeA ? closeH < closeA : null;
                       const bkOk      = bkFavHome !== null ? homeWon === bkFavHome : null;
-                      const eloOk     = homeWon === (p > 0.5);
+                      const driftOk   = (openH != null && closeH != null)
+                        ? Math.abs(closeH - eloH) < Math.abs(openH - eloH)
+                        : null;
 
                       return (
                         <tr key={m.MatchId} style={{ background: i % 2 === 0 ? "#fff" : "#fafafa" }}>
@@ -1450,14 +1457,14 @@ export default function App() {
                           <td style={{ ...s.td, textAlign: "center", color: "#993C1D", fontWeight: 600 }}>{closeA ?? "—"}</td>
                           <td style={{ ...s.td, textAlign: "center", color: "#993C1D", fontWeight: 600 }}>{(1 / (1 - p)).toFixed(2)}</td>
                           <td style={{ ...s.td, textAlign: "center", fontSize: 13, whiteSpace: "nowrap" }}>
-                            {eloOk
-                              ? <span style={{ color: "#1D7F3A", fontWeight: 700 }}>✓ ELO</span>
-                              : <span style={{ color: "#A32D2D", fontWeight: 700 }}>✗ ELO</span>}
-                            {bkOk !== null && <>{" "}{bkOk === eloOk
-                              ? <span style={{ color: "#bbb", fontSize: 10 }}>bk=</span>
-                              : bkOk
-                                ? <span style={{ color: "#A32D2D", fontSize: 10 }}>bk✓</span>
-                                : <span style={{ color: "#1D7F3A", fontSize: 10 }}>bk✗</span>}</>}
+                            {driftOk === null
+                              ? <span style={{ color: "#bbb" }}>—</span>
+                              : driftOk
+                                ? <span style={{ color: "#1D7F3A", fontWeight: 700 }}>✓ drift</span>
+                                : <span style={{ color: "#A32D2D", fontWeight: 700 }}>✗ drift</span>}
+                            {bkOk !== null && <>{" "}{bkOk
+                              ? <span style={{ color: "#888", fontSize: 10 }}>bk✓</span>
+                              : <span style={{ color: "#888", fontSize: 10 }}>bk✗</span>}</>}
                           </td>
                         </tr>
                       );
