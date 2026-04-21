@@ -1325,7 +1325,12 @@ export default function App() {
           const bkNames = ["Tipsport", "Fortuna", "Betano"];
           const seen = new Set();
           const sorted  = [...historicalOdds]
-            .filter(m => { if (seen.has(m.MatchId)) return false; seen.add(m.MatchId); return true; })
+            .filter(m => {
+              const key = `${m.Date}|${m.HomeTeam}|${m.AwayTeam}`;
+              if (seen.has(key)) return false;
+              seen.add(key);
+              return true;
+            })
             .sort((a, b) => b.Date.localeCompare(a.Date));
 
 
@@ -1402,7 +1407,7 @@ export default function App() {
                         : null;
 
                       return (
-                        <tr key={m.MatchId} style={{ background: i % 2 === 0 ? "#fff" : "#fafafa" }}>
+                        <tr key={`${m.Date}|${m.HomeTeam}|${m.AwayTeam}`} style={{ background: i % 2 === 0 ? "#fff" : "#fafafa" }}>
                           <td style={{ ...s.td, color: "#aaa", fontSize: 11 }}>{m.Date}</td>
                           <td style={{ ...s.td, fontWeight: homeWon ? 600 : 400 }}>{m.HomeTeam}</td>
                           <td style={{ ...s.td, textAlign: "center", fontWeight: 700, letterSpacing: 1 }}>
