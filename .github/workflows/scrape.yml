@@ -71,6 +71,7 @@ jobs:
         with:
           repository: cechi16/pokus1
           path: scraper
+          token: ${{ secrets.GH_PAT }}
 
       - name: Setup .NET 8
         if: steps.check.outputs.run == 'true'
