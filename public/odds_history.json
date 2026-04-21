@@ -1204,5 +1204,105 @@
         }
       }
     ]
+  },
+  {
+    "ScrapedAt": "2026-04-21T22:19:32Z",
+    "Matches": [
+      {
+        "HomeTeam": "Srsni Pisek",
+        "AwayTeam": "Usk Prague",
+        "Date": "2026-04-21",
+        "Time": "15:00",
+        "Bookmakers": {}
+      },
+      {
+        "HomeTeam": "Bk Olomoucko",
+        "AwayTeam": "Nh Ostrava",
+        "Date": "2026-04-22",
+        "Time": "16:00",
+        "Bookmakers": {
+          "Betano": {
+            "HomeOdds": 1.83,
+            "AwayOdds": 1.87
+          },
+          "Chance": {
+            "HomeOdds": 1.85,
+            "AwayOdds": 1.9
+          },
+          "Fortuna": {
+            "HomeOdds": 1.94,
+            "AwayOdds": 1.77
+          },
+          "Tipsport": {
+            "HomeOdds": 1.85,
+            "AwayOdds": 1.9
+          }
+        }
+      },
+      {
+        "HomeTeam": "Srsni Pisek",
+        "AwayTeam": "Usk Prague",
+        "Date": "2026-04-21",
+        "Time": "15:00",
+        "Bookmakers": {
+          "Betano": {
+            "HomeOdds": 2.1,
+            "AwayOdds": 1.65
+          },
+          "Chance": {
+            "HomeOdds": 2.4,
+            "AwayOdds": 1.53
+          },
+          "Fortuna": {
+            "HomeOdds": 2.09,
+            "AwayOdds": 1.64
+          },
+          "Tipsport": {
+            "HomeOdds": 2.4,
+            "AwayOdds": 1.53
+          }
+        }
+      },
+      {
+        "HomeTeam": "Brno",
+        "AwayTeam": "Decin",
+        "Date": "2026-04-27",
+        "Time": "16:00",
+        "Bookmakers": {
+          "Chance": {
+            "HomeOdds": 1.26,
+            "AwayOdds": 3.59
+          },
+          "Fortuna": {
+            "HomeOdds": 1.25,
+            "AwayOdds": 3.6
+          },
+          "Tipsport": {
+            "HomeOdds": 1.26,
+            "AwayOdds": 3.59
+          }
+        }
+      },
+      {
+        "HomeTeam": "Opava",
+        "AwayTeam": "Usti Nad Labem",
+        "Date": "2026-04-28",
+        "Time": "16:00",
+        "Bookmakers": {
+          "Chance": {
+            "HomeOdds": 1.42,
+            "AwayOdds": 2.73
+          },
+          "Fortuna": {
+            "HomeOdds": 1.42,
+            "AwayOdds": 2.7
+          },
+          "Tipsport": {
+            "HomeOdds": 1.42,
+            "AwayOdds": 2.73
+          }
+        }
+      }
+    ]
   }
 ]

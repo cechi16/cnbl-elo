@@ -240,31 +240,6 @@ function computeCalibration(preds) {
   });
 }
 
-// Flat-bet simulation: bet €1 on ELO-favored side when confidence >= threshold.
-// Payout = fair odds × (1 - margin). Tests whether model accuracy beats the margin.
-function simulateBetting(preds, margin, threshold) {
-  let bank = 0, peak = 0, maxDrawdown = 0;
-  const curve = [0];
-  let bets = 0, wins = 0;
-  preds.forEach(({ p, y }) => {
-    const conf = Math.max(p, 1 - p);
-    if (conf < threshold) return;
-    const betHome = p >= 0.5;
-    const betP = betHome ? p : 1 - p;
-    const payout = (1 / betP) * (1 - margin);
-    const won = betHome ? y === 1 : y === 0;
-    bets++;
-    if (won) wins++;
-    bank += won ? payout - 1 : -1;
-    bank = +bank.toFixed(2);
-    curve.push(bank);
-    if (bank > peak) peak = bank;
-    const dd = peak - bank;
-    if (dd > maxDrawdown) maxDrawdown = dd;
-  });
-  return { bank, curve, bets, wins, maxDrawdown: +maxDrawdown.toFixed(2) };
-}
-
 function getUpcoming() {
   return [
     { HomeTeam: "PUMPA Basket Brno",       AwayTeam: "ERA Basketball Nymburk", Date: "2026-04-18" },
@@ -357,8 +332,6 @@ export default function App() {
 
   const latestOdds = oddsHistory.length ? (oddsHistory[oddsHistory.length - 1].Matches ?? []) : [];
 
-  const [btMargin, setBtMargin] = useState(5);
-  const [btThreshold, setBtThreshold] = useState(55);
   const [btDecay, setBtDecay] = useState(0);
   const [btMovK, setBtMovK] = useState(2.2);
 
@@ -366,7 +339,6 @@ export default function App() {
   const btRatings = useMemo(() => computeEloParametric(results, btK, btBase, btHomeAdv, btDecay, btMovK), [results, btK, btBase, btHomeAdv, btDecay, btMovK]);
   const btPreds   = useMemo(() => collectWalkForwardPredictions(results, btK, btBase, btHomeAdv, btDecay, btMovK), [results, btK, btBase, btHomeAdv, btDecay, btMovK]);
   const btCalib   = useMemo(() => computeCalibration(btPreds), [btPreds]);
-  const btSim     = useMemo(() => simulateBetting(btPreds, btMargin / 100, btThreshold / 100), [btPreds, btMargin, btThreshold]);
   const btRanked = useMemo(
     () => Object.entries(btRatings).sort((a, b) => b[1] - a[1]).map(([team, elo], i) => ({ team, elo, rank: i + 1 })),
     [btRatings]
@@ -543,7 +515,7 @@ export default function App() {
         <h1 style={s.title}>ČNBL ELO Dashboard</h1>
         <p style={s.sub}>Czech Basketball League · 538-style ELO · K={btK} · HCA={btHomeAdv} · Base={btBase} · Decay={btDecay > 0 ? btDecay.toFixed(3) : "off"} · MoV={btMovK.toFixed(1)}</p>
         <div style={s.tabs}>
-          {[["leaderboard", "Leaderboard"], ["predictions", "Predictions"], ["results", "Results"], ["backtest", "Backtest"], ["oddshistory", "Odds History"], ["historical", "Historické kurzy"]].map(([k, l]) => (
+          {[["leaderboard", "Leaderboard"], ["predictions", "Predictions"], ["results", "Results"], ["backtest", "Backtest"], ["oddshistory", "Odds History"], ["historical", "Historické kurzy"], ["simulace", "Monte Carlo"]].map(([k, l]) => (
             <button key={k} style={s.tab(tab === k, k)} onClick={() => setTab(k)}>{l}</button>
           ))}
         </div>
