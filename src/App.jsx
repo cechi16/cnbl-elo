@@ -301,10 +301,16 @@ function teamsMatch(full, short) {
   const fw = normWords(full), sw = normWords(short);
   return sw.some(w => fw.includes(w));
 }
-function findMatchOdds(home, away, matches) {
-  const direct = matches.find(m => teamsMatch(home, m.HomeTeam) && teamsMatch(away, m.AwayTeam));
+function findMatchOdds(home, away, matches, matchDate) {
+  // If matchDate provided, prefer entries whose date matches (within 2 days); skip past matches
+  const today = new Date().toISOString().slice(0, 10);
+  const candidates = matchDate
+    ? matches.filter(m => !m.Date || m.Date >= today || m.Date === matchDate)
+    : matches;
+
+  const direct = candidates.find(m => teamsMatch(home, m.HomeTeam) && teamsMatch(away, m.AwayTeam));
   if (direct) return direct;
-  const rev = matches.find(m => teamsMatch(home, m.AwayTeam) && teamsMatch(away, m.HomeTeam));
+  const rev = candidates.find(m => teamsMatch(home, m.AwayTeam) && teamsMatch(away, m.HomeTeam));
   if (!rev) return null;
   // Flip bookmaker odds to match caller's home/away orientation
   return {
@@ -315,9 +321,9 @@ function findMatchOdds(home, away, matches) {
   };
 }
 
-function getOpeningOdds(oddsHistory, home, away) {
+function getOpeningOdds(oddsHistory, home, away, matchDate) {
   for (const snap of oddsHistory) {
-    const m = findMatchOdds(home, away, snap.Matches ?? []);
+    const m = findMatchOdds(home, away, snap.Matches ?? [], matchDate);
     if (m && Object.keys(m.Bookmakers ?? {}).length) return m;
   }
   return null;
@@ -752,9 +758,9 @@ export default function App() {
                     </div>
                   </div>
                   {(() => {
-                    const mo = findMatchOdds(home, away, latestOdds);
+                    const mo = findMatchOdds(home, away, latestOdds, date);
                     if (!mo || !Object.keys(mo.Bookmakers ?? {}).length) return null;
-                    const openMatch = getOpeningOdds(oddsHistory, home, away);
+                    const openMatch = getOpeningOdds(oddsHistory, home, away, date);
                     const hasOpen = openMatch && Object.keys(openMatch.Bookmakers ?? {}).length > 0;
                     const thSt = (center) => ({ textAlign: center ? "center" : "left", color: "#bbb", fontWeight: 500, paddingBottom: 3, fontSize: 10 });
                     // Shoda: trh se pohnul směrem k ELO fair hodnotě
