@@ -1304,5 +1304,254 @@
         }
       }
     ]
+  },
+  {
+    "ScrapedAt": "2026-04-22T16:19:53Z",
+    "Matches": [
+      {
+        "HomeTeam": "Nh Ostrava",
+        "AwayTeam": "Inplay",
+        "Date": "2026-04-22",
+        "Time": "16:00",
+        "Bookmakers": {
+          "Betano": {
+            "HomeOdds": 1.5,
+            "AwayOdds": 2.42
+          },
+          "Tipsport": {
+            "HomeOdds": 1.4,
+            "AwayOdds": 2.6
+          }
+        }
+      },
+      {
+        "HomeTeam": "Srsni Pisek",
+        "AwayTeam": "Usk Prague",
+        "Date": "2026-04-23",
+        "Time": "16:00",
+        "Bookmakers": {
+          "Betano": {
+            "HomeOdds": 2.25,
+            "AwayOdds": 1.57
+          },
+          "Chance": {
+            "HomeOdds": 2.43,
+            "AwayOdds": 1.51
+          },
+          "Fortuna": {
+            "HomeOdds": 2.25,
+            "AwayOdds": 1.57
+          },
+          "Tipsport": {
+            "HomeOdds": 2.43,
+            "AwayOdds": 1.51
+          }
+        }
+      },
+      {
+        "HomeTeam": "Brno",
+        "AwayTeam": "Decin",
+        "Date": "2026-04-27",
+        "Time": "16:00",
+        "Bookmakers": {
+          "Chance": {
+            "HomeOdds": 1.26,
+            "AwayOdds": 3.59
+          },
+          "Fortuna": {
+            "HomeOdds": 1.25,
+            "AwayOdds": 3.6
+          },
+          "Tipsport": {
+            "HomeOdds": 1.26,
+            "AwayOdds": 3.59
+          }
+        }
+      },
+      {
+        "HomeTeam": "Opava",
+        "AwayTeam": "Usti Nad Labem",
+        "Date": "2026-04-28",
+        "Time": "16:00",
+        "Bookmakers": {
+          "Chance": {
+            "HomeOdds": 1.42,
+            "AwayOdds": 2.73
+          },
+          "Fortuna": {
+            "HomeOdds": 1.42,
+            "AwayOdds": 2.7
+          },
+          "Tipsport": {
+            "HomeOdds": 1.42,
+            "AwayOdds": 2.73
+          }
+        }
+      }
+    ]
+  },
+  {
+    "ScrapedAt": "2026-04-22T19:19:34Z",
+    "Matches": [
+      {
+        "HomeTeam": "Bk Olomoucko",
+        "AwayTeam": "Nh Ostrava",
+        "Date": "2026-04-22",
+        "Time": "16:00",
+        "Bookmakers": {}
+      },
+      {
+        "HomeTeam": "Srsni Pisek",
+        "AwayTeam": "Usk Prague",
+        "Date": "2026-04-23",
+        "Time": "16:00",
+        "Bookmakers": {
+          "Betano": {
+            "HomeOdds": 2.25,
+            "AwayOdds": 1.57
+          },
+          "Chance": {
+            "HomeOdds": 2.44,
+            "AwayOdds": 1.51
+          },
+          "Fortuna": {
+            "HomeOdds": 2.29,
+            "AwayOdds": 1.55
+          },
+          "Tipsport": {
+            "HomeOdds": 2.44,
+            "AwayOdds": 1.51
+          }
+        }
+      },
+      {
+        "HomeTeam": "Brno",
+        "AwayTeam": "Decin",
+        "Date": "2026-04-27",
+        "Time": "16:00",
+        "Bookmakers": {
+          "Chance": {
+            "HomeOdds": 1.26,
+            "AwayOdds": 3.59
+          },
+          "Fortuna": {
+            "HomeOdds": 1.25,
+            "AwayOdds": 3.6
+          },
+          "Tipsport": {
+            "HomeOdds": 1.26,
+            "AwayOdds": 3.59
+          }
+        }
+      },
+      {
+        "HomeTeam": "Opava",
+        "AwayTeam": "Usti Nad Labem",
+        "Date": "2026-04-28",
+        "Time": "16:00",
+        "Bookmakers": {
+          "Chance": {
+            "HomeOdds": 1.42,
+            "AwayOdds": 2.73
+          },
+          "Fortuna": {
+            "HomeOdds": 1.42,
+            "AwayOdds": 2.7
+          },
+          "Tipsport": {
+            "HomeOdds": 1.42,
+            "AwayOdds": 2.73
+          }
+        }
+      }
+    ]
+  },
+  {
+    "ScrapedAt": "2026-04-22T20:19:34Z",
+    "Matches": [
+      {
+        "HomeTeam": "Bk Olomoucko",
+        "AwayTeam": "Nh Ostrava",
+        "Date": "2026-04-22",
+        "Time": "16:00",
+        "Bookmakers": {}
+      },
+      {
+        "HomeTeam": "Srsni Pisek",
+        "AwayTeam": "Usk Prague",
+        "Date": "2026-04-23",
+        "Time": "16:00",
+        "Bookmakers": {
+          "Betano": {
+            "HomeOdds": 2.25,
+            "AwayOdds": 1.57
+          },
+          "Chance": {
+            "HomeOdds": 2.44,
+            "AwayOdds": 1.51
+          },
+          "Fortuna": {
+            "HomeOdds": 2.29,
+            "AwayOdds": 1.55
+          },
+          "Tipsport": {
+            "HomeOdds": 2.44,
+            "AwayOdds": 1.51
+          }
+        }
+      },
+      {
+        "HomeTeam": "Bk Olomoucko",
+        "AwayTeam": "Nh Ostrava",
+        "Date": "2026-04-22",
+        "Time": "16:00",
+        "Bookmakers": {
+          "Betano": {
+            "HomeOdds": 1.35,
+            "AwayOdds": 2.95
+          }
+        }
+      },
+      {
+        "HomeTeam": "Brno",
+        "AwayTeam": "Decin",
+        "Date": "2026-04-27",
+        "Time": "16:00",
+        "Bookmakers": {
+          "Chance": {
+            "HomeOdds": 1.26,
+            "AwayOdds": 3.59
+          },
+          "Fortuna": {
+            "HomeOdds": 1.25,
+            "AwayOdds": 3.6
+          },
+          "Tipsport": {
+            "HomeOdds": 1.26,
+            "AwayOdds": 3.59
+          }
+        }
+      },
+      {
+        "HomeTeam": "Opava",
+        "AwayTeam": "Usti Nad Labem",
+        "Date": "2026-04-28",
+        "Time": "16:00",
+        "Bookmakers": {
+          "Chance": {
+            "HomeOdds": 1.42,
+            "AwayOdds": 2.73
+          },
+          "Fortuna": {
+            "HomeOdds": 1.42,
+            "AwayOdds": 2.7
+          },
+          "Tipsport": {
+            "HomeOdds": 1.42,
+            "AwayOdds": 2.73
+          }
+        }
+      }
+    ]
   }
 ]
