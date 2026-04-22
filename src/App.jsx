@@ -277,34 +277,21 @@ function teamsMatch(full, short) {
   return sw.some(w => fw.includes(w));
 }
 function findMatchOdds(home, away, matches, matchDate) {
-  // Playoff series: same teams play multiple games with home/away swapping.
-  // So we search date-windowed pools in order of preference:
-  //   1. exact date, 2. ±1 day (timezone / postponement), 3. any date (last resort)
-  // In each pool we try direct orientation first, then reverse (with odds flipped).
+  // Exact-date only. Playoff series means same teams play multiple games on
+  // consecutive days with different odds per game — any date tolerance here
+  // leaks earlier-game prices onto later games. Orientation-flipping is still
+  // safe because Livesport may label home/away differently than our fixture.
   const flip = (m) => ({
     ...m,
     Bookmakers: Object.fromEntries(
       Object.entries(m.Bookmakers ?? {}).map(([k, o]) => [k, { ...o, HomeOdds: o.AwayOdds, AwayOdds: o.HomeOdds, OpenHome: o.OpenAway, OpenAway: o.OpenHome, CloseHome: o.CloseAway, CloseAway: o.CloseHome }])
     ),
   });
-  const dateDiff = (a, b) => {
-    if (!a || !b) return Infinity;
-    const d1 = new Date(a), d2 = new Date(b);
-    return Math.abs(d1 - d2) / (1000 * 60 * 60 * 24);
-  };
-  const pools = matchDate
-    ? [
-        matches.filter(m => m.Date === matchDate),
-        matches.filter(m => m.Date !== matchDate && dateDiff(m.Date, matchDate) <= 1),
-        matches,
-      ]
-    : [matches];
-  for (const pool of pools) {
-    const direct = pool.find(m => teamsMatch(home, m.HomeTeam) && teamsMatch(away, m.AwayTeam));
-    if (direct) return direct;
-    const rev = pool.find(m => teamsMatch(home, m.AwayTeam) && teamsMatch(away, m.HomeTeam));
-    if (rev) return flip(rev);
-  }
+  const pool = matchDate ? matches.filter(m => m.Date === matchDate) : matches;
+  const direct = pool.find(m => teamsMatch(home, m.HomeTeam) && teamsMatch(away, m.AwayTeam));
+  if (direct) return direct;
+  const rev = pool.find(m => teamsMatch(home, m.AwayTeam) && teamsMatch(away, m.HomeTeam));
+  if (rev) return flip(rev);
   return null;
 }
 
