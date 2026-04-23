@@ -2298,5 +2298,15 @@
     "Source": "flashscore.com",
     "Verified": true,
     "MatchKey": "2026-04-22_nh_ostrava_bk_olomoucko"
+  },
+  {
+    "HomeTeam": "USK Praha",
+    "AwayTeam": "Sr\u0161ni Photomate P\u00EDsek",
+    "HomeScore": 92,
+    "AwayScore": 100,
+    "Date": "2026-04-23",
+    "Source": "flashscore.com",
+    "Verified": true,
+    "MatchKey": "2026-04-23_usk_praha_sr\u0161ni_photomate_p\u00EDsek"
   }
 ]
