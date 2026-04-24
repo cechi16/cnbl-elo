@@ -2148,5 +2148,15 @@
     "Source": "flashscore.com",
     "Verified": true,
     "MatchKey": "2026-04-23_usk_praha_sr\u0161ni_photomate_p\u00EDsek"
+  },
+  {
+    "HomeTeam": "BK Olomoucko",
+    "AwayTeam": "NH Ostrava",
+    "HomeScore": 71,
+    "AwayScore": 102,
+    "Date": "2026-04-24",
+    "Source": "flashscore.com",
+    "Verified": true,
+    "MatchKey": "2026-04-24_bk_olomoucko_nh_ostrava"
   }
 ]
