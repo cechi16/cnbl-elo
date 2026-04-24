@@ -7,6 +7,12 @@
   },
   {
     "Date": "2026-04-27",
+    "HomeTeam": "Zlin",
+    "AwayTeam": "BK GAPA Hradec Kr\u00E1lov\u00E9",
+    "Time": "15:00"
+  },
+  {
+    "Date": "2026-04-27",
     "HomeTeam": "PUMPA Basket Brno",
     "AwayTeam": "BK ARMEX ENERGY D\u011B\u010D\u00EDn",
     "Time": "16:00"
@@ -30,10 +36,28 @@
     "Time": "16:00"
   },
   {
+    "Date": "2026-04-29",
+    "HomeTeam": "BK GAPA Hradec Kr\u00E1lov\u00E9",
+    "AwayTeam": "Zlin",
+    "Time": "16:00"
+  },
+  {
+    "Date": "2026-04-30",
+    "HomeTeam": "BK KVIS Pardubice",
+    "AwayTeam": "Sr\u0161ni Photomate P\u00EDsek",
+    "Time": "15:30"
+  },
+  {
     "Date": "2026-05-01",
     "HomeTeam": "BK ARMEX ENERGY D\u011B\u010D\u00EDn",
     "AwayTeam": "PUMPA Basket Brno",
     "Time": "16:00"
+  },
+  {
+    "Date": "2026-05-01",
+    "HomeTeam": "BK KVIS Pardubice",
+    "AwayTeam": "Sr\u0161ni Photomate P\u00EDsek",
+    "Time": "17:00"
   },
   {
     "Date": "2026-05-02",
@@ -51,6 +75,18 @@
     "Date": "2026-05-03",
     "HomeTeam": "BK Opava",
     "AwayTeam": "SLUNETA \u00DAst\u00ED nad Labem",
+    "Time": "16:00"
+  },
+  {
+    "Date": "2026-05-04",
+    "HomeTeam": "Sr\u0161ni Photomate P\u00EDsek",
+    "AwayTeam": "BK KVIS Pardubice",
+    "Time": "16:00"
+  },
+  {
+    "Date": "2026-05-05",
+    "HomeTeam": "Sr\u0161ni Photomate P\u00EDsek",
+    "AwayTeam": "BK KVIS Pardubice",
     "Time": "16:00"
   }
 ]
