@@ -1,20 +1,14 @@
 [
   {
-    "Date": "2026-04-26",
-    "HomeTeam": "NH Ostrava",
-    "AwayTeam": "BK Olomoucko",
+    "Date": "2026-04-27",
+    "HomeTeam": "PUMPA Basket Brno",
+    "AwayTeam": "BK ARMEX ENERGY D\u011B\u010D\u00EDn",
     "Time": ""
   },
   {
     "Date": "2026-04-27",
-    "HomeTeam": "Zlin",
+    "HomeTeam": "SKB FASTAV Zl\u00EDn",
     "AwayTeam": "BK GAPA Hradec Kr\u00E1lov\u00E9",
-    "Time": "15:00"
-  },
-  {
-    "Date": "2026-04-27",
-    "HomeTeam": "PUMPA Basket Brno",
-    "AwayTeam": "BK ARMEX ENERGY D\u011B\u010D\u00EDn",
     "Time": "16:00"
   },
   {
@@ -38,14 +32,26 @@
   {
     "Date": "2026-04-29",
     "HomeTeam": "BK GAPA Hradec Kr\u00E1lov\u00E9",
-    "AwayTeam": "Zlin",
+    "AwayTeam": "SKB FASTAV Zl\u00EDn",
     "Time": "16:00"
+  },
+  {
+    "Date": "2026-04-30",
+    "HomeTeam": "ERA Basketball Nymburk",
+    "AwayTeam": "NH Ostrava",
+    "Time": "15:00"
   },
   {
     "Date": "2026-04-30",
     "HomeTeam": "BK KVIS Pardubice",
     "AwayTeam": "Sr\u0161ni Photomate P\u00EDsek",
     "Time": "15:30"
+  },
+  {
+    "Date": "2026-05-01",
+    "HomeTeam": "ERA Basketball Nymburk",
+    "AwayTeam": "NH Ostrava",
+    "Time": "13:00"
   },
   {
     "Date": "2026-05-01",
@@ -79,9 +85,21 @@
   },
   {
     "Date": "2026-05-04",
+    "HomeTeam": "NH Ostrava",
+    "AwayTeam": "ERA Basketball Nymburk",
+    "Time": "16:00"
+  },
+  {
+    "Date": "2026-05-04",
     "HomeTeam": "Sr\u0161ni Photomate P\u00EDsek",
     "AwayTeam": "BK KVIS Pardubice",
     "Time": "16:00"
+  },
+  {
+    "Date": "2026-05-05",
+    "HomeTeam": "NH Ostrava",
+    "AwayTeam": "ERA Basketball Nymburk",
+    "Time": "15:00"
   },
   {
     "Date": "2026-05-05",
