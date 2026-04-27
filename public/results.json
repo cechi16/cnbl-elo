@@ -2158,5 +2158,25 @@
     "Source": "flashscore.com",
     "Verified": true,
     "MatchKey": "2026-04-24_bk_olomoucko_nh_ostrava"
+  },
+  {
+    "HomeTeam": "PUMPA Basket Brno",
+    "AwayTeam": "BK ARMEX ENERGY D\u011B\u010D\u00EDn",
+    "HomeScore": 107,
+    "AwayScore": 94,
+    "Date": "2026-04-27",
+    "Source": "flashscore.com",
+    "Verified": true,
+    "MatchKey": "2026-04-27_pumpa_basket_brno_bk_armex_energy_d\u011B\u010D\u00EDn"
+  },
+  {
+    "HomeTeam": "SKB FASTAV Zl\u00EDn",
+    "AwayTeam": "BK GAPA Hradec Kr\u00E1lov\u00E9",
+    "HomeScore": 56,
+    "AwayScore": 81,
+    "Date": "2026-04-27",
+    "Source": "flashscore.com",
+    "Verified": true,
+    "MatchKey": "2026-04-27_skb_fastav_zl\u00EDn_bk_gapa_hradec_kr\u00E1lov\u00E9"
   }
 ]
