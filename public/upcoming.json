@@ -1,15 +1,9 @@
 [
   {
-    "Date": "2026-04-28",
-    "HomeTeam": "PUMPA Basket Brno",
-    "AwayTeam": "BK ARMEX ENERGY D\u011B\u010D\u00EDn",
-    "Time": ""
-  },
-  {
     "Date": "2026-04-29",
     "HomeTeam": "SLUNETA \u00DAst\u00ED nad Labem",
     "AwayTeam": "BK Opava",
-    "Time": "16:00"
+    "Time": ""
   },
   {
     "Date": "2026-04-29",
@@ -82,6 +76,12 @@
     "HomeTeam": "NH Ostrava",
     "AwayTeam": "ERA Basketball Nymburk",
     "Time": "15:00"
+  },
+  {
+    "Date": "2026-05-05",
+    "HomeTeam": "PUMPA Basket Brno",
+    "AwayTeam": "BK ARMEX ENERGY D\u011B\u010D\u00EDn",
+    "Time": "16:00"
   },
   {
     "Date": "2026-05-05",
