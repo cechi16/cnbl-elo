@@ -2208,5 +2208,15 @@
     "Source": "flashscore.com",
     "Verified": true,
     "MatchKey": "2026-04-29_bk_gapa_hradec_kr\u00E1lov\u00E9_skb_fastav_zl\u00EDn"
+  },
+  {
+    "HomeTeam": "SLUNETA \u00DAst\u00ED nad Labem",
+    "AwayTeam": "BK Opava",
+    "HomeScore": 93,
+    "AwayScore": 86,
+    "Date": "2026-04-29",
+    "Source": "flashscore.com",
+    "Verified": true,
+    "MatchKey": "2026-04-29_sluneta_\u00FAst\u00ED_nad_labem_bk_opava"
   }
 ]
