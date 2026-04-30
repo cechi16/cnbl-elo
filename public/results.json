@@ -2218,5 +2218,15 @@
     "Source": "flashscore.com",
     "Verified": true,
     "MatchKey": "2026-04-29_sluneta_\u00FAst\u00ED_nad_labem_bk_opava"
+  },
+  {
+    "HomeTeam": "ERA Basketball Nymburk",
+    "AwayTeam": "NH Ostrava",
+    "HomeScore": 113,
+    "AwayScore": 69,
+    "Date": "2026-04-30",
+    "Source": "flashscore.com",
+    "Verified": true,
+    "MatchKey": "2026-04-30_era_basketball_nymburk_nh_ostrava"
   }
 ]
