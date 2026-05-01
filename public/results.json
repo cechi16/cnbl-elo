@@ -2238,5 +2238,15 @@
     "Source": "flashscore.com",
     "Verified": true,
     "MatchKey": "2026-04-30_bk_kvis_pardubice_sr\u0161ni_photomate_p\u00EDsek"
+  },
+  {
+    "HomeTeam": "ERA Basketball Nymburk",
+    "AwayTeam": "NH Ostrava",
+    "HomeScore": 101,
+    "AwayScore": 69,
+    "Date": "2026-05-01",
+    "Source": "flashscore.com",
+    "Verified": true,
+    "MatchKey": "2026-05-01_era_basketball_nymburk_nh_ostrava"
   }
 ]
