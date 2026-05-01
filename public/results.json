@@ -2248,5 +2248,25 @@
     "Source": "flashscore.com",
     "Verified": true,
     "MatchKey": "2026-05-01_era_basketball_nymburk_nh_ostrava"
+  },
+  {
+    "HomeTeam": "BK KVIS Pardubice",
+    "AwayTeam": "Sr\u0161ni Photomate P\u00EDsek",
+    "HomeScore": 78,
+    "AwayScore": 74,
+    "Date": "2026-05-01",
+    "Source": "flashscore.com",
+    "Verified": true,
+    "MatchKey": "2026-05-01_bk_kvis_pardubice_sr\u0161ni_photomate_p\u00EDsek"
+  },
+  {
+    "HomeTeam": "BK ARMEX ENERGY D\u011B\u010D\u00EDn",
+    "AwayTeam": "PUMPA Basket Brno",
+    "HomeScore": 82,
+    "AwayScore": 66,
+    "Date": "2026-05-01",
+    "Source": "flashscore.com",
+    "Verified": true,
+    "MatchKey": "2026-05-01_bk_armex_energy_d\u011B\u010D\u00EDn_pumpa_basket_brno"
   }
 ]
