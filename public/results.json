@@ -2268,5 +2268,25 @@
     "Source": "flashscore.com",
     "Verified": true,
     "MatchKey": "2026-05-01_bk_armex_energy_d\u011B\u010D\u00EDn_pumpa_basket_brno"
+  },
+  {
+    "HomeTeam": "BK Opava",
+    "AwayTeam": "SLUNETA \u00DAst\u00ED nad Labem",
+    "HomeScore": 85,
+    "AwayScore": 69,
+    "Date": "2026-05-02",
+    "Source": "flashscore.com",
+    "Verified": true,
+    "MatchKey": "2026-05-02_bk_opava_sluneta_\u00FAst\u00ED_nad_labem"
+  },
+  {
+    "HomeTeam": "BK ARMEX ENERGY D\u011B\u010D\u00EDn",
+    "AwayTeam": "PUMPA Basket Brno",
+    "HomeScore": 84,
+    "AwayScore": 75,
+    "Date": "2026-05-02",
+    "Source": "flashscore.com",
+    "Verified": true,
+    "MatchKey": "2026-05-02_bk_armex_energy_d\u011B\u010D\u00EDn_pumpa_basket_brno"
   }
 ]
