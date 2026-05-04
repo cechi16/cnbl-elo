@@ -2298,5 +2298,25 @@
     "Source": "flashscore.com",
     "Verified": true,
     "MatchKey": "2026-05-03_bk_opava_sluneta_\u00FAst\u00ED_nad_labem"
+  },
+  {
+    "HomeTeam": "NH Ostrava",
+    "AwayTeam": "ERA Basketball Nymburk",
+    "HomeScore": 71,
+    "AwayScore": 93,
+    "Date": "2026-05-04",
+    "Source": "flashscore.com",
+    "Verified": true,
+    "MatchKey": "2026-05-04_nh_ostrava_era_basketball_nymburk"
+  },
+  {
+    "HomeTeam": "Sr\u0161ni Photomate P\u00EDsek",
+    "AwayTeam": "BK KVIS Pardubice",
+    "HomeScore": 63,
+    "AwayScore": 78,
+    "Date": "2026-05-04",
+    "Source": "flashscore.com",
+    "Verified": true,
+    "MatchKey": "2026-05-04_sr\u0161ni_photomate_p\u00EDsek_bk_kvis_pardubice"
   }
 ]
