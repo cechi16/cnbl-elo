@@ -2348,5 +2348,15 @@
     "Source": "flashscore.com",
     "Verified": true,
     "MatchKey": "2026-05-05_sr\u0161ni_photomate_p\u00EDsek_bk_kvis_pardubice"
+  },
+  {
+    "HomeTeam": "SLUNETA \u00DAst\u00ED nad Labem",
+    "AwayTeam": "BK Opava",
+    "HomeScore": 87,
+    "AwayScore": 72,
+    "Date": "2026-05-06",
+    "Source": "flashscore.com",
+    "Verified": true,
+    "MatchKey": "2026-05-06_sluneta_\u00FAst\u00ED_nad_labem_bk_opava"
   }
 ]
