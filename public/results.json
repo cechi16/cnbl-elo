@@ -2358,5 +2358,15 @@
     "Source": "flashscore.com",
     "Verified": true,
     "MatchKey": "2026-05-06_sluneta_\u00FAst\u00ED_nad_labem_bk_opava"
+  },
+  {
+    "HomeTeam": "BK ARMEX ENERGY D\u011B\u010D\u00EDn",
+    "AwayTeam": "PUMPA Basket Brno",
+    "HomeScore": 81,
+    "AwayScore": 86,
+    "Date": "2026-05-08",
+    "Source": "flashscore.com",
+    "Verified": true,
+    "MatchKey": "2026-05-08_bk_armex_energy_d\u011B\u010D\u00EDn_pumpa_basket_brno"
   }
 ]
