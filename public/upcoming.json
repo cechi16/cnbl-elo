@@ -1,8 +1,50 @@
 [
   {
-    "Date": "2026-05-11",
-    "HomeTeam": "PUMPA Basket Brno",
-    "AwayTeam": "BK ARMEX ENERGY D\u011B\u010D\u00EDn",
+    "Date": "2026-05-15",
+    "HomeTeam": "ERA Basketball Nymburk",
+    "AwayTeam": "BK Opava",
     "Time": ""
+  },
+  {
+    "Date": "2026-05-16",
+    "HomeTeam": "ERA Basketball Nymburk",
+    "AwayTeam": "BK Opava",
+    "Time": "13:00"
+  },
+  {
+    "Date": "2026-05-17",
+    "HomeTeam": "BK KVIS Pardubice",
+    "AwayTeam": "PUMPA Basket Brno",
+    "Time": "14:00"
+  },
+  {
+    "Date": "2026-05-18",
+    "HomeTeam": "BK KVIS Pardubice",
+    "AwayTeam": "PUMPA Basket Brno",
+    "Time": "15:30"
+  },
+  {
+    "Date": "2026-05-19",
+    "HomeTeam": "BK Opava",
+    "AwayTeam": "ERA Basketball Nymburk",
+    "Time": "16:00"
+  },
+  {
+    "Date": "2026-05-20",
+    "HomeTeam": "BK Opava",
+    "AwayTeam": "ERA Basketball Nymburk",
+    "Time": "16:00"
+  },
+  {
+    "Date": "2026-05-21",
+    "HomeTeam": "PUMPA Basket Brno",
+    "AwayTeam": "BK KVIS Pardubice",
+    "Time": "16:00"
+  },
+  {
+    "Date": "2026-05-22",
+    "HomeTeam": "PUMPA Basket Brno",
+    "AwayTeam": "BK KVIS Pardubice",
+    "Time": "16:00"
   }
 ]
