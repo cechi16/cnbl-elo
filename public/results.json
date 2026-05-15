@@ -2388,5 +2388,15 @@
     "Source": "flashscore.com",
     "Verified": true,
     "MatchKey": "2026-05-11_pumpa_basket_brno_bk_armex_energy_d\u011B\u010D\u00EDn"
+  },
+  {
+    "HomeTeam": "ERA Basketball Nymburk",
+    "AwayTeam": "BK Opava",
+    "HomeScore": 116,
+    "AwayScore": 79,
+    "Date": "2026-05-15",
+    "Source": "flashscore.com",
+    "Verified": true,
+    "MatchKey": "2026-05-15_era_basketball_nymburk_bk_opava"
   }
 ]
