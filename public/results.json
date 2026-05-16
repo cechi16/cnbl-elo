@@ -2398,5 +2398,15 @@
     "Source": "flashscore.com",
     "Verified": true,
     "MatchKey": "2026-05-15_era_basketball_nymburk_bk_opava"
+  },
+  {
+    "HomeTeam": "ERA Basketball Nymburk",
+    "AwayTeam": "BK Opava",
+    "HomeScore": 92,
+    "AwayScore": 67,
+    "Date": "2026-05-16",
+    "Source": "flashscore.com",
+    "Verified": true,
+    "MatchKey": "2026-05-16_era_basketball_nymburk_bk_opava"
   }
 ]
