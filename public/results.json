@@ -2408,5 +2408,15 @@
     "Source": "flashscore.com",
     "Verified": true,
     "MatchKey": "2026-05-16_era_basketball_nymburk_bk_opava"
+  },
+  {
+    "HomeTeam": "BK KVIS Pardubice",
+    "AwayTeam": "PUMPA Basket Brno",
+    "HomeScore": 82,
+    "AwayScore": 85,
+    "Date": "2026-05-17",
+    "Source": "flashscore.com",
+    "Verified": true,
+    "MatchKey": "2026-05-17_bk_kvis_pardubice_pumpa_basket_brno"
   }
 ]
